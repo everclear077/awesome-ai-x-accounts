@@ -69,7 +69,7 @@
 | [📰 媒体、访谈与解读](#media) | 8 |
 
 **类型**：个人 / 组织 / 媒体。**语言**：常见内容语言，非逐帖统计。
-每行的“依据”链接通往该账号的来源记录。需要特殊说明的条目带有备注。
+每行的“来源依据”链接通往该账号的来源记录。需要特殊说明的条目带有备注。
 
 <a id="research"></a>
 
@@ -77,18 +77,18 @@
 
 Research · **10 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Andrew Ng**<br />[@AndrewYNg](https://x.com/AndrewYNg) | 个人 · 英文 | 机器学习教育、AI 应用开发与行业观察。 | [依据](docs/sources.md#andrewyng) |
-| **Demis Hassabis**<br />[@demishassabis](https://x.com/demishassabis) | 个人 · 英文 | 通用人工智能、科学发现与研究进展。 | [依据](docs/sources.md#demishassabis) |
-| **Fei-Fei Li**<br />[@drfeifei](https://x.com/drfeifei) | 个人 · 英文 | 计算机视觉、空间智能与以人为本的 AI。 | [依据](docs/sources.md#drfeifei) |
-| **François Chollet**<br />[@fchollet](https://x.com/fchollet) | 个人 · 英文 | 深度学习、智能评测与泛化能力讨论。 | [依据](docs/sources.md#fchollet) |
-| **Geoffrey Hinton**<br />[@geoffreyhinton](https://x.com/geoffreyhinton) | 个人 · 英文 | 深度学习基础、模型能力与风险讨论。 | [依据](docs/sources.md#geoffreyhinton) |
-| **Ian Goodfellow**<br />[@goodfellow\_ian](https://x.com/goodfellow_ian) | 个人 · 英文 | 深度学习、生成模型与机器学习研究。 | [依据](docs/sources.md#goodfellow_ian) |
-| **Ilya Sutskever**<br />[@ilyasut](https://x.com/ilyasut) | 个人 · 英文 | 深度学习研究与模型能力相关的一手观点。 | [依据](docs/sources.md#ilyasut) |
-| **Andrej Karpathy**<br />[@karpathy](https://x.com/karpathy) | 个人 · 英文 | 神经网络原理、模型训练与 AI 编程的长篇解释。 | [依据](docs/sources.md#karpathy) |
-| **Melanie Mitchell**<br />[@MelMitchell1](https://x.com/MelMitchell1) | 个人 · 英文 | AI 概念、类比推理与能力边界分析。<br /><sub>存在历史帖子来源；近期发帖频率未核验。</sub> | [依据](docs/sources.md#melmitchell1) |
-| **Yann LeCun**<br />[@ylecun](https://x.com/ylecun) | 个人 · 英文 | 表示学习、世界模型与 AI 研究方向的讨论。<br /><sub>个人主页说明已减少在 X 原创发文，主要发布链接或转发；也可关注其个人网站。</sub> | [依据](docs/sources.md#ylecun) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Andrew Ng**<br />[@AndrewYNg](https://x.com/AndrewYNg)<br /><sub>个人 · 英文</sub> | 机器学习教育、AI 应用开发与行业观察。<br />[来源依据](docs/sources.md#andrewyng) |
+| **Demis Hassabis**<br />[@demishassabis](https://x.com/demishassabis)<br /><sub>个人 · 英文</sub> | 通用人工智能、科学发现与研究进展。<br />[来源依据](docs/sources.md#demishassabis) |
+| **Fei-Fei Li**<br />[@drfeifei](https://x.com/drfeifei)<br /><sub>个人 · 英文</sub> | 计算机视觉、空间智能与以人为本的 AI。<br />[来源依据](docs/sources.md#drfeifei) |
+| **François Chollet**<br />[@fchollet](https://x.com/fchollet)<br /><sub>个人 · 英文</sub> | 深度学习、智能评测与泛化能力讨论。<br />[来源依据](docs/sources.md#fchollet) |
+| **Geoffrey Hinton**<br />[@geoffreyhinton](https://x.com/geoffreyhinton)<br /><sub>个人 · 英文</sub> | 深度学习基础、模型能力与风险讨论。<br />[来源依据](docs/sources.md#geoffreyhinton) |
+| **Ian Goodfellow**<br />[@goodfellow\_ian](https://x.com/goodfellow_ian)<br /><sub>个人 · 英文</sub> | 深度学习、生成模型与机器学习研究。<br />[来源依据](docs/sources.md#goodfellow_ian) |
+| **Ilya Sutskever**<br />[@ilyasut](https://x.com/ilyasut)<br /><sub>个人 · 英文</sub> | 深度学习研究与模型能力相关的一手观点。<br />[来源依据](docs/sources.md#ilyasut) |
+| **Andrej Karpathy**<br />[@karpathy](https://x.com/karpathy)<br /><sub>个人 · 英文</sub> | 神经网络原理、模型训练与 AI 编程的长篇解释。<br />[来源依据](docs/sources.md#karpathy) |
+| **Melanie Mitchell**<br />[@MelMitchell1](https://x.com/MelMitchell1)<br /><sub>个人 · 英文</sub> | AI 概念、类比推理与能力边界分析。<br /><sub>存在历史帖子来源；近期发帖频率未核验。</sub><br />[来源依据](docs/sources.md#melmitchell1) |
+| **Yann LeCun**<br />[@ylecun](https://x.com/ylecun)<br /><sub>个人 · 英文</sub> | 表示学习、世界模型与 AI 研究方向的讨论。<br /><sub>个人主页说明已减少在 X 原创发文，主要发布链接或转发；也可关注其个人网站。</sub><br />[来源依据](docs/sources.md#ylecun) |
 
 [↑ 返回分类目录](#directory)
 
@@ -98,16 +98,16 @@ Research · **10 个账号**
 
 LLMs &amp; learning · **8 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Yao Fu**<br />[@Francis\_YAO\_](https://x.com/Francis_YAO_) | 个人 · 英文 | 语言模型训练、推理与研究分析。<br /><sub>X 用户名依据个人博客链接核对，与 GitHub 用户名不同。</sub> | [依据](docs/sources.md#francis_yao_) |
-| **Jay Alammar**<br />[@JayAlammar](https://x.com/JayAlammar) | 个人 · 英文 | 用可视化解释 Transformer、嵌入和语言模型。 | [依据](docs/sources.md#jayalammar) |
-| **Nathan Lambert**<br />[@natolambert](https://x.com/natolambert) | 个人 · 英文 | 模型后训练、偏好学习与开放模型研究。 | [依据](docs/sources.md#natolambert) |
-| **Elvis Saravia**<br />[@omarsar0](https://x.com/omarsar0) | 个人 · 英文 | 提示工程、LLM 论文与开发学习资源。 | [依据](docs/sources.md#omarsar0) |
-| **Sebastian Raschka**<br />[@rasbt](https://x.com/rasbt) | 个人 · 英文 | 用代码讲解大语言模型训练与机器学习方法。 | [依据](docs/sources.md#rasbt) |
-| **Sebastian Ruder**<br />[@seb\_ruder](https://x.com/seb_ruder) | 个人 · 英文 | 自然语言处理、多语言模型与研究阅读。 | [依据](docs/sources.md#seb_ruder) |
-| **Luis Serrano**<br />[@SerranoAcademy](https://x.com/SerranoAcademy) | 个人 · 英文 | 以直观例子讲解机器学习与生成式 AI。 | [依据](docs/sources.md#serranoacademy) |
-| **Alexander Rush**<br />[@srush\_nlp](https://x.com/srush_nlp) | 个人 · 英文 | 自然语言处理、模型效率与研究工具。 | [依据](docs/sources.md#srush_nlp) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Yao Fu**<br />[@Francis\_YAO\_](https://x.com/Francis_YAO_)<br /><sub>个人 · 英文</sub> | 语言模型训练、推理与研究分析。<br /><sub>X 用户名依据个人博客链接核对，与 GitHub 用户名不同。</sub><br />[来源依据](docs/sources.md#francis_yao_) |
+| **Jay Alammar**<br />[@JayAlammar](https://x.com/JayAlammar)<br /><sub>个人 · 英文</sub> | 用可视化解释 Transformer、嵌入和语言模型。<br />[来源依据](docs/sources.md#jayalammar) |
+| **Nathan Lambert**<br />[@natolambert](https://x.com/natolambert)<br /><sub>个人 · 英文</sub> | 模型后训练、偏好学习与开放模型研究。<br />[来源依据](docs/sources.md#natolambert) |
+| **Elvis Saravia**<br />[@omarsar0](https://x.com/omarsar0)<br /><sub>个人 · 英文</sub> | 提示工程、LLM 论文与开发学习资源。<br />[来源依据](docs/sources.md#omarsar0) |
+| **Sebastian Raschka**<br />[@rasbt](https://x.com/rasbt)<br /><sub>个人 · 英文</sub> | 用代码讲解大语言模型训练与机器学习方法。<br />[来源依据](docs/sources.md#rasbt) |
+| **Sebastian Ruder**<br />[@seb\_ruder](https://x.com/seb_ruder)<br /><sub>个人 · 英文</sub> | 自然语言处理、多语言模型与研究阅读。<br />[来源依据](docs/sources.md#seb_ruder) |
+| **Luis Serrano**<br />[@SerranoAcademy](https://x.com/SerranoAcademy)<br /><sub>个人 · 英文</sub> | 以直观例子讲解机器学习与生成式 AI。<br />[来源依据](docs/sources.md#serranoacademy) |
+| **Alexander Rush**<br />[@srush\_nlp](https://x.com/srush_nlp)<br /><sub>个人 · 英文</sub> | 自然语言处理、模型效率与研究工具。<br />[来源依据](docs/sources.md#srush_nlp) |
 
 [↑ 返回分类目录](#directory)
 
@@ -117,17 +117,17 @@ LLMs &amp; learning · **8 个账号**
 
 Agents &amp; evaluation · **9 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Chip Huyen**<br />[@chipro](https://x.com/chipro) | 个人 · 英文 | AI 系统设计、评测与模型应用工程。 | [依据](docs/sources.md#chipro) |
-| **Eugene Yan**<br />[@eugeneyan](https://x.com/eugeneyan) | 个人 · 英文 | 推荐系统、LLM 应用与生产系统经验。 | [依据](docs/sources.md#eugeneyan) |
-| **Hamel Husain**<br />[@HamelHusain](https://x.com/HamelHusain) | 个人 · 英文 | LLM 评测、错误分析与应用开发实践。 | [依据](docs/sources.md#hamelhusain) |
-| **Harrison Chase**<br />[@hwchase17](https://x.com/hwchase17) | 个人 · 英文 | Agent 编排、工具调用与 LangChain 生态。 | [依据](docs/sources.md#hwchase17) |
-| **Jerry Liu**<br />[@jerryjliu0](https://x.com/jerryjliu0) | 个人 · 英文 | 数据检索、知识库与 LlamaIndex 生态。 | [依据](docs/sources.md#jerryjliu0) |
-| **Jason Liu**<br />[@jxnlco](https://x.com/jxnlco) | 个人 · 英文 | 结构化抽取、LLM 工作流与评测实践。 | [依据](docs/sources.md#jxnlco) |
-| **Shreya Shankar**<br />[@sh\_reya](https://x.com/sh_reya) | 个人 · 英文 | 数据系统、LLM 评测与人机协作研究。 | [依据](docs/sources.md#sh_reya) |
-| **Simon Willison**<br />[@simonw](https://x.com/simonw) | 个人 · 英文 | LLM 工具实测、提示注入与软件工程记录。 | [依据](docs/sources.md#simonw) |
-| **Shawn Wang**<br />[@swyx](https://x.com/swyx) | 个人 · 英文 | AI 工程生态、Agent 实践与开发者访谈。 | [依据](docs/sources.md#swyx) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Chip Huyen**<br />[@chipro](https://x.com/chipro)<br /><sub>个人 · 英文</sub> | AI 系统设计、评测与模型应用工程。<br />[来源依据](docs/sources.md#chipro) |
+| **Eugene Yan**<br />[@eugeneyan](https://x.com/eugeneyan)<br /><sub>个人 · 英文</sub> | 推荐系统、LLM 应用与生产系统经验。<br />[来源依据](docs/sources.md#eugeneyan) |
+| **Hamel Husain**<br />[@HamelHusain](https://x.com/HamelHusain)<br /><sub>个人 · 英文</sub> | LLM 评测、错误分析与应用开发实践。<br />[来源依据](docs/sources.md#hamelhusain) |
+| **Harrison Chase**<br />[@hwchase17](https://x.com/hwchase17)<br /><sub>个人 · 英文</sub> | Agent 编排、工具调用与 LangChain 生态。<br />[来源依据](docs/sources.md#hwchase17) |
+| **Jerry Liu**<br />[@jerryjliu0](https://x.com/jerryjliu0)<br /><sub>个人 · 英文</sub> | 数据检索、知识库与 LlamaIndex 生态。<br />[来源依据](docs/sources.md#jerryjliu0) |
+| **Jason Liu**<br />[@jxnlco](https://x.com/jxnlco)<br /><sub>个人 · 英文</sub> | 结构化抽取、LLM 工作流与评测实践。<br />[来源依据](docs/sources.md#jxnlco) |
+| **Shreya Shankar**<br />[@sh\_reya](https://x.com/sh_reya)<br /><sub>个人 · 英文</sub> | 数据系统、LLM 评测与人机协作研究。<br />[来源依据](docs/sources.md#sh_reya) |
+| **Simon Willison**<br />[@simonw](https://x.com/simonw)<br /><sub>个人 · 英文</sub> | LLM 工具实测、提示注入与软件工程记录。<br />[来源依据](docs/sources.md#simonw) |
+| **Shawn Wang**<br />[@swyx](https://x.com/swyx)<br /><sub>个人 · 英文</sub> | AI 工程生态、Agent 实践与开发者访谈。<br />[来源依据](docs/sources.md#swyx) |
 
 [↑ 返回分类目录](#directory)
 
@@ -137,18 +137,18 @@ Agents &amp; evaluation · **9 个账号**
 
 AI coding &amp; development · **10 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Aman Sanger**<br />[@amanrsanger](https://x.com/amanrsanger) | 个人 · 英文 | AI 编程产品、代码库理解与开发体验。 | [依据](docs/sources.md#amanrsanger) |
-| **Boris Cherny**<br />[@bcherny](https://x.com/bcherny) | 个人 · 英文 | 编码 Agent 产品与开发工作流经验。 | [依据](docs/sources.md#bcherny) |
-| **Lee Robinson**<br />[@leerob](https://x.com/leerob) | 个人 · 英文 | Web 工程、AI 开发工具与实践教程。<br /><sub>旧账号 @leeerob 的简介提示已迁移至 @leerob。</sub> | [依据](docs/sources.md#leerob) |
-| **Matt Shumer**<br />[@mattshumer\_](https://x.com/mattshumer_) | 个人 · 英文 | AI 工具应用、Agent 工作流与产品实验。 | [依据](docs/sources.md#mattshumer_) |
-| **Michael Truell**<br />[@mntruell](https://x.com/mntruell) | 个人 · 英文 | AI 编程编辑器与软件开发方式探索。 | [依据](docs/sources.md#mntruell) |
-| **Hassan El Mghari**<br />[@nutlope](https://x.com/nutlope) | 个人 · 英文 | 开源 AI 应用、Web 示例与开发教程。 | [依据](docs/sources.md#nutlope) |
-| **Guillermo Rauch**<br />[@rauchg](https://x.com/rauchg) | 个人 · 英文 | Web 开发、AI 应用界面与开发平台。 | [依据](docs/sources.md#rauchg) |
-| **Sarah Drasner**<br />[@sarah\_edo](https://x.com/sarah_edo) | 个人 · 英文 | 软件工程、开发体验与 AI 辅助开发讨论。 | [依据](docs/sources.md#sarah_edo) |
-| **Peter Steinberger**<br />[@steipete](https://x.com/steipete) | 个人 · 英文 | 编码 Agent、开发工具和真实项目实践。 | [依据](docs/sources.md#steipete) |
-| **Thariq Shihipar**<br />[@trq212](https://x.com/trq212) | 个人 · 英文 | AI 编程工具、交互设计与 Agent 使用经验。 | [依据](docs/sources.md#trq212) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Aman Sanger**<br />[@amanrsanger](https://x.com/amanrsanger)<br /><sub>个人 · 英文</sub> | AI 编程产品、代码库理解与开发体验。<br />[来源依据](docs/sources.md#amanrsanger) |
+| **Boris Cherny**<br />[@bcherny](https://x.com/bcherny)<br /><sub>个人 · 英文</sub> | 编码 Agent 产品与开发工作流经验。<br />[来源依据](docs/sources.md#bcherny) |
+| **Lee Robinson**<br />[@leerob](https://x.com/leerob)<br /><sub>个人 · 英文</sub> | Web 工程、AI 开发工具与实践教程。<br /><sub>旧账号 @leeerob 的简介提示已迁移至 @leerob。</sub><br />[来源依据](docs/sources.md#leerob) |
+| **Matt Shumer**<br />[@mattshumer\_](https://x.com/mattshumer_)<br /><sub>个人 · 英文</sub> | AI 工具应用、Agent 工作流与产品实验。<br />[来源依据](docs/sources.md#mattshumer_) |
+| **Michael Truell**<br />[@mntruell](https://x.com/mntruell)<br /><sub>个人 · 英文</sub> | AI 编程编辑器与软件开发方式探索。<br />[来源依据](docs/sources.md#mntruell) |
+| **Hassan El Mghari**<br />[@nutlope](https://x.com/nutlope)<br /><sub>个人 · 英文</sub> | 开源 AI 应用、Web 示例与开发教程。<br />[来源依据](docs/sources.md#nutlope) |
+| **Guillermo Rauch**<br />[@rauchg](https://x.com/rauchg)<br /><sub>个人 · 英文</sub> | Web 开发、AI 应用界面与开发平台。<br />[来源依据](docs/sources.md#rauchg) |
+| **Sarah Drasner**<br />[@sarah\_edo](https://x.com/sarah_edo)<br /><sub>个人 · 英文</sub> | 软件工程、开发体验与 AI 辅助开发讨论。<br />[来源依据](docs/sources.md#sarah_edo) |
+| **Peter Steinberger**<br />[@steipete](https://x.com/steipete)<br /><sub>个人 · 英文</sub> | 编码 Agent、开发工具和真实项目实践。<br />[来源依据](docs/sources.md#steipete) |
+| **Thariq Shihipar**<br />[@trq212](https://x.com/trq212)<br /><sub>个人 · 英文</sub> | AI 编程工具、交互设计与 Agent 使用经验。<br />[来源依据](docs/sources.md#trq212) |
 
 [↑ 返回分类目录](#directory)
 
@@ -158,17 +158,17 @@ AI coding &amp; development · **10 个账号**
 
 Open source &amp; infrastructure · **9 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **anton**<br />[@abacaj](https://x.com/abacaj) | 个人 · 英文 | 本地模型、推理工程与 AI 开发实验。 | [依据](docs/sources.md#abacaj) |
-| **Georgi Gerganov**<br />[@ggerganov](https://x.com/ggerganov) | 个人 · 英文 | 本地推理、量化与轻量模型运行时。 | [依据](docs/sources.md#ggerganov) |
-| **Hugging Face**<br />[@huggingface](https://x.com/huggingface) | 组织 · 英文 | 模型、数据集、开源库与社区项目动态。 | [依据](docs/sources.md#huggingface) |
-| **LangChain**<br />[@LangChainAI](https://x.com/LangChainAI) | 组织 · 英文 | Agent 框架、工具集成与工程教程。 | [依据](docs/sources.md#langchainai) |
-| **LlamaIndex**<br />[@llama\_index](https://x.com/llama_index) | 组织 · 英文 | 检索增强、数据连接与 Agent 应用资料。 | [依据](docs/sources.md#llama_index) |
-| **Ollama**<br />[@ollama](https://x.com/ollama) | 组织 · 英文 | 本地模型运行工具、集成示例与发布信息。 | [依据](docs/sources.md#ollama) |
-| **Teknium**<br />[@Teknium](https://x.com/Teknium) | 个人 · 英文 | 开放模型、指令数据与模型训练实践。<br /><sub>个人 GitHub 主页指向 @Teknium；旧资料中的 @Teknium1 不作为当前入口。</sub> | [依据](docs/sources.md#teknium) |
-| **Thomas Wolf**<br />[@Thom\_Wolf](https://x.com/Thom_Wolf) | 个人 · 英文 | 开放模型、机器学习工具与研究生态。 | [依据](docs/sources.md#thom_wolf) |
-| **vLLM**<br />[@vllm\_project](https://x.com/vllm_project) | 组织 · 英文 | 高吞吐模型服务、推理引擎与版本动态。 | [依据](docs/sources.md#vllm_project) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **anton**<br />[@abacaj](https://x.com/abacaj)<br /><sub>个人 · 英文</sub> | 本地模型、推理工程与 AI 开发实验。<br />[来源依据](docs/sources.md#abacaj) |
+| **Georgi Gerganov**<br />[@ggerganov](https://x.com/ggerganov)<br /><sub>个人 · 英文</sub> | 本地推理、量化与轻量模型运行时。<br />[来源依据](docs/sources.md#ggerganov) |
+| **Hugging Face**<br />[@huggingface](https://x.com/huggingface)<br /><sub>组织 · 英文</sub> | 模型、数据集、开源库与社区项目动态。<br />[来源依据](docs/sources.md#huggingface) |
+| **LangChain**<br />[@LangChainAI](https://x.com/LangChainAI)<br /><sub>组织 · 英文</sub> | Agent 框架、工具集成与工程教程。<br />[来源依据](docs/sources.md#langchainai) |
+| **LlamaIndex**<br />[@llama\_index](https://x.com/llama_index)<br /><sub>组织 · 英文</sub> | 检索增强、数据连接与 Agent 应用资料。<br />[来源依据](docs/sources.md#llama_index) |
+| **Ollama**<br />[@ollama](https://x.com/ollama)<br /><sub>组织 · 英文</sub> | 本地模型运行工具、集成示例与发布信息。<br />[来源依据](docs/sources.md#ollama) |
+| **Teknium**<br />[@Teknium](https://x.com/Teknium)<br /><sub>个人 · 英文</sub> | 开放模型、指令数据与模型训练实践。<br /><sub>个人 GitHub 主页指向 @Teknium；旧资料中的 @Teknium1 不作为当前入口。</sub><br />[来源依据](docs/sources.md#teknium) |
+| **Thomas Wolf**<br />[@Thom\_Wolf](https://x.com/Thom_Wolf)<br /><sub>个人 · 英文</sub> | 开放模型、机器学习工具与研究生态。<br />[来源依据](docs/sources.md#thom_wolf) |
+| **vLLM**<br />[@vllm\_project](https://x.com/vllm_project)<br /><sub>组织 · 英文</sub> | 高吞吐模型服务、推理引擎与版本动态。<br />[来源依据](docs/sources.md#vllm_project) |
 
 [↑ 返回分类目录](#directory)
 
@@ -178,17 +178,17 @@ Open source &amp; infrastructure · **9 个账号**
 
 Image, video &amp; audio · **9 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Alex Volkov**<br />[@altryne](https://x.com/altryne) | 个人 · 英文 | 生成式 AI 工具、原型与创作实践。 | [依据](docs/sources.md#altryne) |
-| **camenduru**<br />[@camenduru](https://x.com/camenduru) | 个人 · 英文 | 图像、视频与多模态开源模型运行资源。 | [依据](docs/sources.md#camenduru) |
-| **Alexander Doria**<br />[@Dorialexander](https://x.com/Dorialexander) | 个人 · 英文 | 生成式模型、AI 创作与技术观察。 | [依据](docs/sources.md#dorialexander) |
-| **ElevenLabs**<br />[@ElevenLabs](https://x.com/ElevenLabs) | 组织 · 英文 | 语音合成、音频生成与语音 Agent 动态。 | [依据](docs/sources.md#elevenlabs) |
-| **fofr**<br />[@fofrAI](https://x.com/fofrAI) | 个人 · 英文 | 图像与视频生成模型的实践和开源实验。 | [依据](docs/sources.md#fofrai) |
-| **Apolinário Passos**<br />[@multimodalart](https://x.com/multimodalart) | 个人 · 英文 | 开源生成模型、创意 Demo 与社区项目。 | [依据](docs/sources.md#multimodalart) |
-| **Pika**<br />[@pika\_labs](https://x.com/pika_labs) | 组织 · 英文 | AI 视频创作工具与官方案例。 | [依据](docs/sources.md#pika_labs) |
-| **Replicate**<br />[@replicate](https://x.com/replicate) | 组织 · 英文 | 模型运行 API、生成式应用与开发示例。 | [依据](docs/sources.md#replicate) |
-| **Runway**<br />[@runwayml](https://x.com/runwayml) | 组织 · 英文 | 视频生成、编辑与创作工具发布。 | [依据](docs/sources.md#runwayml) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Alex Volkov**<br />[@altryne](https://x.com/altryne)<br /><sub>个人 · 英文</sub> | 生成式 AI 工具、原型与创作实践。<br />[来源依据](docs/sources.md#altryne) |
+| **camenduru**<br />[@camenduru](https://x.com/camenduru)<br /><sub>个人 · 英文</sub> | 图像、视频与多模态开源模型运行资源。<br />[来源依据](docs/sources.md#camenduru) |
+| **Alexander Doria**<br />[@Dorialexander](https://x.com/Dorialexander)<br /><sub>个人 · 英文</sub> | 生成式模型、AI 创作与技术观察。<br />[来源依据](docs/sources.md#dorialexander) |
+| **ElevenLabs**<br />[@ElevenLabs](https://x.com/ElevenLabs)<br /><sub>组织 · 英文</sub> | 语音合成、音频生成与语音 Agent 动态。<br />[来源依据](docs/sources.md#elevenlabs) |
+| **fofr**<br />[@fofrAI](https://x.com/fofrAI)<br /><sub>个人 · 英文</sub> | 图像与视频生成模型的实践和开源实验。<br />[来源依据](docs/sources.md#fofrai) |
+| **Apolinário Passos**<br />[@multimodalart](https://x.com/multimodalart)<br /><sub>个人 · 英文</sub> | 开源生成模型、创意 Demo 与社区项目。<br />[来源依据](docs/sources.md#multimodalart) |
+| **Pika**<br />[@pika\_labs](https://x.com/pika_labs)<br /><sub>组织 · 英文</sub> | AI 视频创作工具与官方案例。<br />[来源依据](docs/sources.md#pika_labs) |
+| **Replicate**<br />[@replicate](https://x.com/replicate)<br /><sub>组织 · 英文</sub> | 模型运行 API、生成式应用与开发示例。<br />[来源依据](docs/sources.md#replicate) |
+| **Runway**<br />[@runwayml](https://x.com/runwayml)<br /><sub>组织 · 英文</sub> | 视频生成、编辑与创作工具发布。<br />[来源依据](docs/sources.md#runwayml) |
 
 [↑ 返回分类目录](#directory)
 
@@ -198,15 +198,15 @@ Image, video &amp; audio · **9 个账号**
 
 Robotics &amp; spatial AI · **7 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **1X**<br />[@1X\_Tech](https://x.com/1X_Tech) | 组织 · 英文 | 家庭机器人与具身智能产品动态。 | [依据](docs/sources.md#1x_tech) |
-| **Chelsea Finn**<br />[@chelseabfinn](https://x.com/chelseabfinn) | 个人 · 英文 | 机器人学习、元学习与泛化研究。 | [依据](docs/sources.md#chelseabfinn) |
-| **Jim Fan**<br />[@DrJimFan](https://x.com/DrJimFan) | 个人 · 英文 | 具身智能、机器人学习与仿真研究。 | [依据](docs/sources.md#drjimfan) |
-| **Google DeepMind**<br />[@GoogleDeepMind](https://x.com/GoogleDeepMind) | 组织 · 英文 | 多模态模型、机器人与 AI 科研进展。 | [依据](docs/sources.md#googledeepmind) |
-| **Karol Hausman**<br />[@hausman\_k](https://x.com/hausman_k) | 个人 · 英文 | 机器人基础模型与通用机器人学习。 | [依据](docs/sources.md#hausman_k) |
-| **Physical Intelligence**<br />[@Physical\_Int](https://x.com/Physical_Int) | 组织 · 英文 | 机器人基础模型与操作任务研究动态。 | [依据](docs/sources.md#physical_int) |
-| **Sergey Levine**<br />[@svlevine](https://x.com/svlevine) | 个人 · 英文 | 机器人控制、强化学习与学习型智能体。 | [依据](docs/sources.md#svlevine) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **1X**<br />[@1X\_Tech](https://x.com/1X_Tech)<br /><sub>组织 · 英文</sub> | 家庭机器人与具身智能产品动态。<br />[来源依据](docs/sources.md#1x_tech) |
+| **Chelsea Finn**<br />[@chelseabfinn](https://x.com/chelseabfinn)<br /><sub>个人 · 英文</sub> | 机器人学习、元学习与泛化研究。<br />[来源依据](docs/sources.md#chelseabfinn) |
+| **Jim Fan**<br />[@DrJimFan](https://x.com/DrJimFan)<br /><sub>个人 · 英文</sub> | 具身智能、机器人学习与仿真研究。<br />[来源依据](docs/sources.md#drjimfan) |
+| **Google DeepMind**<br />[@GoogleDeepMind](https://x.com/GoogleDeepMind)<br /><sub>组织 · 英文</sub> | 多模态模型、机器人与 AI 科研进展。<br />[来源依据](docs/sources.md#googledeepmind) |
+| **Karol Hausman**<br />[@hausman\_k](https://x.com/hausman_k)<br /><sub>个人 · 英文</sub> | 机器人基础模型与通用机器人学习。<br />[来源依据](docs/sources.md#hausman_k) |
+| **Physical Intelligence**<br />[@Physical\_Int](https://x.com/Physical_Int)<br /><sub>组织 · 英文</sub> | 机器人基础模型与操作任务研究动态。<br />[来源依据](docs/sources.md#physical_int) |
+| **Sergey Levine**<br />[@svlevine](https://x.com/svlevine)<br /><sub>个人 · 英文</sub> | 机器人控制、强化学习与学习型智能体。<br />[来源依据](docs/sources.md#svlevine) |
 
 [↑ 返回分类目录](#directory)
 
@@ -216,15 +216,15 @@ Robotics &amp; spatial AI · **7 个账号**
 
 Products &amp; founders · **7 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Aravind Srinivas**<br />[@AravSrinivas](https://x.com/AravSrinivas) | 个人 · 英文 | AI 搜索、信息产品与应用体验。 | [依据](docs/sources.md#aravsrinivas) |
-| **Elad Gil**<br />[@eladgil](https://x.com/eladgil) | 个人 · 英文 | AI 创业、企业应用与技术产业观察。 | [依据](docs/sources.md#eladgil) |
-| **Pieter Levels**<br />[@levelsio](https://x.com/levelsio) | 个人 · 英文 | 独立开发、AI 产品构建与运营实践。 | [依据](docs/sources.md#levelsio) |
-| **Mustafa Suleyman**<br />[@mustafasuleyman](https://x.com/mustafasuleyman) | 个人 · 英文 | AI 产品、人机交互与产业观察。 | [依据](docs/sources.md#mustafasuleyman) |
-| **Sam Altman**<br />[@sama](https://x.com/sama) | 个人 · 英文 | AI 产品、产业发展与技术方向讨论。 | [依据](docs/sources.md#sama) |
-| **Sarah Guo**<br />[@saranormous](https://x.com/saranormous) | 个人 · 英文 | AI 创业、产品与产业访谈。 | [依据](docs/sources.md#saranormous) |
-| **Tibo**<br />[@tibo\_maker](https://x.com/tibo_maker) | 个人 · 英文 | 独立产品、AI 工具与开发过程分享。 | [依据](docs/sources.md#tibo_maker) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Aravind Srinivas**<br />[@AravSrinivas](https://x.com/AravSrinivas)<br /><sub>个人 · 英文</sub> | AI 搜索、信息产品与应用体验。<br />[来源依据](docs/sources.md#aravsrinivas) |
+| **Elad Gil**<br />[@eladgil](https://x.com/eladgil)<br /><sub>个人 · 英文</sub> | AI 创业、企业应用与技术产业观察。<br />[来源依据](docs/sources.md#eladgil) |
+| **Pieter Levels**<br />[@levelsio](https://x.com/levelsio)<br /><sub>个人 · 英文</sub> | 独立开发、AI 产品构建与运营实践。<br />[来源依据](docs/sources.md#levelsio) |
+| **Mustafa Suleyman**<br />[@mustafasuleyman](https://x.com/mustafasuleyman)<br /><sub>个人 · 英文</sub> | AI 产品、人机交互与产业观察。<br />[来源依据](docs/sources.md#mustafasuleyman) |
+| **Sam Altman**<br />[@sama](https://x.com/sama)<br /><sub>个人 · 英文</sub> | AI 产品、产业发展与技术方向讨论。<br />[来源依据](docs/sources.md#sama) |
+| **Sarah Guo**<br />[@saranormous](https://x.com/saranormous)<br /><sub>个人 · 英文</sub> | AI 创业、产品与产业访谈。<br />[来源依据](docs/sources.md#saranormous) |
+| **Tibo**<br />[@tibo\_maker](https://x.com/tibo_maker)<br /><sub>个人 · 英文</sub> | 独立产品、AI 工具与开发过程分享。<br />[来源依据](docs/sources.md#tibo_maker) |
 
 [↑ 返回分类目录](#directory)
 
@@ -234,17 +234,17 @@ Products &amp; founders · **7 个账号**
 
 Chinese-language voices · **9 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **Axton**<br />[@AxtonLiu](https://x.com/AxtonLiu) | 个人 · 中文 | AI 工具使用、自动化与产品实践分享。 | [依据](docs/sources.md#axtonliu) |
-| **宝玉**<br />[@dotey](https://x.com/dotey) | 个人 · 中文 | 中文 AI 技术解读、编程实践与资料翻译。 | [依据](docs/sources.md#dotey) |
-| **Gorden Sun**<br />[@Gorden\_Sun](https://x.com/Gorden_Sun) | 个人 · 中文 | AI 模型、产品和工具的中文资讯整理。 | [依据](docs/sources.md#gorden_sun) |
-| **李继刚**<br />[@lijigang](https://x.com/lijigang) | 个人 · 中文 | 提示词设计、语言表达与 AI 交互探索。 | [依据](docs/sources.md#lijigang) |
-| **歸藏**<br />[@op7418](https://x.com/op7418) | 个人 · 中文 | AI 图像、视频与设计工作流的中文实践。 | [依据](docs/sources.md#op7418) |
-| **Orange AI**<br />[@oran\_ge](https://x.com/oran_ge) | 个人 · 中文 | AI 产品、创业与应用场景讨论。 | [依据](docs/sources.md#oran_ge) |
-| **meng shao**<br />[@shao\_\_meng](https://x.com/shao__meng) | 个人 · 中文 | LLM 论文、开发工具与 AI 产品资料。 | [依据](docs/sources.md#shao__meng) |
-| **向阳乔木**<br />[@vista8](https://x.com/vista8) | 个人 · 中文 | AI 产品体验、工作流与编程实践。 | [依据](docs/sources.md#vista8) |
-| **小互**<br />[@xiaohu](https://x.com/xiaohu) | 个人 · 中文 | AI 视频、创作工具与科技产品案例。 | [依据](docs/sources.md#xiaohu) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **Axton**<br />[@AxtonLiu](https://x.com/AxtonLiu)<br /><sub>个人 · 中文</sub> | AI 工具使用、自动化与产品实践分享。<br />[来源依据](docs/sources.md#axtonliu) |
+| **宝玉**<br />[@dotey](https://x.com/dotey)<br /><sub>个人 · 中文</sub> | 中文 AI 技术解读、编程实践与资料翻译。<br />[来源依据](docs/sources.md#dotey) |
+| **Gorden Sun**<br />[@Gorden\_Sun](https://x.com/Gorden_Sun)<br /><sub>个人 · 中文</sub> | AI 模型、产品和工具的中文资讯整理。<br />[来源依据](docs/sources.md#gorden_sun) |
+| **李继刚**<br />[@lijigang](https://x.com/lijigang)<br /><sub>个人 · 中文</sub> | 提示词设计、语言表达与 AI 交互探索。<br />[来源依据](docs/sources.md#lijigang) |
+| **歸藏**<br />[@op7418](https://x.com/op7418)<br /><sub>个人 · 中文</sub> | AI 图像、视频与设计工作流的中文实践。<br />[来源依据](docs/sources.md#op7418) |
+| **Orange AI**<br />[@oran\_ge](https://x.com/oran_ge)<br /><sub>个人 · 中文</sub> | AI 产品、创业与应用场景讨论。<br />[来源依据](docs/sources.md#oran_ge) |
+| **meng shao**<br />[@shao\_\_meng](https://x.com/shao__meng)<br /><sub>个人 · 中文</sub> | LLM 论文、开发工具与 AI 产品资料。<br />[来源依据](docs/sources.md#shao__meng) |
+| **向阳乔木**<br />[@vista8](https://x.com/vista8)<br /><sub>个人 · 中文</sub> | AI 产品体验、工作流与编程实践。<br />[来源依据](docs/sources.md#vista8) |
+| **小互**<br />[@xiaohu](https://x.com/xiaohu)<br /><sub>个人 · 中文</sub> | AI 视频、创作工具与科技产品案例。<br />[来源依据](docs/sources.md#xiaohu) |
 
 [↑ 返回分类目录](#directory)
 
@@ -254,22 +254,22 @@ Chinese-language voices · **9 个账号**
 
 Labs &amp; model teams · **14 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **AI21 Labs**<br />[@AI21Labs](https://x.com/AI21Labs) | 组织 · 英文 | 语言模型与企业 AI 产品资料。 | [依据](docs/sources.md#ai21labs) |
-| **AI at Meta**<br />[@AIatMeta](https://x.com/AIatMeta) | 组织 · 英文 | 模型、开放 AI 与研究工作的官方动态。 | [依据](docs/sources.md#aiatmeta) |
-| **Qwen**<br />[@Alibaba\_Qwen](https://x.com/Alibaba_Qwen) | 组织 · 英文 | 开放模型、多模态能力与技术报告。 | [依据](docs/sources.md#alibaba_qwen) |
-| **Ai2**<br />[@allen\_ai](https://x.com/allen_ai) | 组织 · 英文 | 开放模型、科学 AI 与研究工具。 | [依据](docs/sources.md#allen_ai) |
-| **Anthropic**<br />[@AnthropicAI](https://x.com/AnthropicAI) | 组织 · 英文 | 模型能力、安全研究与开发资料。 | [依据](docs/sources.md#anthropicai) |
-| **Cohere**<br />[@cohere](https://x.com/cohere) | 组织 · 英文 | 企业语言模型、检索与应用技术资料。 | [依据](docs/sources.md#cohere) |
-| **DeepSeek**<br />[@deepseek\_ai](https://x.com/deepseek_ai) | 组织 · 英文 | 模型与研究进展的官方发布。 | [依据](docs/sources.md#deepseek_ai) |
-| **Google AI**<br />[@GoogleAI](https://x.com/GoogleAI) | 组织 · 英文 | AI 研究、工具与产品的官方动态。 | [依据](docs/sources.md#googleai) |
-| **Mistral AI**<br />[@MistralAI](https://x.com/MistralAI) | 组织 · 英文 | 模型、开发接口与部署产品的官方发布。 | [依据](docs/sources.md#mistralai) |
-| **MIT CSAIL**<br />[@MIT\_CSAIL](https://x.com/MIT_CSAIL) | 组织 · 英文 | 计算机科学、AI 与机器人研究发布。 | [依据](docs/sources.md#mit_csail) |
-| **NVIDIA AI**<br />[@NVIDIAAI](https://x.com/NVIDIAAI) | 组织 · 英文 | AI 计算、模型部署与开发工具。 | [依据](docs/sources.md#nvidiaai) |
-| **OpenAI**<br />[@OpenAI](https://x.com/OpenAI) | 组织 · 英文 | 模型、开发平台与研究工作的官方发布。 | [依据](docs/sources.md#openai) |
-| **Stability AI**<br />[@StabilityAI](https://x.com/StabilityAI) | 组织 · 英文 | 开放生成模型、图像与媒体工具动态。 | [依据](docs/sources.md#stabilityai) |
-| **Stanford HAI**<br />[@StanfordHAI](https://x.com/StanfordHAI) | 组织 · 英文 | 以人为本的 AI 研究与政策讨论。 | [依据](docs/sources.md#stanfordhai) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **AI21 Labs**<br />[@AI21Labs](https://x.com/AI21Labs)<br /><sub>组织 · 英文</sub> | 语言模型与企业 AI 产品资料。<br />[来源依据](docs/sources.md#ai21labs) |
+| **AI at Meta**<br />[@AIatMeta](https://x.com/AIatMeta)<br /><sub>组织 · 英文</sub> | 模型、开放 AI 与研究工作的官方动态。<br />[来源依据](docs/sources.md#aiatmeta) |
+| **Qwen**<br />[@Alibaba\_Qwen](https://x.com/Alibaba_Qwen)<br /><sub>组织 · 英文</sub> | 开放模型、多模态能力与技术报告。<br />[来源依据](docs/sources.md#alibaba_qwen) |
+| **Ai2**<br />[@allen\_ai](https://x.com/allen_ai)<br /><sub>组织 · 英文</sub> | 开放模型、科学 AI 与研究工具。<br />[来源依据](docs/sources.md#allen_ai) |
+| **Anthropic**<br />[@AnthropicAI](https://x.com/AnthropicAI)<br /><sub>组织 · 英文</sub> | 模型能力、安全研究与开发资料。<br />[来源依据](docs/sources.md#anthropicai) |
+| **Cohere**<br />[@cohere](https://x.com/cohere)<br /><sub>组织 · 英文</sub> | 企业语言模型、检索与应用技术资料。<br />[来源依据](docs/sources.md#cohere) |
+| **DeepSeek**<br />[@deepseek\_ai](https://x.com/deepseek_ai)<br /><sub>组织 · 英文</sub> | 模型与研究进展的官方发布。<br />[来源依据](docs/sources.md#deepseek_ai) |
+| **Google AI**<br />[@GoogleAI](https://x.com/GoogleAI)<br /><sub>组织 · 英文</sub> | AI 研究、工具与产品的官方动态。<br />[来源依据](docs/sources.md#googleai) |
+| **Mistral AI**<br />[@MistralAI](https://x.com/MistralAI)<br /><sub>组织 · 英文</sub> | 模型、开发接口与部署产品的官方发布。<br />[来源依据](docs/sources.md#mistralai) |
+| **MIT CSAIL**<br />[@MIT\_CSAIL](https://x.com/MIT_CSAIL)<br /><sub>组织 · 英文</sub> | 计算机科学、AI 与机器人研究发布。<br />[来源依据](docs/sources.md#mit_csail) |
+| **NVIDIA AI**<br />[@NVIDIAAI](https://x.com/NVIDIAAI)<br /><sub>组织 · 英文</sub> | AI 计算、模型部署与开发工具。<br />[来源依据](docs/sources.md#nvidiaai) |
+| **OpenAI**<br />[@OpenAI](https://x.com/OpenAI)<br /><sub>组织 · 英文</sub> | 模型、开发平台与研究工作的官方发布。<br />[来源依据](docs/sources.md#openai) |
+| **Stability AI**<br />[@StabilityAI](https://x.com/StabilityAI)<br /><sub>组织 · 英文</sub> | 开放生成模型、图像与媒体工具动态。<br />[来源依据](docs/sources.md#stabilityai) |
+| **Stanford HAI**<br />[@StanfordHAI](https://x.com/StanfordHAI)<br /><sub>组织 · 英文</sub> | 以人为本的 AI 研究与政策讨论。<br />[来源依据](docs/sources.md#stanfordhai) |
 
 [↑ 返回分类目录](#directory)
 
@@ -279,16 +279,16 @@ Labs &amp; model teams · **14 个账号**
 
 Media &amp; explainers · **8 个账号**
 
-| 账号 | 类型 · 语言 | 关注什么 | 来源 |
-| --- | --- | --- | --- |
-| **DeepLearning.AI**<br />[@DeepLearningAI](https://x.com/DeepLearningAI) | 组织 · 英文 | 机器学习课程、AI 教育与技术资讯。<br /><sub>较新的 X 页面使用 @DeepLearningAI；早期资料中的用户名带末尾下划线。</sub> | [依据](docs/sources.md#deeplearningai) |
-| **Ethan Mollick**<br />[@emollick](https://x.com/emollick) | 个人 · 英文 | 生成式 AI 使用实验、工作与教育观察。 | [依据](docs/sources.md#emollick) |
-| **Gary Marcus**<br />[@GaryMarcus](https://x.com/GaryMarcus) | 个人 · 英文 | AI 能力边界、可靠性与批判性分析。 | [依据](docs/sources.md#garymarcus) |
-| **Latent Space**<br />[@LatentSpacePod](https://x.com/LatentSpacePod) | 媒体 · 英文 | AI 工程师访谈、技术讨论与社区内容。 | [依据](docs/sources.md#latentspacepod) |
-| **Lex Fridman**<br />[@lexfridman](https://x.com/lexfridman) | 个人 · 英文 | 科技研究者访谈与长篇技术对话。 | [依据](docs/sources.md#lexfridman) |
-| **TechCrunch**<br />[@TechCrunch](https://x.com/TechCrunch) | 媒体 · 英文 | 科技公司、AI 产品与创业新闻。 | [依据](docs/sources.md#techcrunch) |
-| **The Sequence**<br />[@TheSequenceAI](https://x.com/TheSequenceAI) | 媒体 · 英文 | AI 研究、模型与技术趋势的内容整理。 | [依据](docs/sources.md#thesequenceai) |
-| **Turing Post**<br />[@TheTuringPost](https://x.com/TheTuringPost) | 媒体 · 英文 | 机器学习研究与 AI 工程的解读通讯。 | [依据](docs/sources.md#theturingpost) |
+| 账号 | 关注什么 |
+| --- | --- |
+| **DeepLearning.AI**<br />[@DeepLearningAI](https://x.com/DeepLearningAI)<br /><sub>组织 · 英文</sub> | 机器学习课程、AI 教育与技术资讯。<br /><sub>较新的 X 页面使用 @DeepLearningAI；早期资料中的用户名带末尾下划线。</sub><br />[来源依据](docs/sources.md#deeplearningai) |
+| **Ethan Mollick**<br />[@emollick](https://x.com/emollick)<br /><sub>个人 · 英文</sub> | 生成式 AI 使用实验、工作与教育观察。<br />[来源依据](docs/sources.md#emollick) |
+| **Gary Marcus**<br />[@GaryMarcus](https://x.com/GaryMarcus)<br /><sub>个人 · 英文</sub> | AI 能力边界、可靠性与批判性分析。<br />[来源依据](docs/sources.md#garymarcus) |
+| **Latent Space**<br />[@LatentSpacePod](https://x.com/LatentSpacePod)<br /><sub>媒体 · 英文</sub> | AI 工程师访谈、技术讨论与社区内容。<br />[来源依据](docs/sources.md#latentspacepod) |
+| **Lex Fridman**<br />[@lexfridman](https://x.com/lexfridman)<br /><sub>个人 · 英文</sub> | 科技研究者访谈与长篇技术对话。<br />[来源依据](docs/sources.md#lexfridman) |
+| **TechCrunch**<br />[@TechCrunch](https://x.com/TechCrunch)<br /><sub>媒体 · 英文</sub> | 科技公司、AI 产品与创业新闻。<br />[来源依据](docs/sources.md#techcrunch) |
+| **The Sequence**<br />[@TheSequenceAI](https://x.com/TheSequenceAI)<br /><sub>媒体 · 英文</sub> | AI 研究、模型与技术趋势的内容整理。<br />[来源依据](docs/sources.md#thesequenceai) |
+| **Turing Post**<br />[@TheTuringPost](https://x.com/TheTuringPost)<br /><sub>媒体 · 英文</sub> | 机器学习研究与 AI 工程的解读通讯。<br />[来源依据](docs/sources.md#theturingpost) |
 
 [↑ 返回分类目录](#directory)
 

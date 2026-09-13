@@ -159,8 +159,8 @@ def generate(data: dict, template: str) -> dict[str, str]:
         sections += [
             f'<a id="{cid}"></a>', "", f"## {title}", "",
             f'{md(category["title_en"])} · **{counts[cid]} 个账号**', "",
-            "| 账号 | 类型 · 语言 | 关注什么 | 来源 |",
-            "| --- | --- | --- | --- |",
+            "| 账号 | 关注什么 |",
+            "| --- | --- |",
         ]
         sources += [f"## {title}", ""]
         for account in accounts:
@@ -175,9 +175,9 @@ def generate(data: dict, template: str) -> dict[str, str]:
             if account["notes"]:
                 why += "<br /><sub>" + md(account["notes"]) + "</sub>"
             sections.append(
-                f"| **{name}**<br />[@{md(handle)}]({url}) | "
-                f'{KINDS[account["kind"]]} · {languages} | {why} | '
-                f"[依据](docs/sources.md#{anchor}) |"
+                f"| **{name}**<br />[@{md(handle)}]({url})<br />"
+                f'<sub>{KINDS[account["kind"]]} · {languages}</sub> | {why}<br />'
+                f"[来源依据](docs/sources.md#{anchor}) |"
             )
             sources += [f'<a id="{anchor}"></a>', "", f"### {name} · @{md(handle)}", ""]
             sources.append(f"- 主页：[@{md(handle)}]({url})")
