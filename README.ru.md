@@ -33,15 +33,13 @@
 
 ## 🧭 С чего начать
 
-| Что вы хотите изучить | Тема |
-| --- | --- |
-| Основы и обучение LLM | [📚 LLM и обучение](#llm) → [🧠 Исследования ИИ](#research) |
-| Надёжные агенты | [🤖 Агенты и оценка](#agents) → [⚙️ Открытый код и инфраструктура](#infra) |
-| Эффективное программирование с ИИ | [💻 Программирование с ИИ](#coding) → [🤖 Агенты и оценка](#agents) |
-| Создание изображений, видео и аудио | [🎬 Изображения, видео и аудио](#creative) |
-| Робототехника и воплощённый ИИ | [🦾 Роботы и пространственный ИИ](#robotics) |
-| ИИ на китайском языке | [🌏 ИИ и технологии на китайском](#chinese) |
-| Публикации из первых рук и аналитика | [🏛️ Лаборатории и команды моделей](#labs) → [📰 Медиа, интервью и объяснения](#media) |
+- **Основы и обучение LLM**: [📚 LLM и обучение](#llm) → [🧠 Исследования ИИ](#research)
+- **Надёжные агенты**: [🤖 Агенты и оценка](#agents) → [⚙️ Открытый код и инфраструктура](#infra)
+- **Эффективное программирование с ИИ**: [💻 Программирование с ИИ](#coding) → [🤖 Агенты и оценка](#agents)
+- **Создание изображений, видео и аудио**: [🎬 Изображения, видео и аудио](#creative)
+- **Робототехника и воплощённый ИИ**: [🦾 Роботы и пространственный ИИ](#robotics)
+- **ИИ на китайском языке**: [🌏 ИИ и технологии на китайском](#chinese)
+- **Публикации из первых рук и аналитика**: [🏛️ Лаборатории и команды моделей](#labs) → [📰 Медиа, интервью и объяснения](#media)
 
 Начните с 5–10 аккаунтов в одной теме и пересмотрите список через несколько дней чтения. Сочетайте исследователей, практиков и авторов объяснений, чтобы видеть исходные работы и разные интерпретации.
 
@@ -71,18 +69,26 @@
 
 **10 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Andrew Ng**<br />[@AndrewYNg](https://x.com/AndrewYNg)<br /><sub>Человек · Английский</sub> | Обучение машинному обучению, разработка ИИ-приложений и взгляд на отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#andrewyng) |
-| **Demis Hassabis**<br />[@demishassabis](https://x.com/demishassabis)<br /><sub>Человек · Английский</sub> | Общий искусственный интеллект, научные открытия и достижения исследований.<br />[Подтверждающий источник](docs/ru/sources.md#demishassabis) |
-| **Fei-Fei Li**<br />[@drfeifei](https://x.com/drfeifei)<br /><sub>Человек · Английский</sub> | Компьютерное зрение, пространственный интеллект и человекоцентричный ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#drfeifei) |
-| **François Chollet**<br />[@fchollet](https://x.com/fchollet)<br /><sub>Человек · Английский</sub> | Глубокое обучение, оценка интеллекта и способность к обобщению.<br />[Подтверждающий источник](docs/ru/sources.md#fchollet) |
-| **Geoffrey Hinton**<br />[@geoffreyhinton](https://x.com/geoffreyhinton)<br /><sub>Человек · Английский</sub> | Основы глубокого обучения, возможности моделей и риски ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#geoffreyhinton) |
-| **Ian Goodfellow**<br />[@goodfellow\_ian](https://x.com/goodfellow_ian)<br /><sub>Человек · Английский</sub> | Глубокое обучение, генеративные модели и исследования машинного обучения.<br />[Подтверждающий источник](docs/ru/sources.md#goodfellow_ian) |
-| **Ilya Sutskever**<br />[@ilyasut](https://x.com/ilyasut)<br /><sub>Человек · Английский</sub> | Мнения из первых рук об исследованиях глубокого обучения и возможностях моделей.<br />[Подтверждающий источник](docs/ru/sources.md#ilyasut) |
-| **Andrej Karpathy**<br />[@karpathy](https://x.com/karpathy)<br /><sub>Человек · Английский</sub> | Подробные объяснения нейросетей, обучения моделей и программирования с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#karpathy) |
-| **Melanie Mitchell**<br />[@MelMitchell1](https://x.com/MelMitchell1)<br /><sub>Человек · Английский</sub> | Концепции ИИ, рассуждения по аналогии и границы возможностей моделей.<br /><sub>В качестве подтверждения доступна старая публикация; недавняя частота публикаций не проверялась.</sub><br />[Подтверждающий источник](docs/ru/sources.md#melmitchell1) |
-| **Yann LeCun**<br />[@ylecun](https://x.com/ylecun)<br /><sub>Человек · Английский</sub> | Обсуждение обучения представлений, моделей мира и направлений исследований ИИ.<br /><sub>На личном сайте указано, что оригинальных публикаций в X стало меньше: в основном он делится ссылками и репостами. Можно также читать его сайт.</sub><br />[Подтверждающий источник](docs/ru/sources.md#ylecun) |
+- **Andrew Ng**<br />[@AndrewYNg](https://x.com/AndrewYNg)<br /><sub>Человек · Английский</sub><br />Обучение машинному обучению, разработка ИИ-приложений и взгляд на отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#andrewyng)
+
+- **Demis Hassabis**<br />[@demishassabis](https://x.com/demishassabis)<br /><sub>Человек · Английский</sub><br />Общий искусственный интеллект, научные открытия и достижения исследований.<br />[Подтверждающий источник](docs/ru/sources.md#demishassabis)
+
+- **Fei-Fei Li**<br />[@drfeifei](https://x.com/drfeifei)<br /><sub>Человек · Английский</sub><br />Компьютерное зрение, пространственный интеллект и человекоцентричный ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#drfeifei)
+
+- **François Chollet**<br />[@fchollet](https://x.com/fchollet)<br /><sub>Человек · Английский</sub><br />Глубокое обучение, оценка интеллекта и способность к обобщению.<br />[Подтверждающий источник](docs/ru/sources.md#fchollet)
+
+- **Geoffrey Hinton**<br />[@geoffreyhinton](https://x.com/geoffreyhinton)<br /><sub>Человек · Английский</sub><br />Основы глубокого обучения, возможности моделей и риски ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#geoffreyhinton)
+
+- **Ian Goodfellow**<br />[@goodfellow\_ian](https://x.com/goodfellow_ian)<br /><sub>Человек · Английский</sub><br />Глубокое обучение, генеративные модели и исследования машинного обучения.<br />[Подтверждающий источник](docs/ru/sources.md#goodfellow_ian)
+
+- **Ilya Sutskever**<br />[@ilyasut](https://x.com/ilyasut)<br /><sub>Человек · Английский</sub><br />Мнения из первых рук об исследованиях глубокого обучения и возможностях моделей.<br />[Подтверждающий источник](docs/ru/sources.md#ilyasut)
+
+- **Andrej Karpathy**<br />[@karpathy](https://x.com/karpathy)<br /><sub>Человек · Английский</sub><br />Подробные объяснения нейросетей, обучения моделей и программирования с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#karpathy)
+
+- **Melanie Mitchell**<br />[@MelMitchell1](https://x.com/MelMitchell1)<br /><sub>Человек · Английский</sub><br />Концепции ИИ, рассуждения по аналогии и границы возможностей моделей.<br /><sub>В качестве подтверждения доступна старая публикация; недавняя частота публикаций не проверялась.</sub><br />[Подтверждающий источник](docs/ru/sources.md#melmitchell1)
+
+- **Yann LeCun**<br />[@ylecun](https://x.com/ylecun)<br /><sub>Человек · Английский</sub><br />Обсуждение обучения представлений, моделей мира и направлений исследований ИИ.<br /><sub>На личном сайте указано, что оригинальных публикаций в X стало меньше: в основном он делится ссылками и репостами. Можно также читать его сайт.</sub><br />[Подтверждающий источник](docs/ru/sources.md#ylecun)
+
 
 [↑ Назад к темам](#directory)
 
@@ -92,16 +98,22 @@
 
 **8 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Yao Fu**<br />[@Francis\_YAO\_](https://x.com/Francis_YAO_)<br /><sub>Человек · Английский</sub> | Обучение языковых моделей, рассуждения и анализ исследований.<br /><sub>Имя пользователя X сверено со ссылкой в личном блоге и отличается от имени на GitHub.</sub><br />[Подтверждающий источник](docs/ru/sources.md#francis_yao_) |
-| **Jay Alammar**<br />[@JayAlammar](https://x.com/JayAlammar)<br /><sub>Человек · Английский</sub> | Наглядные объяснения трансформеров, эмбеддингов и языковых моделей.<br />[Подтверждающий источник](docs/ru/sources.md#jayalammar) |
-| **Nathan Lambert**<br />[@natolambert](https://x.com/natolambert)<br /><sub>Человек · Английский</sub> | Постобучение моделей, обучение на предпочтениях и исследования открытых моделей.<br />[Подтверждающий источник](docs/ru/sources.md#natolambert) |
-| **Elvis Saravia**<br />[@omarsar0](https://x.com/omarsar0)<br /><sub>Человек · Английский</sub> | Промпт-инжиниринг, статьи о LLM и учебные материалы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#omarsar0) |
-| **Sebastian Raschka**<br />[@rasbt](https://x.com/rasbt)<br /><sub>Человек · Английский</sub> | Объяснения обучения языковых моделей и методов машинного обучения на примерах кода.<br />[Подтверждающий источник](docs/ru/sources.md#rasbt) |
-| **Sebastian Ruder**<br />[@seb\_ruder](https://x.com/seb_ruder)<br /><sub>Человек · Английский</sub> | Обработка естественного языка, многоязычные модели и обзоры исследований.<br />[Подтверждающий источник](docs/ru/sources.md#seb_ruder) |
-| **Luis Serrano**<br />[@SerranoAcademy](https://x.com/SerranoAcademy)<br /><sub>Человек · Английский</sub> | Интуитивные примеры для изучения машинного обучения и генеративного ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#serranoacademy) |
-| **Alexander Rush**<br />[@srush\_nlp](https://x.com/srush_nlp)<br /><sub>Человек · Английский</sub> | Обработка естественного языка, эффективность моделей и исследовательские инструменты.<br />[Подтверждающий источник](docs/ru/sources.md#srush_nlp) |
+- **Yao Fu**<br />[@Francis\_YAO\_](https://x.com/Francis_YAO_)<br /><sub>Человек · Английский</sub><br />Обучение языковых моделей, рассуждения и анализ исследований.<br /><sub>Имя пользователя X сверено со ссылкой в личном блоге и отличается от имени на GitHub.</sub><br />[Подтверждающий источник](docs/ru/sources.md#francis_yao_)
+
+- **Jay Alammar**<br />[@JayAlammar](https://x.com/JayAlammar)<br /><sub>Человек · Английский</sub><br />Наглядные объяснения трансформеров, эмбеддингов и языковых моделей.<br />[Подтверждающий источник](docs/ru/sources.md#jayalammar)
+
+- **Nathan Lambert**<br />[@natolambert](https://x.com/natolambert)<br /><sub>Человек · Английский</sub><br />Постобучение моделей, обучение на предпочтениях и исследования открытых моделей.<br />[Подтверждающий источник](docs/ru/sources.md#natolambert)
+
+- **Elvis Saravia**<br />[@omarsar0](https://x.com/omarsar0)<br /><sub>Человек · Английский</sub><br />Промпт-инжиниринг, статьи о LLM и учебные материалы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#omarsar0)
+
+- **Sebastian Raschka**<br />[@rasbt](https://x.com/rasbt)<br /><sub>Человек · Английский</sub><br />Объяснения обучения языковых моделей и методов машинного обучения на примерах кода.<br />[Подтверждающий источник](docs/ru/sources.md#rasbt)
+
+- **Sebastian Ruder**<br />[@seb\_ruder](https://x.com/seb_ruder)<br /><sub>Человек · Английский</sub><br />Обработка естественного языка, многоязычные модели и обзоры исследований.<br />[Подтверждающий источник](docs/ru/sources.md#seb_ruder)
+
+- **Luis Serrano**<br />[@SerranoAcademy](https://x.com/SerranoAcademy)<br /><sub>Человек · Английский</sub><br />Интуитивные примеры для изучения машинного обучения и генеративного ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#serranoacademy)
+
+- **Alexander Rush**<br />[@srush\_nlp](https://x.com/srush_nlp)<br /><sub>Человек · Английский</sub><br />Обработка естественного языка, эффективность моделей и исследовательские инструменты.<br />[Подтверждающий источник](docs/ru/sources.md#srush_nlp)
+
 
 [↑ Назад к темам](#directory)
 
@@ -111,17 +123,24 @@
 
 **9 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Chip Huyen**<br />[@chipro](https://x.com/chipro)<br /><sub>Человек · Английский</sub> | Проектирование ИИ-систем, оценка качества и инженерия приложений на основе моделей.<br />[Подтверждающий источник](docs/ru/sources.md#chipro) |
-| **Eugene Yan**<br />[@eugeneyan](https://x.com/eugeneyan)<br /><sub>Человек · Английский</sub> | Рекомендательные системы, LLM-приложения и опыт разработки производственных систем.<br />[Подтверждающий источник](docs/ru/sources.md#eugeneyan) |
-| **Hamel Husain**<br />[@HamelHusain](https://x.com/HamelHusain)<br /><sub>Человек · Английский</sub> | Оценка LLM, анализ ошибок и практика разработки приложений.<br />[Подтверждающий источник](docs/ru/sources.md#hamelhusain) |
-| **Harrison Chase**<br />[@hwchase17](https://x.com/hwchase17)<br /><sub>Человек · Английский</sub> | Оркестрация агентов, вызов инструментов и экосистема LangChain.<br />[Подтверждающий источник](docs/ru/sources.md#hwchase17) |
-| **Jerry Liu**<br />[@jerryjliu0](https://x.com/jerryjliu0)<br /><sub>Человек · Английский</sub> | Поиск данных, базы знаний и экосистема LlamaIndex.<br />[Подтверждающий источник](docs/ru/sources.md#jerryjliu0) |
-| **Jason Liu**<br />[@jxnlco](https://x.com/jxnlco)<br /><sub>Человек · Английский</sub> | Структурированное извлечение данных, рабочие процессы LLM и практика оценки качества.<br />[Подтверждающий источник](docs/ru/sources.md#jxnlco) |
-| **Shreya Shankar**<br />[@sh\_reya](https://x.com/sh_reya)<br /><sub>Человек · Английский</sub> | Системы данных, оценка LLM и исследования сотрудничества человека с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#sh_reya) |
-| **Simon Willison**<br />[@simonw](https://x.com/simonw)<br /><sub>Человек · Английский</sub> | Практические испытания LLM-инструментов, инъекции промптов и заметки о разработке ПО.<br />[Подтверждающий источник](docs/ru/sources.md#simonw) |
-| **Shawn Wang**<br />[@swyx](https://x.com/swyx)<br /><sub>Человек · Английский</sub> | Экосистема ИИ-инженерии, практика создания агентов и интервью с разработчиками.<br />[Подтверждающий источник](docs/ru/sources.md#swyx) |
+- **Chip Huyen**<br />[@chipro](https://x.com/chipro)<br /><sub>Человек · Английский</sub><br />Проектирование ИИ-систем, оценка качества и инженерия приложений на основе моделей.<br />[Подтверждающий источник](docs/ru/sources.md#chipro)
+
+- **Eugene Yan**<br />[@eugeneyan](https://x.com/eugeneyan)<br /><sub>Человек · Английский</sub><br />Рекомендательные системы, LLM-приложения и опыт разработки производственных систем.<br />[Подтверждающий источник](docs/ru/sources.md#eugeneyan)
+
+- **Hamel Husain**<br />[@HamelHusain](https://x.com/HamelHusain)<br /><sub>Человек · Английский</sub><br />Оценка LLM, анализ ошибок и практика разработки приложений.<br />[Подтверждающий источник](docs/ru/sources.md#hamelhusain)
+
+- **Harrison Chase**<br />[@hwchase17](https://x.com/hwchase17)<br /><sub>Человек · Английский</sub><br />Оркестрация агентов, вызов инструментов и экосистема LangChain.<br />[Подтверждающий источник](docs/ru/sources.md#hwchase17)
+
+- **Jerry Liu**<br />[@jerryjliu0](https://x.com/jerryjliu0)<br /><sub>Человек · Английский</sub><br />Поиск данных, базы знаний и экосистема LlamaIndex.<br />[Подтверждающий источник](docs/ru/sources.md#jerryjliu0)
+
+- **Jason Liu**<br />[@jxnlco](https://x.com/jxnlco)<br /><sub>Человек · Английский</sub><br />Структурированное извлечение данных, рабочие процессы LLM и практика оценки качества.<br />[Подтверждающий источник](docs/ru/sources.md#jxnlco)
+
+- **Shreya Shankar**<br />[@sh\_reya](https://x.com/sh_reya)<br /><sub>Человек · Английский</sub><br />Системы данных, оценка LLM и исследования сотрудничества человека с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#sh_reya)
+
+- **Simon Willison**<br />[@simonw](https://x.com/simonw)<br /><sub>Человек · Английский</sub><br />Практические испытания LLM-инструментов, инъекции промптов и заметки о разработке ПО.<br />[Подтверждающий источник](docs/ru/sources.md#simonw)
+
+- **Shawn Wang**<br />[@swyx](https://x.com/swyx)<br /><sub>Человек · Английский</sub><br />Экосистема ИИ-инженерии, практика создания агентов и интервью с разработчиками.<br />[Подтверждающий источник](docs/ru/sources.md#swyx)
+
 
 [↑ Назад к темам](#directory)
 
@@ -131,18 +150,26 @@
 
 **10 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Aman Sanger**<br />[@amanrsanger](https://x.com/amanrsanger)<br /><sub>Человек · Английский</sub> | Продукты для ИИ-программирования, понимание кодовой базы и опыт разработчика.<br />[Подтверждающий источник](docs/ru/sources.md#amanrsanger) |
-| **Boris Cherny**<br />[@bcherny](https://x.com/bcherny)<br /><sub>Человек · Английский</sub> | Продукты на основе кодирующих агентов и опыт организации разработки.<br />[Подтверждающий источник](docs/ru/sources.md#bcherny) |
-| **Lee Robinson**<br />[@leerob](https://x.com/leerob)<br /><sub>Человек · Английский</sub> | Веб-инженерия, инструменты ИИ для разработчиков и практические руководства.<br /><sub>В профиле старого аккаунта @leeerob указано, что он переехал на @leerob.</sub><br />[Подтверждающий источник](docs/ru/sources.md#leerob) |
-| **Matt Shumer**<br />[@mattshumer\_](https://x.com/mattshumer_)<br /><sub>Человек · Английский</sub> | Применение ИИ-инструментов, рабочие процессы агентов и эксперименты с продуктами.<br />[Подтверждающий источник](docs/ru/sources.md#mattshumer_) |
-| **Michael Truell**<br />[@mntruell](https://x.com/mntruell)<br /><sub>Человек · Английский</sub> | Редакторы с ИИ и новые подходы к разработке программного обеспечения.<br />[Подтверждающий источник](docs/ru/sources.md#mntruell) |
-| **Hassan El Mghari**<br />[@nutlope](https://x.com/nutlope)<br /><sub>Человек · Английский</sub> | ИИ-приложения с открытым кодом, веб-примеры и руководства по разработке.<br />[Подтверждающий источник](docs/ru/sources.md#nutlope) |
-| **Guillermo Rauch**<br />[@rauchg](https://x.com/rauchg)<br /><sub>Человек · Английский</sub> | Веб-разработка, интерфейсы ИИ-приложений и платформы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#rauchg) |
-| **Sarah Drasner**<br />[@sarah\_edo](https://x.com/sarah_edo)<br /><sub>Человек · Английский</sub> | Разработка ПО, опыт разработчика и программирование с помощью ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#sarah_edo) |
-| **Peter Steinberger**<br />[@steipete](https://x.com/steipete)<br /><sub>Человек · Английский</sub> | Кодирующие агенты, инструменты разработчика и рабочие процессы реальных проектов.<br />[Подтверждающий источник](docs/ru/sources.md#steipete) |
-| **Thariq Shihipar**<br />[@trq212](https://x.com/trq212)<br /><sub>Человек · Английский</sub> | Инструменты ИИ-программирования, проектирование взаимодействия и практика использования агентов.<br />[Подтверждающий источник](docs/ru/sources.md#trq212) |
+- **Aman Sanger**<br />[@amanrsanger](https://x.com/amanrsanger)<br /><sub>Человек · Английский</sub><br />Продукты для ИИ-программирования, понимание кодовой базы и опыт разработчика.<br />[Подтверждающий источник](docs/ru/sources.md#amanrsanger)
+
+- **Boris Cherny**<br />[@bcherny](https://x.com/bcherny)<br /><sub>Человек · Английский</sub><br />Продукты на основе кодирующих агентов и опыт организации разработки.<br />[Подтверждающий источник](docs/ru/sources.md#bcherny)
+
+- **Lee Robinson**<br />[@leerob](https://x.com/leerob)<br /><sub>Человек · Английский</sub><br />Веб-инженерия, инструменты ИИ для разработчиков и практические руководства.<br /><sub>В профиле старого аккаунта @leeerob указано, что он переехал на @leerob.</sub><br />[Подтверждающий источник](docs/ru/sources.md#leerob)
+
+- **Matt Shumer**<br />[@mattshumer\_](https://x.com/mattshumer_)<br /><sub>Человек · Английский</sub><br />Применение ИИ-инструментов, рабочие процессы агентов и эксперименты с продуктами.<br />[Подтверждающий источник](docs/ru/sources.md#mattshumer_)
+
+- **Michael Truell**<br />[@mntruell](https://x.com/mntruell)<br /><sub>Человек · Английский</sub><br />Редакторы с ИИ и новые подходы к разработке программного обеспечения.<br />[Подтверждающий источник](docs/ru/sources.md#mntruell)
+
+- **Hassan El Mghari**<br />[@nutlope](https://x.com/nutlope)<br /><sub>Человек · Английский</sub><br />ИИ-приложения с открытым кодом, веб-примеры и руководства по разработке.<br />[Подтверждающий источник](docs/ru/sources.md#nutlope)
+
+- **Guillermo Rauch**<br />[@rauchg](https://x.com/rauchg)<br /><sub>Человек · Английский</sub><br />Веб-разработка, интерфейсы ИИ-приложений и платформы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#rauchg)
+
+- **Sarah Drasner**<br />[@sarah\_edo](https://x.com/sarah_edo)<br /><sub>Человек · Английский</sub><br />Разработка ПО, опыт разработчика и программирование с помощью ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#sarah_edo)
+
+- **Peter Steinberger**<br />[@steipete](https://x.com/steipete)<br /><sub>Человек · Английский</sub><br />Кодирующие агенты, инструменты разработчика и рабочие процессы реальных проектов.<br />[Подтверждающий источник](docs/ru/sources.md#steipete)
+
+- **Thariq Shihipar**<br />[@trq212](https://x.com/trq212)<br /><sub>Человек · Английский</sub><br />Инструменты ИИ-программирования, проектирование взаимодействия и практика использования агентов.<br />[Подтверждающий источник](docs/ru/sources.md#trq212)
+
 
 [↑ Назад к темам](#directory)
 
@@ -152,17 +179,24 @@
 
 **9 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **anton**<br />[@abacaj](https://x.com/abacaj)<br /><sub>Человек · Английский</sub> | Локальные модели, инженерия инференса и эксперименты в ИИ-разработке.<br />[Подтверждающий источник](docs/ru/sources.md#abacaj) |
-| **Georgi Gerganov**<br />[@ggerganov](https://x.com/ggerganov)<br /><sub>Человек · Английский</sub> | Локальный инференс, квантование и легковесные среды выполнения моделей.<br />[Подтверждающий источник](docs/ru/sources.md#ggerganov) |
-| **Hugging Face**<br />[@huggingface](https://x.com/huggingface)<br /><sub>Организация · Английский</sub> | Модели, наборы данных, открытые библиотеки и проекты сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#huggingface) |
-| **LangChain**<br />[@LangChainAI](https://x.com/LangChainAI)<br /><sub>Организация · Английский</sub> | Фреймворки агентов, интеграции инструментов и инженерные руководства.<br />[Подтверждающий источник](docs/ru/sources.md#langchainai) |
-| **LlamaIndex**<br />[@llama\_index](https://x.com/llama_index)<br /><sub>Организация · Английский</sub> | Поисковое дополнение генерации, подключение данных и материалы по агентным приложениям.<br />[Подтверждающий источник](docs/ru/sources.md#llama_index) |
-| **Ollama**<br />[@ollama](https://x.com/ollama)<br /><sub>Организация · Английский</sub> | Инструменты запуска локальных моделей, примеры интеграции и сведения о выпусках.<br />[Подтверждающий источник](docs/ru/sources.md#ollama) |
-| **Teknium**<br />[@Teknium](https://x.com/Teknium)<br /><sub>Человек · Английский</sub> | Открытые модели, наборы инструкций и практика обучения моделей.<br /><sub>Личный профиль GitHub ссылается на @Teknium. Старое имя @Teknium1 не используется как текущая ссылка.</sub><br />[Подтверждающий источник](docs/ru/sources.md#teknium) |
-| **Thomas Wolf**<br />[@Thom\_Wolf](https://x.com/Thom_Wolf)<br /><sub>Человек · Английский</sub> | Открытые модели, инструменты машинного обучения и исследовательская экосистема.<br />[Подтверждающий источник](docs/ru/sources.md#thom_wolf) |
-| **vLLM**<br />[@vllm\_project](https://x.com/vllm_project)<br /><sub>Организация · Английский</sub> | Высокопроизводительное обслуживание моделей, движки инференса и выпуски.<br />[Подтверждающий источник](docs/ru/sources.md#vllm_project) |
+- **anton**<br />[@abacaj](https://x.com/abacaj)<br /><sub>Человек · Английский</sub><br />Локальные модели, инженерия инференса и эксперименты в ИИ-разработке.<br />[Подтверждающий источник](docs/ru/sources.md#abacaj)
+
+- **Georgi Gerganov**<br />[@ggerganov](https://x.com/ggerganov)<br /><sub>Человек · Английский</sub><br />Локальный инференс, квантование и легковесные среды выполнения моделей.<br />[Подтверждающий источник](docs/ru/sources.md#ggerganov)
+
+- **Hugging Face**<br />[@huggingface](https://x.com/huggingface)<br /><sub>Организация · Английский</sub><br />Модели, наборы данных, открытые библиотеки и проекты сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#huggingface)
+
+- **LangChain**<br />[@LangChainAI](https://x.com/LangChainAI)<br /><sub>Организация · Английский</sub><br />Фреймворки агентов, интеграции инструментов и инженерные руководства.<br />[Подтверждающий источник](docs/ru/sources.md#langchainai)
+
+- **LlamaIndex**<br />[@llama\_index](https://x.com/llama_index)<br /><sub>Организация · Английский</sub><br />Поисковое дополнение генерации, подключение данных и материалы по агентным приложениям.<br />[Подтверждающий источник](docs/ru/sources.md#llama_index)
+
+- **Ollama**<br />[@ollama](https://x.com/ollama)<br /><sub>Организация · Английский</sub><br />Инструменты запуска локальных моделей, примеры интеграции и сведения о выпусках.<br />[Подтверждающий источник](docs/ru/sources.md#ollama)
+
+- **Teknium**<br />[@Teknium](https://x.com/Teknium)<br /><sub>Человек · Английский</sub><br />Открытые модели, наборы инструкций и практика обучения моделей.<br /><sub>Личный профиль GitHub ссылается на @Teknium. Старое имя @Teknium1 не используется как текущая ссылка.</sub><br />[Подтверждающий источник](docs/ru/sources.md#teknium)
+
+- **Thomas Wolf**<br />[@Thom\_Wolf](https://x.com/Thom_Wolf)<br /><sub>Человек · Английский</sub><br />Открытые модели, инструменты машинного обучения и исследовательская экосистема.<br />[Подтверждающий источник](docs/ru/sources.md#thom_wolf)
+
+- **vLLM**<br />[@vllm\_project](https://x.com/vllm_project)<br /><sub>Организация · Английский</sub><br />Высокопроизводительное обслуживание моделей, движки инференса и выпуски.<br />[Подтверждающий источник](docs/ru/sources.md#vllm_project)
+
 
 [↑ Назад к темам](#directory)
 
@@ -172,17 +206,24 @@
 
 **9 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Alex Volkov**<br />[@altryne](https://x.com/altryne)<br /><sub>Человек · Английский</sub> | Инструменты генеративного ИИ, прототипы и творческие рабочие процессы.<br />[Подтверждающий источник](docs/ru/sources.md#altryne) |
-| **camenduru**<br />[@camenduru](https://x.com/camenduru)<br /><sub>Человек · Английский</sub> | Материалы для запуска открытых моделей изображений, видео и мультимодальности.<br />[Подтверждающий источник](docs/ru/sources.md#camenduru) |
-| **Alexander Doria**<br />[@Dorialexander](https://x.com/Dorialexander)<br /><sub>Человек · Английский</sub> | Генеративные модели, творчество с ИИ и взгляд на технологии.<br />[Подтверждающий источник](docs/ru/sources.md#dorialexander) |
-| **ElevenLabs**<br />[@ElevenLabs](https://x.com/ElevenLabs)<br /><sub>Организация · Английский</sub> | Синтез речи, генерация аудио и новости голосовых агентов.<br />[Подтверждающий источник](docs/ru/sources.md#elevenlabs) |
-| **fofr**<br />[@fofrAI](https://x.com/fofrAI)<br /><sub>Человек · Английский</sub> | Практика генерации изображений и видео, эксперименты с открытым кодом.<br />[Подтверждающий источник](docs/ru/sources.md#fofrai) |
-| **Apolinário Passos**<br />[@multimodalart](https://x.com/multimodalart)<br /><sub>Человек · Английский</sub> | Открытые генеративные модели, творческие демонстрации и проекты сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#multimodalart) |
-| **Pika**<br />[@pika\_labs](https://x.com/pika_labs)<br /><sub>Организация · Английский</sub> | Инструменты создания видео с ИИ и официальные примеры.<br />[Подтверждающий источник](docs/ru/sources.md#pika_labs) |
-| **Replicate**<br />[@replicate](https://x.com/replicate)<br /><sub>Организация · Английский</sub> | API для моделей, генеративные приложения и примеры разработки.<br />[Подтверждающий источник](docs/ru/sources.md#replicate) |
-| **Runway**<br />[@runwayml](https://x.com/runwayml)<br /><sub>Организация · Английский</sub> | Генерация и редактирование видео, выпуски творческих инструментов.<br />[Подтверждающий источник](docs/ru/sources.md#runwayml) |
+- **Alex Volkov**<br />[@altryne](https://x.com/altryne)<br /><sub>Человек · Английский</sub><br />Инструменты генеративного ИИ, прототипы и творческие рабочие процессы.<br />[Подтверждающий источник](docs/ru/sources.md#altryne)
+
+- **camenduru**<br />[@camenduru](https://x.com/camenduru)<br /><sub>Человек · Английский</sub><br />Материалы для запуска открытых моделей изображений, видео и мультимодальности.<br />[Подтверждающий источник](docs/ru/sources.md#camenduru)
+
+- **Alexander Doria**<br />[@Dorialexander](https://x.com/Dorialexander)<br /><sub>Человек · Английский</sub><br />Генеративные модели, творчество с ИИ и взгляд на технологии.<br />[Подтверждающий источник](docs/ru/sources.md#dorialexander)
+
+- **ElevenLabs**<br />[@ElevenLabs](https://x.com/ElevenLabs)<br /><sub>Организация · Английский</sub><br />Синтез речи, генерация аудио и новости голосовых агентов.<br />[Подтверждающий источник](docs/ru/sources.md#elevenlabs)
+
+- **fofr**<br />[@fofrAI](https://x.com/fofrAI)<br /><sub>Человек · Английский</sub><br />Практика генерации изображений и видео, эксперименты с открытым кодом.<br />[Подтверждающий источник](docs/ru/sources.md#fofrai)
+
+- **Apolinário Passos**<br />[@multimodalart](https://x.com/multimodalart)<br /><sub>Человек · Английский</sub><br />Открытые генеративные модели, творческие демонстрации и проекты сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#multimodalart)
+
+- **Pika**<br />[@pika\_labs](https://x.com/pika_labs)<br /><sub>Организация · Английский</sub><br />Инструменты создания видео с ИИ и официальные примеры.<br />[Подтверждающий источник](docs/ru/sources.md#pika_labs)
+
+- **Replicate**<br />[@replicate](https://x.com/replicate)<br /><sub>Организация · Английский</sub><br />API для моделей, генеративные приложения и примеры разработки.<br />[Подтверждающий источник](docs/ru/sources.md#replicate)
+
+- **Runway**<br />[@runwayml](https://x.com/runwayml)<br /><sub>Организация · Английский</sub><br />Генерация и редактирование видео, выпуски творческих инструментов.<br />[Подтверждающий источник](docs/ru/sources.md#runwayml)
+
 
 [↑ Назад к темам](#directory)
 
@@ -192,15 +233,20 @@
 
 **7 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **1X**<br />[@1X\_Tech](https://x.com/1X_Tech)<br /><sub>Организация · Английский</sub> | Домашние роботы и новости продуктов воплощённого ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#1x_tech) |
-| **Chelsea Finn**<br />[@chelseabfinn](https://x.com/chelseabfinn)<br /><sub>Человек · Английский</sub> | Обучение роботов, метаобучение и исследования обобщения.<br />[Подтверждающий источник](docs/ru/sources.md#chelseabfinn) |
-| **Jim Fan**<br />[@DrJimFan](https://x.com/DrJimFan)<br /><sub>Человек · Английский</sub> | Воплощённый ИИ, обучение роботов и исследования симуляции.<br />[Подтверждающий источник](docs/ru/sources.md#drjimfan) |
-| **Google DeepMind**<br />[@GoogleDeepMind](https://x.com/GoogleDeepMind)<br /><sub>Организация · Английский</sub> | Мультимодальные модели, робототехника и достижения исследований ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#googledeepmind) |
-| **Karol Hausman**<br />[@hausman\_k](https://x.com/hausman_k)<br /><sub>Человек · Английский</sub> | Базовые модели для робототехники и универсальное обучение роботов.<br />[Подтверждающий источник](docs/ru/sources.md#hausman_k) |
-| **Physical Intelligence**<br />[@Physical\_Int](https://x.com/Physical_Int)<br /><sub>Организация · Английский</sub> | Базовые модели для роботов и новости исследований манипуляции объектами.<br />[Подтверждающий источник](docs/ru/sources.md#physical_int) |
-| **Sergey Levine**<br />[@svlevine](https://x.com/svlevine)<br /><sub>Человек · Английский</sub> | Управление роботами, обучение с подкреплением и обучающиеся агенты.<br />[Подтверждающий источник](docs/ru/sources.md#svlevine) |
+- **1X**<br />[@1X\_Tech](https://x.com/1X_Tech)<br /><sub>Организация · Английский</sub><br />Домашние роботы и новости продуктов воплощённого ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#1x_tech)
+
+- **Chelsea Finn**<br />[@chelseabfinn](https://x.com/chelseabfinn)<br /><sub>Человек · Английский</sub><br />Обучение роботов, метаобучение и исследования обобщения.<br />[Подтверждающий источник](docs/ru/sources.md#chelseabfinn)
+
+- **Jim Fan**<br />[@DrJimFan](https://x.com/DrJimFan)<br /><sub>Человек · Английский</sub><br />Воплощённый ИИ, обучение роботов и исследования симуляции.<br />[Подтверждающий источник](docs/ru/sources.md#drjimfan)
+
+- **Google DeepMind**<br />[@GoogleDeepMind](https://x.com/GoogleDeepMind)<br /><sub>Организация · Английский</sub><br />Мультимодальные модели, робототехника и достижения исследований ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#googledeepmind)
+
+- **Karol Hausman**<br />[@hausman\_k](https://x.com/hausman_k)<br /><sub>Человек · Английский</sub><br />Базовые модели для робототехники и универсальное обучение роботов.<br />[Подтверждающий источник](docs/ru/sources.md#hausman_k)
+
+- **Physical Intelligence**<br />[@Physical\_Int](https://x.com/Physical_Int)<br /><sub>Организация · Английский</sub><br />Базовые модели для роботов и новости исследований манипуляции объектами.<br />[Подтверждающий источник](docs/ru/sources.md#physical_int)
+
+- **Sergey Levine**<br />[@svlevine](https://x.com/svlevine)<br /><sub>Человек · Английский</sub><br />Управление роботами, обучение с подкреплением и обучающиеся агенты.<br />[Подтверждающий источник](docs/ru/sources.md#svlevine)
+
 
 [↑ Назад к темам](#directory)
 
@@ -210,15 +256,20 @@
 
 **7 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Aravind Srinivas**<br />[@AravSrinivas](https://x.com/AravSrinivas)<br /><sub>Человек · Английский</sub> | Поиск с ИИ, информационные продукты и опыт использования приложений.<br />[Подтверждающий источник](docs/ru/sources.md#aravsrinivas) |
-| **Elad Gil**<br />[@eladgil](https://x.com/eladgil)<br /><sub>Человек · Английский</sub> | ИИ-стартапы, корпоративные приложения и взгляд на технологическую отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#eladgil) |
-| **Pieter Levels**<br />[@levelsio](https://x.com/levelsio)<br /><sub>Человек · Английский</sub> | Независимая разработка, создание и эксплуатация ИИ-продуктов.<br />[Подтверждающий источник](docs/ru/sources.md#levelsio) |
-| **Mustafa Suleyman**<br />[@mustafasuleyman](https://x.com/mustafasuleyman)<br /><sub>Человек · Английский</sub> | ИИ-продукты, взаимодействие человека с компьютером и взгляд на отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#mustafasuleyman) |
-| **Sam Altman**<br />[@sama](https://x.com/sama)<br /><sub>Человек · Английский</sub> | ИИ-продукты, развитие отрасли и направления технологий.<br />[Подтверждающий источник](docs/ru/sources.md#sama) |
-| **Sarah Guo**<br />[@saranormous](https://x.com/saranormous)<br /><sub>Человек · Английский</sub> | ИИ-стартапы, продукты и интервью об отрасли.<br />[Подтверждающий источник](docs/ru/sources.md#saranormous) |
-| **Tibo**<br />[@tibo\_maker](https://x.com/tibo_maker)<br /><sub>Человек · Английский</sub> | Независимые продукты, ИИ-инструменты и процесс разработки.<br />[Подтверждающий источник](docs/ru/sources.md#tibo_maker) |
+- **Aravind Srinivas**<br />[@AravSrinivas](https://x.com/AravSrinivas)<br /><sub>Человек · Английский</sub><br />Поиск с ИИ, информационные продукты и опыт использования приложений.<br />[Подтверждающий источник](docs/ru/sources.md#aravsrinivas)
+
+- **Elad Gil**<br />[@eladgil](https://x.com/eladgil)<br /><sub>Человек · Английский</sub><br />ИИ-стартапы, корпоративные приложения и взгляд на технологическую отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#eladgil)
+
+- **Pieter Levels**<br />[@levelsio](https://x.com/levelsio)<br /><sub>Человек · Английский</sub><br />Независимая разработка, создание и эксплуатация ИИ-продуктов.<br />[Подтверждающий источник](docs/ru/sources.md#levelsio)
+
+- **Mustafa Suleyman**<br />[@mustafasuleyman](https://x.com/mustafasuleyman)<br /><sub>Человек · Английский</sub><br />ИИ-продукты, взаимодействие человека с компьютером и взгляд на отрасль.<br />[Подтверждающий источник](docs/ru/sources.md#mustafasuleyman)
+
+- **Sam Altman**<br />[@sama](https://x.com/sama)<br /><sub>Человек · Английский</sub><br />ИИ-продукты, развитие отрасли и направления технологий.<br />[Подтверждающий источник](docs/ru/sources.md#sama)
+
+- **Sarah Guo**<br />[@saranormous](https://x.com/saranormous)<br /><sub>Человек · Английский</sub><br />ИИ-стартапы, продукты и интервью об отрасли.<br />[Подтверждающий источник](docs/ru/sources.md#saranormous)
+
+- **Tibo**<br />[@tibo\_maker](https://x.com/tibo_maker)<br /><sub>Человек · Английский</sub><br />Независимые продукты, ИИ-инструменты и процесс разработки.<br />[Подтверждающий источник](docs/ru/sources.md#tibo_maker)
+
 
 [↑ Назад к темам](#directory)
 
@@ -228,17 +279,24 @@
 
 **9 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **Axton**<br />[@AxtonLiu](https://x.com/AxtonLiu)<br /><sub>Человек · Китайский</sub> | Использование ИИ-инструментов, автоматизация и практические рабочие процессы.<br />[Подтверждающий источник](docs/ru/sources.md#axtonliu) |
-| **宝玉**<br />[@dotey](https://x.com/dotey)<br /><sub>Человек · Китайский</sub> | Объяснения технологий ИИ на китайском, практика программирования и переводы материалов.<br />[Подтверждающий источник](docs/ru/sources.md#dotey) |
-| **Gorden Sun**<br />[@Gorden\_Sun](https://x.com/Gorden_Sun)<br /><sub>Человек · Китайский</sub> | Подборки новостей об ИИ-моделях, продуктах и инструментах на китайском языке.<br />[Подтверждающий источник](docs/ru/sources.md#gorden_sun) |
-| **李继刚**<br />[@lijigang](https://x.com/lijigang)<br /><sub>Человек · Китайский</sub> | Проектирование промптов, языковое выражение и эксперименты со взаимодействием с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#lijigang) |
-| **歸藏**<br />[@op7418](https://x.com/op7418)<br /><sub>Человек · Китайский</sub> | Рабочие процессы создания изображений, видео и дизайна с ИИ на китайском языке.<br />[Подтверждающий источник](docs/ru/sources.md#op7418) |
-| **Orange AI**<br />[@oran\_ge](https://x.com/oran_ge)<br /><sub>Человек · Китайский</sub> | ИИ-продукты, стартапы и сценарии применения.<br />[Подтверждающий источник](docs/ru/sources.md#oran_ge) |
-| **meng shao**<br />[@shao\_\_meng](https://x.com/shao__meng)<br /><sub>Человек · Китайский</sub> | Статьи о LLM, инструменты разработчика и материалы об ИИ-продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#shao__meng) |
-| **向阳乔木**<br />[@vista8](https://x.com/vista8)<br /><sub>Человек · Китайский</sub> | Опыт использования ИИ-продуктов, рабочие процессы и практика программирования.<br />[Подтверждающий источник](docs/ru/sources.md#vista8) |
-| **小互**<br />[@xiaohu](https://x.com/xiaohu)<br /><sub>Человек · Китайский</sub> | ИИ-видео, творческие инструменты и примеры технологических продуктов.<br />[Подтверждающий источник](docs/ru/sources.md#xiaohu) |
+- **Axton**<br />[@AxtonLiu](https://x.com/AxtonLiu)<br /><sub>Человек · Китайский</sub><br />Использование ИИ-инструментов, автоматизация и практические рабочие процессы.<br />[Подтверждающий источник](docs/ru/sources.md#axtonliu)
+
+- **宝玉**<br />[@dotey](https://x.com/dotey)<br /><sub>Человек · Китайский</sub><br />Объяснения технологий ИИ на китайском, практика программирования и переводы материалов.<br />[Подтверждающий источник](docs/ru/sources.md#dotey)
+
+- **Gorden Sun**<br />[@Gorden\_Sun](https://x.com/Gorden_Sun)<br /><sub>Человек · Китайский</sub><br />Подборки новостей об ИИ-моделях, продуктах и инструментах на китайском языке.<br />[Подтверждающий источник](docs/ru/sources.md#gorden_sun)
+
+- **李继刚**<br />[@lijigang](https://x.com/lijigang)<br /><sub>Человек · Китайский</sub><br />Проектирование промптов, языковое выражение и эксперименты со взаимодействием с ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#lijigang)
+
+- **歸藏**<br />[@op7418](https://x.com/op7418)<br /><sub>Человек · Китайский</sub><br />Рабочие процессы создания изображений, видео и дизайна с ИИ на китайском языке.<br />[Подтверждающий источник](docs/ru/sources.md#op7418)
+
+- **Orange AI**<br />[@oran\_ge](https://x.com/oran_ge)<br /><sub>Человек · Китайский</sub><br />ИИ-продукты, стартапы и сценарии применения.<br />[Подтверждающий источник](docs/ru/sources.md#oran_ge)
+
+- **meng shao**<br />[@shao\_\_meng](https://x.com/shao__meng)<br /><sub>Человек · Китайский</sub><br />Статьи о LLM, инструменты разработчика и материалы об ИИ-продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#shao__meng)
+
+- **向阳乔木**<br />[@vista8](https://x.com/vista8)<br /><sub>Человек · Китайский</sub><br />Опыт использования ИИ-продуктов, рабочие процессы и практика программирования.<br />[Подтверждающий источник](docs/ru/sources.md#vista8)
+
+- **小互**<br />[@xiaohu](https://x.com/xiaohu)<br /><sub>Человек · Китайский</sub><br />ИИ-видео, творческие инструменты и примеры технологических продуктов.<br />[Подтверждающий источник](docs/ru/sources.md#xiaohu)
+
 
 [↑ Назад к темам](#directory)
 
@@ -248,22 +306,34 @@
 
 **14 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **AI21 Labs**<br />[@AI21Labs](https://x.com/AI21Labs)<br /><sub>Организация · Английский</sub> | Языковые модели и материалы о корпоративных ИИ-продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#ai21labs) |
-| **AI at Meta**<br />[@AIatMeta](https://x.com/AIatMeta)<br /><sub>Организация · Английский</sub> | Официальные новости о моделях, открытом ИИ и исследованиях.<br />[Подтверждающий источник](docs/ru/sources.md#aiatmeta) |
-| **Qwen**<br />[@Alibaba\_Qwen](https://x.com/Alibaba_Qwen)<br /><sub>Организация · Английский</sub> | Открытые модели, мультимодальные возможности и технические отчёты.<br />[Подтверждающий источник](docs/ru/sources.md#alibaba_qwen) |
-| **Ai2**<br />[@allen\_ai](https://x.com/allen_ai)<br /><sub>Организация · Английский</sub> | Открытые модели, ИИ для науки и исследовательские инструменты.<br />[Подтверждающий источник](docs/ru/sources.md#allen_ai) |
-| **Anthropic**<br />[@AnthropicAI](https://x.com/AnthropicAI)<br /><sub>Организация · Английский</sub> | Возможности моделей, исследования безопасности и материалы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#anthropicai) |
-| **Cohere**<br />[@cohere](https://x.com/cohere)<br /><sub>Организация · Английский</sub> | Корпоративные языковые модели, поиск и материалы по прикладной инженерии.<br />[Подтверждающий источник](docs/ru/sources.md#cohere) |
-| **DeepSeek**<br />[@deepseek\_ai](https://x.com/deepseek_ai)<br /><sub>Организация · Английский</sub> | Официальные объявления о моделях и результатах исследований.<br />[Подтверждающий источник](docs/ru/sources.md#deepseek_ai) |
-| **Google AI**<br />[@GoogleAI](https://x.com/GoogleAI)<br /><sub>Организация · Английский</sub> | Официальные новости об исследованиях ИИ, инструментах и продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#googleai) |
-| **Mistral AI**<br />[@MistralAI](https://x.com/MistralAI)<br /><sub>Организация · Английский</sub> | Официальные выпуски моделей, API для разработчиков и продуктов развёртывания.<br />[Подтверждающий источник](docs/ru/sources.md#mistralai) |
-| **MIT CSAIL**<br />[@MIT\_CSAIL](https://x.com/MIT_CSAIL)<br /><sub>Организация · Английский</sub> | Публикации об исследованиях информатики, ИИ и робототехники.<br />[Подтверждающий источник](docs/ru/sources.md#mit_csail) |
-| **NVIDIA AI**<br />[@NVIDIAAI](https://x.com/NVIDIAAI)<br /><sub>Организация · Английский</sub> | Вычисления для ИИ, развёртывание моделей и инструменты разработчика.<br />[Подтверждающий источник](docs/ru/sources.md#nvidiaai) |
-| **OpenAI**<br />[@OpenAI](https://x.com/OpenAI)<br /><sub>Организация · Английский</sub> | Официальные публикации о моделях, платформах для разработчиков и исследованиях.<br />[Подтверждающий источник](docs/ru/sources.md#openai) |
-| **Stability AI**<br />[@StabilityAI](https://x.com/StabilityAI)<br /><sub>Организация · Английский</sub> | Открытые генеративные модели, инструменты изображений и новости медиа.<br />[Подтверждающий источник](docs/ru/sources.md#stabilityai) |
-| **Stanford HAI**<br />[@StanfordHAI](https://x.com/StanfordHAI)<br /><sub>Организация · Английский</sub> | Исследования человекоцентричного ИИ и обсуждение политики.<br />[Подтверждающий источник](docs/ru/sources.md#stanfordhai) |
+- **AI21 Labs**<br />[@AI21Labs](https://x.com/AI21Labs)<br /><sub>Организация · Английский</sub><br />Языковые модели и материалы о корпоративных ИИ-продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#ai21labs)
+
+- **AI at Meta**<br />[@AIatMeta](https://x.com/AIatMeta)<br /><sub>Организация · Английский</sub><br />Официальные новости о моделях, открытом ИИ и исследованиях.<br />[Подтверждающий источник](docs/ru/sources.md#aiatmeta)
+
+- **Qwen**<br />[@Alibaba\_Qwen](https://x.com/Alibaba_Qwen)<br /><sub>Организация · Английский</sub><br />Открытые модели, мультимодальные возможности и технические отчёты.<br />[Подтверждающий источник](docs/ru/sources.md#alibaba_qwen)
+
+- **Ai2**<br />[@allen\_ai](https://x.com/allen_ai)<br /><sub>Организация · Английский</sub><br />Открытые модели, ИИ для науки и исследовательские инструменты.<br />[Подтверждающий источник](docs/ru/sources.md#allen_ai)
+
+- **Anthropic**<br />[@AnthropicAI](https://x.com/AnthropicAI)<br /><sub>Организация · Английский</sub><br />Возможности моделей, исследования безопасности и материалы для разработчиков.<br />[Подтверждающий источник](docs/ru/sources.md#anthropicai)
+
+- **Cohere**<br />[@cohere](https://x.com/cohere)<br /><sub>Организация · Английский</sub><br />Корпоративные языковые модели, поиск и материалы по прикладной инженерии.<br />[Подтверждающий источник](docs/ru/sources.md#cohere)
+
+- **DeepSeek**<br />[@deepseek\_ai](https://x.com/deepseek_ai)<br /><sub>Организация · Английский</sub><br />Официальные объявления о моделях и результатах исследований.<br />[Подтверждающий источник](docs/ru/sources.md#deepseek_ai)
+
+- **Google AI**<br />[@GoogleAI](https://x.com/GoogleAI)<br /><sub>Организация · Английский</sub><br />Официальные новости об исследованиях ИИ, инструментах и продуктах.<br />[Подтверждающий источник](docs/ru/sources.md#googleai)
+
+- **Mistral AI**<br />[@MistralAI](https://x.com/MistralAI)<br /><sub>Организация · Английский</sub><br />Официальные выпуски моделей, API для разработчиков и продуктов развёртывания.<br />[Подтверждающий источник](docs/ru/sources.md#mistralai)
+
+- **MIT CSAIL**<br />[@MIT\_CSAIL](https://x.com/MIT_CSAIL)<br /><sub>Организация · Английский</sub><br />Публикации об исследованиях информатики, ИИ и робототехники.<br />[Подтверждающий источник](docs/ru/sources.md#mit_csail)
+
+- **NVIDIA AI**<br />[@NVIDIAAI](https://x.com/NVIDIAAI)<br /><sub>Организация · Английский</sub><br />Вычисления для ИИ, развёртывание моделей и инструменты разработчика.<br />[Подтверждающий источник](docs/ru/sources.md#nvidiaai)
+
+- **OpenAI**<br />[@OpenAI](https://x.com/OpenAI)<br /><sub>Организация · Английский</sub><br />Официальные публикации о моделях, платформах для разработчиков и исследованиях.<br />[Подтверждающий источник](docs/ru/sources.md#openai)
+
+- **Stability AI**<br />[@StabilityAI](https://x.com/StabilityAI)<br /><sub>Организация · Английский</sub><br />Открытые генеративные модели, инструменты изображений и новости медиа.<br />[Подтверждающий источник](docs/ru/sources.md#stabilityai)
+
+- **Stanford HAI**<br />[@StanfordHAI](https://x.com/StanfordHAI)<br /><sub>Организация · Английский</sub><br />Исследования человекоцентричного ИИ и обсуждение политики.<br />[Подтверждающий источник](docs/ru/sources.md#stanfordhai)
+
 
 [↑ Назад к темам](#directory)
 
@@ -273,16 +343,22 @@
 
 **8 · Аккаунты**
 
-| Аккаунт | За чем следить |
-| --- | --- |
-| **DeepLearning.AI**<br />[@DeepLearningAI](https://x.com/DeepLearningAI)<br /><sub>Организация · Английский</sub> | Курсы машинного обучения, образование в области ИИ и технологические новости.<br /><sub>Более новые страницы X используют @DeepLearningAI; в старых источниках имя оканчивается подчёркиванием.</sub><br />[Подтверждающий источник](docs/ru/sources.md#deeplearningai) |
-| **Ethan Mollick**<br />[@emollick](https://x.com/emollick)<br /><sub>Человек · Английский</sub> | Эксперименты с генеративным ИИ и наблюдения о работе и образовании.<br />[Подтверждающий источник](docs/ru/sources.md#emollick) |
-| **Gary Marcus**<br />[@GaryMarcus](https://x.com/GaryMarcus)<br /><sub>Человек · Английский</sub> | Критический анализ возможностей, ограничений и надёжности ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#garymarcus) |
-| **Latent Space**<br />[@LatentSpacePod](https://x.com/LatentSpacePod)<br /><sub>Медиа · Английский</sub> | Интервью с ИИ-инженерами, технические дискуссии и материалы сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#latentspacepod) |
-| **Lex Fridman**<br />[@lexfridman](https://x.com/lexfridman)<br /><sub>Человек · Английский</sub> | Интервью с исследователями технологий и развёрнутые технические беседы.<br />[Подтверждающий источник](docs/ru/sources.md#lexfridman) |
-| **TechCrunch**<br />[@TechCrunch](https://x.com/TechCrunch)<br /><sub>Медиа · Английский</sub> | Новости технологических компаний, ИИ-продуктов и стартапов.<br />[Подтверждающий источник](docs/ru/sources.md#techcrunch) |
-| **The Sequence**<br />[@TheSequenceAI](https://x.com/TheSequenceAI)<br /><sub>Медиа · Английский</sub> | Подборки материалов об исследованиях ИИ, моделях и технологических тенденциях.<br />[Подтверждающий источник](docs/ru/sources.md#thesequenceai) |
-| **Turing Post**<br />[@TheTuringPost](https://x.com/TheTuringPost)<br /><sub>Медиа · Английский</sub> | Рассылка с объяснениями исследований машинного обучения и ИИ-инженерии.<br />[Подтверждающий источник](docs/ru/sources.md#theturingpost) |
+- **DeepLearning.AI**<br />[@DeepLearningAI](https://x.com/DeepLearningAI)<br /><sub>Организация · Английский</sub><br />Курсы машинного обучения, образование в области ИИ и технологические новости.<br /><sub>Более новые страницы X используют @DeepLearningAI; в старых источниках имя оканчивается подчёркиванием.</sub><br />[Подтверждающий источник](docs/ru/sources.md#deeplearningai)
+
+- **Ethan Mollick**<br />[@emollick](https://x.com/emollick)<br /><sub>Человек · Английский</sub><br />Эксперименты с генеративным ИИ и наблюдения о работе и образовании.<br />[Подтверждающий источник](docs/ru/sources.md#emollick)
+
+- **Gary Marcus**<br />[@GaryMarcus](https://x.com/GaryMarcus)<br /><sub>Человек · Английский</sub><br />Критический анализ возможностей, ограничений и надёжности ИИ.<br />[Подтверждающий источник](docs/ru/sources.md#garymarcus)
+
+- **Latent Space**<br />[@LatentSpacePod](https://x.com/LatentSpacePod)<br /><sub>Медиа · Английский</sub><br />Интервью с ИИ-инженерами, технические дискуссии и материалы сообщества.<br />[Подтверждающий источник](docs/ru/sources.md#latentspacepod)
+
+- **Lex Fridman**<br />[@lexfridman](https://x.com/lexfridman)<br /><sub>Человек · Английский</sub><br />Интервью с исследователями технологий и развёрнутые технические беседы.<br />[Подтверждающий источник](docs/ru/sources.md#lexfridman)
+
+- **TechCrunch**<br />[@TechCrunch](https://x.com/TechCrunch)<br /><sub>Медиа · Английский</sub><br />Новости технологических компаний, ИИ-продуктов и стартапов.<br />[Подтверждающий источник](docs/ru/sources.md#techcrunch)
+
+- **The Sequence**<br />[@TheSequenceAI](https://x.com/TheSequenceAI)<br /><sub>Медиа · Английский</sub><br />Подборки материалов об исследованиях ИИ, моделях и технологических тенденциях.<br />[Подтверждающий источник](docs/ru/sources.md#thesequenceai)
+
+- **Turing Post**<br />[@TheTuringPost](https://x.com/TheTuringPost)<br /><sub>Медиа · Английский</sub><br />Рассылка с объяснениями исследований машинного обучения и ИИ-инженерии.<br />[Подтверждающий источник](docs/ru/sources.md#theturingpost)
+
 
 [↑ Назад к темам](#directory)
 

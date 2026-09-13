@@ -370,8 +370,10 @@ def generate(data: dict, template: str, locales: dict, backlog: dict) -> dict[st
             sections += [
                 f'<a id="{cid}"></a>', "", f"## {title}", "",
                 f'**{counts[cid]} · {ui["count"]}**', "",
-                f'| {ui["account"]} | {ui["why"]} |', "| --- | --- |",
             ]
+            # Russian words need more width than two mobile table cells provide.
+            if locale != "ru":
+                sections += [f'| {ui["account"]} | {ui["why"]} |', "| --- | --- |"]
             sources += [f"## {title}", ""]
             for account in local_accounts:
                 if account["category"] != cid:
@@ -384,11 +386,13 @@ def generate(data: dict, template: str, locales: dict, backlog: dict) -> dict[st
                 why = md(account["why"])
                 if account["notes"]:
                     why += "<br /><sub>" + md(account["notes"]) + "</sub>"
-                sections.append(
-                    f"| **{name}**<br />[@{md(handle)}]({url})<br />"
-                    f'<sub>{ui["types"][account["kind"]]} · {languages}</sub> | {why}<br />'
-                    f'[{ui["evidence"]}]({sources_path}#{anchor}) |'
-                )
+                identity = f"**{name}**<br />[@{md(handle)}]({url})<br />"
+                identity += f'<sub>{ui["types"][account["kind"]]} · {languages}</sub>'
+                description = f'{why}<br />[{ui["evidence"]}]({sources_path}#{anchor})'
+                if locale == "ru":
+                    sections += [f"- {identity}<br />{description}", ""]
+                else:
+                    sections.append(f"| {identity} | {description} |")
                 sources += [f'<a id="{anchor}"></a>', "", f"### {name} · @{md(handle)}", "",
                             f'- {ui["profile"]}: [@{md(handle)}]({url})']
                 for index, source in enumerate(account["sources"], 1):
@@ -402,10 +406,10 @@ def generate(data: dict, template: str, locales: dict, backlog: dict) -> dict[st
             sections += ["", f'[↑ {ui["back"]}](#directory)', ""]
         routes = [("llm", "research"), ("agents", "infra"), ("coding", "agents"),
                   ("creative",), ("robotics",), ("chinese",), ("labs", "media")]
-        start = [f'| {ui["start_header"]} | {ui["topic"]} |', "| --- | --- |"]
+        start = [] if locale == "ru" else [f'| {ui["start_header"]} | {ui["topic"]} |', "| --- | --- |"]
         for label, route in zip(ui["start_rows"], routes):
             links = " → ".join(f'[{md(ui["categories"][cid])}](#{cid})' for cid in route)
-            start.append(f"| {md(label)} | {links} |")
+            start.append(f"- **{md(label)}**: {links}" if locale == "ru" else f"| {md(label)} | {links} |")
         export_paths = [
             ("JSON", "data/accounts.json"), ("CSV", localized_path("data/accounts.csv", locale)),
             ("TXT", "data/handles.txt"), (ui["sources"], sources_path),
