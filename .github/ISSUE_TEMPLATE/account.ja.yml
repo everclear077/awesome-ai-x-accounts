@@ -1,48 +1,40 @@
-name: "日本語 · アカウントの推薦"
-description: "AI、LLM、エージェント、技術分野の公開アカウントを推薦"
+name: "日本語 · アカウントの提出"
+description: "AI・技術分野の公開 X アカウントを追加"
 title: "[Account] "
 body:
   - type: input
-    id: name
-    attributes:
-      label: "名前または組織名"
-    validations:
-      required: true
-  - type: input
     id: url
     attributes:
-      label: "Xプロフィールの完全なURL"
-      placeholder: "https://x.com/handle"
-    validations:
-      required: true
-  - type: dropdown
-    id: kind
-    attributes:
-      label: "アカウントの種類"
-      options:
-        - "個人"
-        - "組織"
-        - "メディア"
-    validations:
-      required: true
-  - type: textarea
-    id: reason
-    attributes:
-      label: "分野と推薦理由"
-      description: "人気だけでなく具体的な仕事や役立つ内容を説明してください。"
-    validations:
-      required: true
-  - type: textarea
-    id: evidence
-    attributes:
-      label: "一次資料"
-      description: "本人・組織のページ、またはそのアカウント自身のX投稿を示してください。"
+      label: "X プロフィール URL"
     validations:
       required: true
   - type: input
-    id: relation
+    id: category
     attributes:
-      label: "アカウントとの関係"
-      placeholder: "なし / 本人 / 同僚 / その他"
+      label: "分類 ID"
     validations:
       required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "紹介文 — 原文をそのままコピー"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "フォロワー数 — 取得できれば正確な整数"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "タイムゾーン付きの取得日時"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "補足事項（任意）"
+    validations:
+      required: false

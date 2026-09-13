@@ -6,6 +6,8 @@
 *.yaml text eol=lf
 *.svg text eol=lf
 *.csv text eol=lf
+# Preserve whitespace in quoted, verbatim X profile bios.
+data/accounts.csv whitespace=-blank-at-eol
 *.txt text eol=lf
 *.mdc text eol=lf
 *.png binary

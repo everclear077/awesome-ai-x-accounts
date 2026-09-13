@@ -1,20 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="950" height="112" viewBox="0 0 950 112" role="img" aria-labelledby="title">
-<title id="title">100 АККАУНТЫ · 11 ТЕМЫ · 69 ЛЮДИ · 27 ОРГАНИЗАЦИИ · 4 МЕДИА</title>
+<title id="title">100 АККАУНТЫ · 11 КАТЕГОРИИ · 7 ЯЗЫКИ</title>
 <rect x="1" y="1" width="948" height="110" rx="18" fill="#101d31" stroke="#283b54"/>
 <g font-family="Arial, sans-serif" text-anchor="middle">
-<text x="95" y="53" font-size="32" font-weight="700" fill="#76e6d4">100</text>
-<text x="95" y="81" font-size="12" fill="#b6c7dd">АККАУНТЫ</text>
-<text x="285" y="53" font-size="32" font-weight="700" fill="#76e6d4">11</text>
-<text x="285" y="81" font-size="12" fill="#b6c7dd">ТЕМЫ</text>
-<path d="M190 28v56" stroke="#283b54"/>
-<text x="475" y="53" font-size="32" font-weight="700" fill="#76e6d4">69</text>
-<text x="475" y="81" font-size="12" fill="#b6c7dd">ЛЮДИ</text>
-<path d="M380 28v56" stroke="#283b54"/>
-<text x="665" y="53" font-size="32" font-weight="700" fill="#76e6d4">27</text>
-<text x="665" y="81" font-size="12" fill="#b6c7dd">ОРГАНИЗАЦИИ</text>
-<path d="M570 28v56" stroke="#283b54"/>
-<text x="855" y="53" font-size="32" font-weight="700" fill="#76e6d4">4</text>
-<text x="855" y="81" font-size="12" fill="#b6c7dd">МЕДИА</text>
-<path d="M760 28v56" stroke="#283b54"/>
+<text x="158" y="53" font-size="32" font-weight="700" fill="#76e6d4">100</text>
+<text x="158" y="81" font-size="12" fill="#b6c7dd">АККАУНТЫ</text>
+<text x="475" y="53" font-size="32" font-weight="700" fill="#76e6d4">11</text>
+<text x="475" y="81" font-size="12" fill="#b6c7dd">КАТЕГОРИИ</text>
+<path d="M317 28v56" stroke="#283b54"/>
+<text x="792" y="53" font-size="32" font-weight="700" fill="#76e6d4">7</text>
+<text x="792" y="81" font-size="12" fill="#b6c7dd">ЯЗЫКИ</text>
+<path d="M634 28v56" stroke="#283b54"/>
 </g>
 </svg>

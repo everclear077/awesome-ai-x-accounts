@@ -1,4 +1,4 @@
-1X_Tech
+1x_tech
 abacaj
 AI21Labs
 AIatMeta
@@ -45,12 +45,13 @@ JayAlammar
 jerryjliu0
 jxnlco
 karpathy
-LangChainAI
-LatentSpacePod
+LangChain
+latentspacepod
 leerob
 levelsio
 lexfridman
 lijigang
+lilianweng
 llama_index
 mattshumer_
 MelMitchell1
@@ -67,7 +68,7 @@ omarsar0
 op7418
 OpenAI
 oran_ge
-Physical_Int
+physical_int
 pika_labs
 rasbt
 rauchg
@@ -89,7 +90,6 @@ svlevine
 swyx
 TechCrunch
 Teknium
-TheSequenceAI
 TheTuringPost
 Thom_Wolf
 tibo_maker

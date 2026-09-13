@@ -13,8 +13,6 @@
 
 <p align="center">
   <a href="#directory">{{BROWSE}}</a> ·
-  <a href="#start">{{START}}</a> ·
-  <a href="{{SOURCES_LINK}}">{{SOURCES}}</a> ·
   <a href="{{CONTRIBUTING_LINK}}">{{CONTRIBUTE}}</a>
 </p>
 
@@ -24,18 +22,9 @@
 
 {{INTRO}}
 
-{{SUMMARY}}<br />
-{{REVIEW}}
+{{SUMMARY}}
 
-> {{LIMITS}}
-
-<a id="start"></a>
-
-## 🧭 {{START}}
-
-{{START_TABLE}}
-
-{{START_ADVICE}}
+{{SNAPSHOT}}
 
 <a id="directory"></a>
 
@@ -43,23 +32,19 @@
 
 {{DIRECTORY_TABLE}}
 
-{{LEGEND}}
-
 {{ACCOUNTS}}
-
-<a id="data"></a>
-
-## 📦 {{DATA}}
-
-{{EXPORT_TABLE}}
-
-{{EXPORT_NOTE}}
 
 ## 🤝 {{COMMUNITY}}
 
 {{COMMUNITY_TEXT}}
 
 [{{CHANGELOG}}]({{CHANGELOG_LINK}}) · [{{COC}}]({{COC_LINK}}) · [{{SUPPORT}}]({{SUPPORT_LINK}}) · [{{SECURITY}}]({{SECURITY_LINK}})
+
+<a id="data"></a>
+
+## 📦 {{DATA}}
+
+{{EXPORT_TABLE}}
 
 <details>
 <summary>{{DEVELOPMENT}}</summary>

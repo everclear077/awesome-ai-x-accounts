@@ -1,5 +1,6 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
+  "default_locale": "en",
   "categories": [
     {
       "id": "research",
@@ -48,1915 +49,1104 @@
   ],
   "accounts": [
     {
-      "handle": "karpathy",
-      "name": "Andrej Karpathy",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Detailed explanations of neural networks, model training, and AI-assisted programming.",
-      "url": "https://x.com/karpathy",
-      "sources": [
-        {
-          "url": "https://x.com/karpathy/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "755183838532370432",
+      "handle": "1x_tech",
+      "name": "1X",
+      "url": "https://x.com/1x_tech",
+      "category": "robotics",
+      "bio": "NEO The Home Robot | Order Today",
+      "followers_count": 145423,
+      "observed_at": "2026-09-13T10:33:03+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/1X_Tech"
     },
     {
-      "handle": "ylecun",
-      "name": "Yann LeCun",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Discussions of representation learning, world models, and AI research directions.",
-      "url": "https://x.com/ylecun",
-      "sources": [
-        {
-          "url": "https://x.com/ylecun/status/2042347532043395226",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        },
-        {
-          "url": "https://yann.lecun.org/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "His website says he has reduced original posting on X and mainly shares links or reposts; his personal website is another useful entry point."
-    },
-    {
-      "handle": "geoffreyhinton",
-      "name": "Geoffrey Hinton",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Deep learning foundations, model capabilities, and AI risks.",
-      "url": "https://x.com/geoffreyhinton",
-      "sources": [
-        {
-          "url": "https://x.com/geoffreyhinton/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "AndrewYNg",
-      "name": "Andrew Ng",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Machine learning education, AI application development, and industry perspectives.",
-      "url": "https://x.com/AndrewYNg",
-      "sources": [
-        {
-          "url": "https://x.com/AndrewYNg/status/1405622853735649284",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "drfeifei",
-      "name": "Fei-Fei Li",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Computer vision, spatial intelligence, and human-centered AI.",
-      "url": "https://x.com/drfeifei",
-      "sources": [
-        {
-          "url": "https://www-cs.stanford.edu/groups/vision/people.html",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "goodfellow_ian",
-      "name": "Ian Goodfellow",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Deep learning, generative models, and machine learning research.",
-      "url": "https://x.com/goodfellow_ian",
-      "sources": [
-        {
-          "url": "https://x.com/goodfellow_ian/status/1554836790736916480",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "ilyasut",
-      "name": "Ilya Sutskever",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "First-hand perspectives on deep learning research and model capabilities.",
-      "url": "https://x.com/ilyasut",
-      "sources": [
-        {
-          "url": "https://x.com/ilyasut/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "fchollet",
-      "name": "François Chollet",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Deep learning, intelligence evaluation, and generalization.",
-      "url": "https://x.com/fchollet",
-      "sources": [
-        {
-          "url": "https://x.com/fchollet/status/2036551534549643444",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "demishassabis",
-      "name": "Demis Hassabis",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Artificial general intelligence, scientific discovery, and research progress.",
-      "url": "https://x.com/demishassabis",
-      "sources": [
-        {
-          "url": "https://x.com/demishassabis/with_replies?lang=en",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "MelMitchell1",
-      "name": "Melanie Mitchell",
-      "category": "research",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI concepts, analogical reasoning, and the limits of model capabilities.",
-      "url": "https://x.com/MelMitchell1",
-      "sources": [
-        {
-          "url": "https://x.com/MelMitchell1/status/1920564159286071455",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "A historical post is available as evidence; recent posting frequency has not been checked."
-    },
-    {
-      "handle": "rasbt",
-      "name": "Sebastian Raschka",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Code-based explanations of language model training and machine learning methods.",
-      "url": "https://x.com/rasbt",
-      "sources": [
-        {
-          "url": "https://x.com/rasbt/status/1684902178509504512",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "seb_ruder",
-      "name": "Sebastian Ruder",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Natural language processing, multilingual models, and research reading.",
-      "url": "https://x.com/seb_ruder",
-      "sources": [
-        {
-          "url": "https://twitter.com/seb_ruder/with_replies?lang=en",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "JayAlammar",
-      "name": "Jay Alammar",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Visual explanations of Transformers, embeddings, and language models.",
-      "url": "https://x.com/JayAlammar",
-      "sources": [
-        {
-          "url": "https://jalammar.github.io/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "SerranoAcademy",
-      "name": "Luis Serrano",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Intuitive examples for learning machine learning and generative AI.",
-      "url": "https://x.com/SerranoAcademy",
-      "sources": [
-        {
-          "url": "https://linktr.ee/luisgserrano",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "omarsar0",
-      "name": "Elvis Saravia",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Prompt engineering, LLM papers, and developer learning resources.",
-      "url": "https://x.com/omarsar0",
-      "sources": [
-        {
-          "url": "https://x.com/omarsar0/status/2029992986113900871",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "srush_nlp",
-      "name": "Alexander Rush",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Natural language processing, model efficiency, and research tools.",
-      "url": "https://x.com/srush_nlp",
-      "sources": [
-        {
-          "url": "https://x.com/srush_nlp/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "natolambert",
-      "name": "Nathan Lambert",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Model post-training, preference learning, and open model research.",
-      "url": "https://x.com/natolambert",
-      "sources": [
-        {
-          "url": "https://x.com/natolambert/status/1931017013419520063",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Francis_YAO_",
-      "name": "Yao Fu",
-      "category": "llm",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Language model training, reasoning, and research analysis.",
-      "url": "https://x.com/Francis_YAO_",
-      "sources": [
-        {
-          "url": "https://yaofu.notion.site/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "The X handle was checked against his personal blog and differs from his GitHub username."
-    },
-    {
-      "handle": "swyx",
-      "name": "Shawn Wang",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI engineering ecosystems, agent practices, and developer interviews.",
-      "url": "https://x.com/swyx",
-      "sources": [
-        {
-          "url": "https://swyx.io/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "simonw",
-      "name": "Simon Willison",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Hands-on LLM tool testing, prompt injection, and software engineering notes.",
-      "url": "https://x.com/simonw",
-      "sources": [
-        {
-          "url": "https://x.com/simonw/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "chipro",
-      "name": "Chip Huyen",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI system design, evaluation, and model application engineering.",
-      "url": "https://x.com/chipro",
-      "sources": [
-        {
-          "url": "https://x.com/chipro/status/1186651526338465792",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "eugeneyan",
-      "name": "Eugene Yan",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Recommendation systems, LLM applications, and production engineering.",
-      "url": "https://x.com/eugeneyan",
-      "sources": [
-        {
-          "url": "https://eugeneyan.com/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "HamelHusain",
-      "name": "Hamel Husain",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "LLM evaluation, error analysis, and application development practices.",
-      "url": "https://x.com/HamelHusain",
-      "sources": [
-        {
-          "url": "https://x.com/HamelHusain/status/2027886222161678845",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "jxnlco",
-      "name": "Jason Liu",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Structured extraction, LLM workflows, and evaluation practices.",
-      "url": "https://x.com/jxnlco",
-      "sources": [
-        {
-          "url": "https://x.com/jxnlco/status/2037968924499992786",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "hwchase17",
-      "name": "Harrison Chase",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Agent orchestration, tool calling, and the LangChain ecosystem.",
-      "url": "https://x.com/hwchase17",
-      "sources": [
-        {
-          "url": "https://x.com/hwchase17/status/2026313732947943877",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "jerryjliu0",
-      "name": "Jerry Liu",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Data retrieval, knowledge bases, and the LlamaIndex ecosystem.",
-      "url": "https://x.com/jerryjliu0",
-      "sources": [
-        {
-          "url": "https://x.com/jerryjliu0/status/2041211035160600862",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "sh_reya",
-      "name": "Shreya Shankar",
-      "category": "agents",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Data systems, LLM evaluation, and human–AI collaboration research.",
-      "url": "https://x.com/sh_reya",
-      "sources": [
-        {
-          "url": "https://x.com/sh_reya/status/1889000744982098087",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "steipete",
-      "name": "Peter Steinberger",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Coding agents, developer tools, and real-world project workflows.",
-      "url": "https://x.com/steipete",
-      "sources": [
-        {
-          "url": "https://x.com/steipete/status/2026135884815306950",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "bcherny",
-      "name": "Boris Cherny",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Coding-agent products and experience with development workflows.",
-      "url": "https://x.com/bcherny",
-      "sources": [
-        {
-          "url": "https://x.com/bcherny/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "trq212",
-      "name": "Thariq Shihipar",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI coding tools, interaction design, and practical agent usage.",
-      "url": "https://x.com/trq212",
-      "sources": [
-        {
-          "url": "https://www.linkedin.com/posts/thariqshihipar_thariq-trq212-on-x-activity-7386548104612757504-ACdH",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "amanrsanger",
-      "name": "Aman Sanger",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI coding products, codebase understanding, and developer experience.",
-      "url": "https://x.com/amanrsanger",
-      "sources": [
-        {
-          "url": "https://x.com/amanrsanger/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "mntruell",
-      "name": "Michael Truell",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI coding editors and new approaches to software development.",
-      "url": "https://x.com/mntruell",
-      "sources": [
-        {
-          "url": "https://x.com/mntruell/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "sarah_edo",
-      "name": "Sarah Drasner",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Software engineering, developer experience, and AI-assisted development.",
-      "url": "https://x.com/sarah_edo",
-      "sources": [
-        {
-          "url": "https://github.com/sdras",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "rauchg",
-      "name": "Guillermo Rauch",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Web development, AI application interfaces, and developer platforms.",
-      "url": "https://x.com/rauchg",
-      "sources": [
-        {
-          "url": "https://x.com/rauchg/status/2041883605711122488",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "leerob",
-      "name": "Lee Robinson",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Web engineering, AI developer tools, and practical tutorials.",
-      "url": "https://x.com/leerob",
-      "sources": [
-        {
-          "url": "https://x.com/leerob/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        },
-        {
-          "url": "https://x.com/leeerob/with_replies",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "The old @leeerob profile states that the account moved to @leerob."
-    },
-    {
-      "handle": "mattshumer_",
-      "name": "Matt Shumer",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI tool applications, agent workflows, and product experiments.",
-      "url": "https://x.com/mattshumer_",
-      "sources": [
-        {
-          "url": "https://x.com/mattshumer_/status/2046284453123879421",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "nutlope",
-      "name": "Hassan El Mghari",
-      "category": "coding",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Open-source AI applications, web examples, and development tutorials.",
-      "url": "https://x.com/nutlope",
-      "sources": [
-        {
-          "url": "https://x.com/nutlope/status/2041199444855492790",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Thom_Wolf",
-      "name": "Thomas Wolf",
-      "category": "infra",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Open models, machine learning tools, and the research ecosystem.",
-      "url": "https://x.com/Thom_Wolf",
-      "sources": [
-        {
-          "url": "https://x.com/Thom_Wolf/status/2041217780515565676",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
+      "id": "70514287",
       "handle": "abacaj",
       "name": "anton",
-      "category": "infra",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Local models, inference engineering, and AI development experiments.",
       "url": "https://x.com/abacaj",
-      "sources": [
-        {
-          "url": "https://x.com/abacaj/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "ggerganov",
-      "name": "Georgi Gerganov",
       "category": "infra",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Local inference, quantization, and lightweight model runtimes.",
-      "url": "https://x.com/ggerganov",
-      "sources": [
-        {
-          "url": "https://x.com/ggerganov/status/1952978670328660152",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "bio": "Software, working on https://t.co/wPa5iIk1d3 - browsers for agents",
+      "followers_count": 48402,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/abacaj"
     },
     {
-      "handle": "Teknium",
-      "name": "Teknium",
-      "category": "infra",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Open models, instruction datasets, and model training practices.",
-      "url": "https://x.com/Teknium",
-      "sources": [
-        {
-          "url": "https://github.com/teknium1",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "His GitHub profile links to @Teknium. The older @Teknium1 handle is not used as the current entry point."
-    },
-    {
-      "handle": "vllm_project",
-      "name": "vLLM",
-      "category": "infra",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "High-throughput model serving, inference engines, and releases.",
-      "url": "https://x.com/vllm_project",
-      "sources": [
-        {
-          "url": "https://x.com/vllm_project/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "ollama",
-      "name": "Ollama",
-      "category": "infra",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Local model tools, integration examples, and release information.",
-      "url": "https://x.com/ollama",
-      "sources": [
-        {
-          "url": "https://x.com/ollama/status/2041610283152797818",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "huggingface",
-      "name": "Hugging Face",
-      "category": "infra",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Models, datasets, open-source libraries, and community projects.",
-      "url": "https://x.com/huggingface",
-      "sources": [
-        {
-          "url": "https://x.com/huggingface/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "LangChainAI",
-      "name": "LangChain",
-      "category": "infra",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Agent frameworks, tool integrations, and engineering tutorials.",
-      "url": "https://x.com/LangChainAI",
-      "sources": [
-        {
-          "url": "https://x.com/LangChainAI/status/1873041238087352629",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "llama_index",
-      "name": "LlamaIndex",
-      "category": "infra",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Retrieval augmentation, data connections, and agent application resources.",
-      "url": "https://x.com/llama_index",
-      "sources": [
-        {
-          "url": "https://x.com/llama_index/status/2052056007954837865",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Dorialexander",
-      "name": "Alexander Doria",
-      "category": "creative",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Generative models, AI creativity, and technology perspectives.",
-      "url": "https://x.com/Dorialexander",
-      "sources": [
-        {
-          "url": "https://x.com/Dorialexander/status/2043748441021407320",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "fofrAI",
-      "name": "fofr",
-      "category": "creative",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Hands-on image and video generation, with open-source experiments.",
-      "url": "https://x.com/fofrAI",
-      "sources": [
-        {
-          "url": "https://linktr.ee/fofrai",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "camenduru",
-      "name": "camenduru",
-      "category": "creative",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Resources for running open image, video, and multimodal models.",
-      "url": "https://x.com/camenduru",
-      "sources": [
-        {
-          "url": "https://hub.docker.com/u/camenduru",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "multimodalart",
-      "name": "Apolinário Passos",
-      "category": "creative",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Open generative models, creative demos, and community projects.",
-      "url": "https://x.com/multimodalart",
-      "sources": [
-        {
-          "url": "https://x.com/multimodalart/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "altryne",
-      "name": "Alex Volkov",
-      "category": "creative",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Generative AI tools, prototypes, and creative workflows.",
-      "url": "https://x.com/altryne",
-      "sources": [
-        {
-          "url": "https://x.com/altryne/status/2033954681752588308",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "runwayml",
-      "name": "Runway",
-      "category": "creative",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Video generation, editing, and creative tool releases.",
-      "url": "https://x.com/runwayml",
-      "sources": [
-        {
-          "url": "https://x.com/runwayml/status/1978540989925949532",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "pika_labs",
-      "name": "Pika",
-      "category": "creative",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "AI video creation tools and official examples.",
-      "url": "https://x.com/pika_labs",
-      "sources": [
-        {
-          "url": "https://x.com/pika_labs/status/1955007670462853355",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "ElevenLabs",
-      "name": "ElevenLabs",
-      "category": "creative",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Speech synthesis, audio generation, and voice-agent updates.",
-      "url": "https://x.com/ElevenLabs",
-      "sources": [
-        {
-          "url": "https://x.com/ElevenLabs/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "replicate",
-      "name": "Replicate",
-      "category": "creative",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Model APIs, generative applications, and development examples.",
-      "url": "https://x.com/replicate",
-      "sources": [
-        {
-          "url": "https://x.com/replicate/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "DrJimFan",
-      "name": "Jim Fan",
-      "category": "robotics",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Embodied AI, robot learning, and simulation research.",
-      "url": "https://x.com/DrJimFan",
-      "sources": [
-        {
-          "url": "https://x.com/DrJimFan/status/1762888644933902681",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "hausman_k",
-      "name": "Karol Hausman",
-      "category": "robotics",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Robotics foundation models and general-purpose robot learning.",
-      "url": "https://x.com/hausman_k",
-      "sources": [
-        {
-          "url": "https://karolhausman.github.io/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "chelseabfinn",
-      "name": "Chelsea Finn",
-      "category": "robotics",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Robot learning, meta-learning, and generalization research.",
-      "url": "https://x.com/chelseabfinn",
-      "sources": [
-        {
-          "url": "https://x.com/chelseabfinn/status/1894833652145758685",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "svlevine",
-      "name": "Sergey Levine",
-      "category": "robotics",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Robot control, reinforcement learning, and learning agents.",
-      "url": "https://x.com/svlevine",
-      "sources": [
-        {
-          "url": "https://x.com/svlevine/status/1665127336033894400",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Physical_Int",
-      "name": "Physical Intelligence",
-      "category": "robotics",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Robotics foundation models and manipulation research updates.",
-      "url": "https://x.com/Physical_Int",
-      "sources": [
-        {
-          "url": "https://x.com/physical_int/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "1X_Tech",
-      "name": "1X",
-      "category": "robotics",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Home robotics and embodied AI product updates.",
-      "url": "https://x.com/1X_Tech",
-      "sources": [
-        {
-          "url": "https://1x.tech/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "GoogleDeepMind",
-      "name": "Google DeepMind",
-      "category": "robotics",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Multimodal models, robotics, and AI research progress.",
-      "url": "https://x.com/GoogleDeepMind",
-      "sources": [
-        {
-          "url": "https://x.com/GoogleDeepMind/status/2014352832099487989",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "sama",
-      "name": "Sam Altman",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI products, industry development, and technology directions.",
-      "url": "https://x.com/sama",
-      "sources": [
-        {
-          "url": "https://x.com/sama/with_replies?lang=en",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "mustafasuleyman",
-      "name": "Mustafa Suleyman",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI products, human–computer interaction, and industry perspectives.",
-      "url": "https://x.com/mustafasuleyman",
-      "sources": [
-        {
-          "url": "https://x.com/mustafasuleyman/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "AravSrinivas",
-      "name": "Aravind Srinivas",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI search, information products, and application experiences.",
-      "url": "https://x.com/AravSrinivas",
-      "sources": [
-        {
-          "url": "https://x.com/AravSrinivas/status/1958385027185877066",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "saranormous",
-      "name": "Sarah Guo",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI startups, products, and industry interviews.",
-      "url": "https://x.com/saranormous",
-      "sources": [
-        {
-          "url": "https://x.com/saranormous/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "eladgil",
-      "name": "Elad Gil",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "AI startups, enterprise applications, and technology industry perspectives.",
-      "url": "https://x.com/eladgil",
-      "sources": [
-        {
-          "url": "https://x.com/eladgil/status/1828992767336558993",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "levelsio",
-      "name": "Pieter Levels",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Independent development, building AI products, and operating them.",
-      "url": "https://x.com/levelsio",
-      "sources": [
-        {
-          "url": "https://levels.io/i-dont-write-code-anymore",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "tibo_maker",
-      "name": "Tibo",
-      "category": "founders",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Independent products, AI tools, and the development process.",
-      "url": "https://x.com/tibo_maker",
-      "sources": [
-        {
-          "url": "https://x.com/tibo_maker/status/1953750606738309211",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "dotey",
-      "name": "宝玉",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "Chinese-language AI explanations, programming practices, and translations.",
-      "url": "https://x.com/dotey",
-      "sources": [
-        {
-          "url": "https://x.com/dotey/status/2034299374172319875",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "op7418",
-      "name": "歸藏",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "Chinese-language workflows for AI images, video, and design.",
-      "url": "https://x.com/op7418",
-      "sources": [
-        {
-          "url": "https://x.com/op7418/status/2034069787719176219?lang=en",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Gorden_Sun",
-      "name": "Gorden Sun",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "Chinese-language news on AI models, products, and tools.",
-      "url": "https://x.com/Gorden_Sun",
-      "sources": [
-        {
-          "url": "https://x.com/Gorden_Sun/with_replies?lang=fr",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "xiaohu",
-      "name": "小互",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "AI video, creative tools, and technology product examples.",
-      "url": "https://x.com/xiaohu",
-      "sources": [
-        {
-          "url": "https://x.com/xiaohu/status/2042224444207480988",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "shao__meng",
-      "name": "meng shao",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "LLM papers, developer tools, and AI product resources.",
-      "url": "https://x.com/shao__meng",
-      "sources": [
-        {
-          "url": "https://x.com/shao__meng/status/1931557749877543325",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "vista8",
-      "name": "向阳乔木",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "AI product experiences, workflows, and programming practices.",
-      "url": "https://x.com/vista8",
-      "sources": [
-        {
-          "url": "https://x.com/vista8/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "lijigang",
-      "name": "李继刚",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "Prompt design, language expression, and AI interaction experiments.",
-      "url": "https://x.com/lijigang",
-      "sources": [
-        {
-          "url": "https://x.com/lijigang/status/1899302493852705043",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "AxtonLiu",
-      "name": "Axton",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "AI tool usage, automation, and practical product workflows.",
-      "url": "https://x.com/AxtonLiu",
-      "sources": [
-        {
-          "url": "https://x.com/AxtonLiu/status/2038753399865544778",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "oran_ge",
-      "name": "Orange AI",
-      "category": "chinese",
-      "kind": "person",
-      "languages": [
-        "zh"
-      ],
-      "why": "AI products, startups, and application scenarios.",
-      "url": "https://x.com/oran_ge",
-      "sources": [
-        {
-          "url": "https://x.com/oran_ge/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "OpenAI",
-      "name": "OpenAI",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Official releases on models, developer platforms, and research.",
-      "url": "https://x.com/OpenAI",
-      "sources": [
-        {
-          "url": "https://x.com/OpenAI/status/2041581000120267067",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "AnthropicAI",
-      "name": "Anthropic",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Model capabilities, safety research, and developer resources.",
-      "url": "https://x.com/AnthropicAI",
-      "sources": [
-        {
-          "url": "https://x.com/AnthropicAI/with_replies?lang=ar",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "AIatMeta",
-      "name": "AI at Meta",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Official updates on models, open AI, and research.",
-      "url": "https://x.com/AIatMeta",
-      "sources": [
-        {
-          "url": "https://x.com/metaai/with_replies",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "MistralAI",
-      "name": "Mistral AI",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Official releases on models, developer APIs, and deployment products.",
-      "url": "https://x.com/MistralAI",
-      "sources": [
-        {
-          "url": "https://x.com/MistralAI/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "Alibaba_Qwen",
-      "name": "Qwen",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Open models, multimodal capabilities, and technical reports.",
-      "url": "https://x.com/Alibaba_Qwen",
-      "sources": [
-        {
-          "url": "https://x.com/Alibaba_Qwen/status/1957502851888083197",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "deepseek_ai",
-      "name": "DeepSeek",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Official announcements of models and research progress.",
-      "url": "https://x.com/deepseek_ai",
-      "sources": [
-        {
-          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.deepseek.chat",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "GoogleAI",
-      "name": "Google AI",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Official updates on AI research, tools, and products.",
-      "url": "https://x.com/GoogleAI",
-      "sources": [
-        {
-          "url": "https://x.com/GoogleAI/status/1858961530009657760",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
+      "id": "1166332664569368576",
       "handle": "AI21Labs",
       "name": "AI21 Labs",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Language models and enterprise AI product resources.",
       "url": "https://x.com/AI21Labs",
-      "sources": [
-        {
-          "url": "https://x.com/AI21Labs/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "cohere",
-      "name": "Cohere",
       "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Enterprise language models, retrieval, and application engineering resources.",
-      "url": "https://x.com/cohere",
-      "sources": [
-        {
-          "url": "https://mobile.x.com/cohere/affiliates",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "bio": "Shipping frontier models and agents since 2021. We help enterprises sustain their target agent accuracy within fixed cost & latency budgets.",
+      "followers_count": 11220,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AI21Labs"
     },
     {
+      "id": "1034844617261248512",
+      "handle": "AIatMeta",
+      "name": "AI at Meta",
+      "url": "https://x.com/AIatMeta",
+      "category": "labs",
+      "bio": "Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",
+      "followers_count": 849927,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AIatMeta"
+    },
+    {
+      "id": "1753339277386342400",
+      "handle": "Alibaba_Qwen",
+      "name": "Qwen",
+      "url": "https://x.com/Alibaba_Qwen",
+      "category": "labs",
+      "bio": "Open foundation models for AGI.",
+      "followers_count": 284712,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Alibaba_Qwen"
+    },
+    {
+      "id": "3442793834",
       "handle": "allen_ai",
       "name": "Ai2",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Open models, AI for science, and research tools.",
       "url": "https://x.com/allen_ai",
-      "sources": [
-        {
-          "url": "https://x.com/allen_ai/status/1798440545574158768",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "NVIDIAAI",
-      "name": "NVIDIA AI",
       "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "AI computing, model deployment, and developer tools.",
-      "url": "https://x.com/NVIDIAAI",
-      "sources": [
-        {
-          "url": "https://www.nvidia.com/en-gb/contact/social/",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "bio": "Breakthrough AI to solve the world's biggest problems.\n\n› Join us: https://t.co/MjUpZpKPXJ\n› Newsletter: https://t.co/k9gGznstwj",
+      "followers_count": 86136,
+      "observed_at": "2026-09-13T10:33:08+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/allen_ai"
     },
     {
-      "handle": "StabilityAI",
-      "name": "Stability AI",
+      "id": "5721582",
+      "handle": "altryne",
+      "name": "Alex Volkov",
+      "url": "https://x.com/altryne",
+      "category": "creative",
+      "bio": "🎙️ Host of @thursdai_pod (get your AI news with us!) \n✨ AI Evangelist with @wandb & @coreweave 🪄🐝 \nOpinions my own",
+      "followers_count": 42059,
+      "observed_at": "2026-09-13T10:33:01+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/altryne"
+    },
+    {
+      "id": "1378017343641640961",
+      "handle": "amanrsanger",
+      "name": "Aman Sanger",
+      "url": "https://x.com/amanrsanger",
+      "category": "coding",
+      "bio": "Building @SpaceXAI | @cursor_ai founder",
+      "followers_count": 57487,
+      "observed_at": "2026-09-13T10:32:57+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/amanrsanger"
+    },
+    {
+      "id": "216939636",
+      "handle": "AndrewYNg",
+      "name": "Andrew Ng",
+      "url": "https://x.com/AndrewYNg",
+      "category": "research",
+      "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+      "followers_count": 1877244,
+      "observed_at": "2026-09-13T10:32:52+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AndrewYNg"
+    },
+    {
+      "id": "1353836358901501952",
+      "handle": "AnthropicAI",
+      "name": "Anthropic",
+      "url": "https://x.com/AnthropicAI",
       "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Open generative models, image tools, and media updates.",
-      "url": "https://x.com/StabilityAI",
-      "sources": [
-        {
-          "url": "https://x.com/StabilityAI/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "bio": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "followers_count": 1703788,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AnthropicAI"
     },
     {
-      "handle": "emollick",
-      "name": "Ethan Mollick",
-      "category": "media",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Generative AI experiments and perspectives on work and education.",
-      "url": "https://x.com/emollick",
-      "sources": [
-        {
-          "url": "https://x.com/emollick/status/1836488274333884490",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "759894532649545732",
+      "handle": "AravSrinivas",
+      "name": "Aravind Srinivas",
+      "url": "https://x.com/AravSrinivas",
+      "category": "founders",
+      "bio": "cofounder and ceo @perplexity_ai",
+      "followers_count": 1123293,
+      "observed_at": "2026-09-13T10:33:03+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AravSrinivas"
     },
     {
-      "handle": "GaryMarcus",
-      "name": "Gary Marcus",
-      "category": "media",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Critical analysis of AI capabilities, limitations, and reliability.",
-      "url": "https://x.com/GaryMarcus",
-      "sources": [
-        {
-          "url": "https://x.com/GaryMarcus/status/1684415274500644867",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "2997268024",
+      "handle": "AxtonLiu",
+      "name": "Axton",
+      "url": "https://x.com/AxtonLiu",
+      "category": "chinese",
+      "bio": "《重构个体》作者 · AI 自动化架构师 · MAPS™ 框架创建者\nAI 竞争力 = 人机协作深度 × 系统设计能力\nAuthor of \"Rebuilding the Individual\" · AI Automation Architect",
+      "followers_count": 19681,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/AxtonLiu"
     },
     {
-      "handle": "TheTuringPost",
-      "name": "Turing Post",
-      "category": "media",
-      "kind": "media",
-      "languages": [
-        "en"
-      ],
-      "why": "A newsletter explaining machine learning research and AI engineering.",
-      "url": "https://x.com/TheTuringPost",
-      "sources": [
-        {
-          "url": "https://x.com/TheTuringPost/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "159337660",
+      "handle": "bcherny",
+      "name": "Boris Cherny",
+      "url": "https://x.com/bcherny",
+      "category": "coding",
+      "bio": "Claude Code @anthropicai",
+      "followers_count": 573134,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/bcherny"
     },
     {
-      "handle": "TheSequenceAI",
-      "name": "The Sequence",
-      "category": "media",
-      "kind": "media",
-      "languages": [
-        "en"
-      ],
-      "why": "Curated coverage of AI research, models, and technology trends.",
-      "url": "https://x.com/TheSequenceAI",
-      "sources": [
-        {
-          "url": "https://thesequence.substack.com/p/follow-us-on-twitter",
-          "method": "owner-link",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "36723",
+      "handle": "camenduru",
+      "name": "camenduru",
+      "url": "https://x.com/camenduru",
+      "category": "creative",
+      "bio": "building 🍞 @tost_ai ❤ open source https://t.co/8MMNbygz1P",
+      "followers_count": 21131,
+      "observed_at": "2026-09-13T10:33:00+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/camenduru"
     },
     {
-      "handle": "LatentSpacePod",
-      "name": "Latent Space",
-      "category": "media",
-      "kind": "media",
-      "languages": [
-        "en"
-      ],
-      "why": "AI engineer interviews, technical discussions, and community content.",
-      "url": "https://x.com/LatentSpacePod",
-      "sources": [
-        {
-          "url": "https://x.com/latentspacepod/status/2036174018747965657",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "2577596593",
+      "handle": "chelseabfinn",
+      "name": "Chelsea Finn",
+      "url": "https://x.com/chelseabfinn",
+      "category": "robotics",
+      "bio": "Asst Prof of CS & EE @Stanford\nCo-founder of Physical Intelligence @physical_int\nPhD from @Berkeley_EECS, EECS BS from @MIT",
+      "followers_count": 102133,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/chelseabfinn"
     },
     {
-      "handle": "lexfridman",
-      "name": "Lex Fridman",
-      "category": "media",
-      "kind": "person",
-      "languages": [
-        "en"
-      ],
-      "why": "Interviews with technology researchers and long-form technical conversations.",
-      "url": "https://x.com/lexfridman",
-      "sources": [
-        {
-          "url": "https://x.com/lexfridman/status/1854239565935972380",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "id": "15278016",
+      "handle": "chipro",
+      "name": "Chip Huyen",
+      "url": "https://x.com/chipro",
+      "category": "agents",
+      "bio": "@aisysbooks @goodailist\nAI Engineering: https://t.co/94dv4uTU1H\nDesigning MLSys: https://t.co/G81hL2dWmr\nReading @chipslib",
+      "followers_count": 146617,
+      "observed_at": "2026-09-13T10:32:55+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/chipro"
     },
     {
-      "handle": "TechCrunch",
-      "name": "TechCrunch",
-      "category": "media",
-      "kind": "media",
-      "languages": [
-        "en"
-      ],
-      "why": "News on technology companies, AI products, and startups.",
-      "url": "https://x.com/TechCrunch",
-      "sources": [
-        {
-          "url": "https://x.com/TechCrunch/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
-      "handle": "MIT_CSAIL",
-      "name": "MIT CSAIL",
+      "id": "1326237414025801729",
+      "handle": "cohere",
+      "name": "Cohere",
+      "url": "https://x.com/cohere",
       "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Research announcements in computer science, AI, and robotics.",
-      "url": "https://x.com/MIT_CSAIL",
-      "sources": [
-        {
-          "url": "https://x.com/MIT_CSAIL/status/1609233205126627330",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
+      "bio": "AI for Empowerment. We build private systems for enterprise, and open-source models for builders, to help people lead better lives.",
+      "followers_count": 119714,
+      "observed_at": "2026-09-13T10:33:08+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/cohere"
     },
     {
-      "handle": "StanfordHAI",
-      "name": "Stanford HAI",
-      "category": "labs",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Human-centered AI research and policy discussions.",
-      "url": "https://x.com/StanfordHAI",
-      "sources": [
-        {
-          "url": "https://x.com/StanfordHAI/with_replies",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": ""
-    },
-    {
+      "id": "992153930095251456",
       "handle": "DeepLearningAI",
       "name": "DeepLearning.AI",
-      "category": "media",
-      "kind": "organization",
-      "languages": [
-        "en"
-      ],
-      "why": "Machine learning courses, AI education, and technology news.",
       "url": "https://x.com/DeepLearningAI",
-      "sources": [
-        {
-          "url": "https://x.com/DeepLearningAI/status/2023472681442509285",
-          "method": "x-index",
-          "checked_at": "2026-09-13"
-        }
-      ],
-      "notes": "Newer X pages use @DeepLearningAI; older references include a trailing underscore."
+      "category": "media",
+      "bio": "We are an education technology company with the mission to grow and connect the global AI community.",
+      "followers_count": 348792,
+      "observed_at": "2026-09-13T10:33:10+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/DeepLearningAI"
+    },
+    {
+      "id": "1714580962569588736",
+      "handle": "deepseek_ai",
+      "name": "DeepSeek",
+      "url": "https://x.com/deepseek_ai",
+      "category": "labs",
+      "bio": "Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.",
+      "followers_count": 1130178,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/deepseek_ai"
+    },
+    {
+      "id": "1482581556",
+      "handle": "demishassabis",
+      "name": "Demis Hassabis",
+      "url": "https://x.com/demishassabis",
+      "category": "research",
+      "bio": "Nobel Laureate. Co-Founder & Chair @GoogleDeepMind; Chief Scientist of Alphabet. Founder & CEO @IsomorphicLabs. Building the future...",
+      "followers_count": 1856089,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/demishassabis"
+    },
+    {
+      "id": "276508048",
+      "handle": "Dorialexander",
+      "name": "Alexander Doria",
+      "url": "https://x.com/Dorialexander",
+      "category": "creative",
+      "bio": "building open ai infrastructure @pleiasfr — χαλεπὰ τὰ καλά",
+      "followers_count": 24364,
+      "observed_at": "2026-09-13T10:33:00+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Dorialexander"
+    },
+    {
+      "id": "3178231",
+      "handle": "dotey",
+      "name": "宝玉",
+      "url": "https://x.com/dotey",
+      "category": "chinese",
+      "bio": "AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followers_count": 248654,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/dotey"
+    },
+    {
+      "id": "130745589",
+      "handle": "drfeifei",
+      "name": "Fei-Fei Li",
+      "url": "https://x.com/drfeifei",
+      "category": "research",
+      "bio": "Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",
+      "followers_count": 1053180,
+      "observed_at": "2026-09-13T10:32:52+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/drfeifei"
+    },
+    {
+      "id": "1007413134",
+      "handle": "DrJimFan",
+      "name": "Jim Fan",
+      "url": "https://x.com/DrJimFan",
+      "category": "robotics",
+      "bio": "NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",
+      "followers_count": 587048,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/DrJimFan"
+    },
+    {
+      "id": "6535212",
+      "handle": "eladgil",
+      "name": "Elad Gil",
+      "url": "https://x.com/eladgil",
+      "category": "founders",
+      "bio": "Entrepreneur & Investor",
+      "followers_count": 709435,
+      "observed_at": "2026-09-13T10:33:04+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/eladgil"
+    },
+    {
+      "id": "1478679005788311552",
+      "handle": "ElevenLabs",
+      "name": "ElevenLabs",
+      "url": "https://x.com/ElevenLabs",
+      "category": "creative",
+      "bio": "AI research and products that transform how we interact with technology. \n\nLeading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",
+      "followers_count": 190324,
+      "observed_at": "2026-09-13T10:33:01+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/ElevenLabs"
+    },
+    {
+      "id": "39125788",
+      "handle": "emollick",
+      "name": "Ethan Mollick",
+      "url": "https://x.com/emollick",
+      "category": "media",
+      "bio": "Professor @Wharton studying AI.\nNew book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K\nSubstack: https://t.co/UIBhxu4bgq",
+      "followers_count": 387136,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/emollick"
+    },
+    {
+      "id": "35109534",
+      "handle": "eugeneyan",
+      "name": "Eugene Yan",
+      "url": "https://x.com/eugeneyan",
+      "category": "agents",
+      "bio": "MTS @AnthropicAI. Prev: Principal Applied Scientist @Amazon, led ML @ Alibaba, Healthtech startup.",
+      "followers_count": 29175,
+      "observed_at": "2026-09-13T10:32:55+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/eugeneyan"
+    },
+    {
+      "id": "68746721",
+      "handle": "fchollet",
+      "name": "François Chollet",
+      "url": "https://x.com/fchollet",
+      "category": "research",
+      "bio": "Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.",
+      "followers_count": 728759,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/fchollet"
+    },
+    {
+      "id": "1552580106257928192",
+      "handle": "fofrAI",
+      "name": "fofr",
+      "url": "https://x.com/fofrAI",
+      "category": "creative",
+      "bio": "Whispering to models at Google DeepMind",
+      "followers_count": 82734,
+      "observed_at": "2026-09-13T10:33:00+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/fofrAI"
+    },
+    {
+      "id": "741313237287768064",
+      "handle": "Francis_YAO_",
+      "name": "Yao Fu",
+      "url": "https://x.com/Francis_YAO_",
+      "category": "llm",
+      "bio": "Prev. Grok 4.5/4.6 pretraining scaling @xAI; Gemini 3 perception and project Astra @GoogleDeepMind",
+      "followers_count": 23534,
+      "observed_at": "2026-09-13T10:32:54+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Francis_YAO_"
+    },
+    {
+      "id": "232294292",
+      "handle": "GaryMarcus",
+      "name": "Gary Marcus",
+      "url": "https://x.com/GaryMarcus",
+      "category": "media",
+      "bio": "OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",
+      "followers_count": 242738,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/GaryMarcus"
+    },
+    {
+      "id": "1084212657761148928",
+      "handle": "geoffreyhinton",
+      "name": "Geoffrey Hinton",
+      "url": "https://x.com/geoffreyhinton",
+      "category": "research",
+      "bio": "deep learning",
+      "followers_count": 651103,
+      "observed_at": "2026-09-13T10:32:52+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/geoffreyhinton"
+    },
+    {
+      "id": "3300401027",
+      "handle": "ggerganov",
+      "name": "Georgi Gerganov",
+      "url": "https://x.com/ggerganov",
+      "category": "infra",
+      "bio": "24th at the Electrica puzzle challenge | building https://t.co/baTQS2bL7I | engineer @huggingface",
+      "followers_count": 71543,
+      "observed_at": "2026-09-13T10:32:59+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/ggerganov"
+    },
+    {
+      "id": "775449094739197953",
+      "handle": "goodfellow_ian",
+      "name": "Ian Goodfellow",
+      "url": "https://x.com/goodfellow_ian",
+      "category": "research",
+      "bio": "Co-founder of stealth startup. Inventor of GANs. Lead author of https://t.co/M6vl8pEQ4I Founding chairman of @pubhealthaction",
+      "followers_count": 380559,
+      "observed_at": "2026-09-13T10:32:52+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/goodfellow_ian"
+    },
+    {
+      "id": "33838201",
+      "handle": "GoogleAI",
+      "name": "Google AI",
+      "url": "https://x.com/GoogleAI",
+      "category": "labs",
+      "bio": "Making AI helpful for everyone. Show thinking ↓",
+      "followers_count": 2454586,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/GoogleAI"
+    },
+    {
+      "id": "4783690002",
+      "handle": "GoogleDeepMind",
+      "name": "Google DeepMind",
+      "url": "https://x.com/GoogleDeepMind",
+      "category": "robotics",
+      "bio": "The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL",
+      "followers_count": 1527794,
+      "observed_at": "2026-09-13T10:33:03+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/GoogleDeepMind"
+    },
+    {
+      "id": "1657474831",
+      "handle": "Gorden_Sun",
+      "name": "Gorden Sun",
+      "url": "https://x.com/Gorden_Sun",
+      "category": "chinese",
+      "bio": "只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇",
+      "followers_count": 66420,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Gorden_Sun"
+    },
+    {
+      "id": "825766640",
+      "handle": "HamelHusain",
+      "name": "Hamel Husain",
+      "url": "https://x.com/HamelHusain",
+      "category": "agents",
+      "bio": "Evals Evals Evals -  https://t.co/Zrmp6LRd9c\n\nAbout Me: https://t.co/P6WyeKkyTa",
+      "followers_count": 55523,
+      "observed_at": "2026-09-13T10:32:55+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/HamelHusain"
+    },
+    {
+      "id": "1249492212",
+      "handle": "hausman_k",
+      "name": "Karol Hausman",
+      "url": "https://x.com/hausman_k",
+      "category": "robotics",
+      "bio": "@Physical_int",
+      "followers_count": 44424,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/hausman_k"
+    },
+    {
+      "id": "778764142412984320",
+      "handle": "huggingface",
+      "name": "Hugging Face",
+      "url": "https://x.com/huggingface",
+      "category": "infra",
+      "bio": "The AI community building the future. https://t.co/TpiXQMQ9rZ",
+      "followers_count": 789422,
+      "observed_at": "2026-09-13T10:32:59+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/huggingface"
+    },
+    {
+      "id": "2728439146",
+      "handle": "hwchase17",
+      "name": "Harrison Chase",
+      "url": "https://x.com/hwchase17",
+      "category": "agents",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "followers_count": 130618,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/hwchase17"
+    },
+    {
+      "id": "1720046887",
+      "handle": "ilyasut",
+      "name": "Ilya Sutskever",
+      "url": "https://x.com/ilyasut",
+      "category": "research",
+      "bio": "SSI @SSI",
+      "followers_count": 897069,
+      "observed_at": "2026-09-13T10:32:52+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/ilyasut"
+    },
+    {
+      "id": "1245260977626587136",
+      "handle": "JayAlammar",
+      "name": "Jay Alammar",
+      "url": "https://x.com/JayAlammar",
+      "category": "llm",
+      "bio": "Machine Learning Researcher and writer https://t.co/5GlbofAHs0. O'Reilly Author https://t.co/Fl3uPAZHLg. LLM Builder @Cohere.",
+      "followers_count": 52035,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/JayAlammar"
+    },
+    {
+      "id": "369777416",
+      "handle": "jerryjliu0",
+      "name": "Jerry Liu",
+      "url": "https://x.com/jerryjliu0",
+      "category": "agents",
+      "bio": "Parsing the world's hardest PDFs @llama_index. cofounder/CEO\n\nCareers: https://t.co/EUnMNmbCtx\nEnterprise: https://t.co/Ht5jwxSrQB",
+      "followers_count": 83611,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/jerryjliu0"
+    },
+    {
+      "id": "17203692",
+      "handle": "jxnlco",
+      "name": "jason",
+      "url": "https://x.com/jxnlco",
+      "category": "agents",
+      "bio": "vibes @openai",
+      "followers_count": 131465,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/jxnlco"
+    },
+    {
+      "id": "33836629",
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "url": "https://x.com/karpathy",
+      "category": "research",
+      "bio": "deep learning",
+      "followers_count": 4150350,
+      "observed_at": "2026-09-13T10:32:51+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/karpathy"
+    },
+    {
+      "id": "1589007443853340672",
+      "handle": "LangChain",
+      "name": "LangChain",
+      "url": "https://x.com/LangChain",
+      "category": "infra",
+      "bio": "Own your intelligence.\n\nMakers of LangSmith, @LangChain_OSS, and @LangChain_JS.",
+      "followers_count": 264694,
+      "observed_at": "2026-09-13T10:33:00+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/LangChain"
+    },
+    {
+      "id": "1670869422733393966",
+      "handle": "latentspacepod",
+      "name": "Latent.Space",
+      "url": "https://x.com/latentspacepod",
+      "category": "media",
+      "bio": "AI Engineering podcast, newsletter & community. Technical news today you’ll use at work tomorrow. Business: business@latent.space · Tips: tips@latent.space",
+      "followers_count": 31953,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/LatentSpacePod"
+    },
+    {
+      "id": "81712767",
+      "handle": "leerob",
+      "name": "Lee Robinson",
+      "url": "https://x.com/leerob",
+      "category": "coding",
+      "bio": "Model behavior @SpaceXAI. Helping train useful models.",
+      "followers_count": 287505,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/leerob"
+    },
+    {
+      "id": "1577241403",
+      "handle": "levelsio",
+      "name": "@levelsio",
+      "url": "https://x.com/levelsio",
+      "category": "founders",
+      "bio": "💸https://t.co/sQ0aiU7v02\n📸https://t.co/lAyoqmSBRX $90K/m\n🎮https://t.co/tF49atJ396 $44K/m\n🫟https://t.co/8rYr9A594z $25K/m\n🏡https://t.co/1oqUgfD6CZ $21K/m\n👙@X $20K/m\n🌍https://t.co/UXK5AFqCaQ $12K/m\n💾@pieter\n🏩https://t.co/4p4dzTDVN6",
+      "followers_count": 955768,
+      "observed_at": "2026-09-13T10:33:04+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/levelsio"
+    },
+    {
+      "id": "427089628",
+      "handle": "lexfridman",
+      "name": "Lex Fridman",
+      "url": "https://x.com/lexfridman",
+      "category": "media",
+      "bio": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+      "followers_count": 5495148,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/lexfridman"
+    },
+    {
+      "id": "1474067654",
+      "handle": "lijigang",
+      "name": "李继刚",
+      "url": "https://x.com/lijigang",
+      "category": "chinese",
+      "bio": "我与 AI 周旋久，宁做我",
+      "followers_count": 54624,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/lijigang"
+    },
+    {
+      "id": "96999384",
+      "handle": "lilianweng",
+      "name": "Lilian Weng",
+      "url": "https://x.com/lilianweng",
+      "category": "llm",
+      "bio": "MTS @OpenAI; Author of Lil'Log\n\nPrev: Ex Co-founder of Thinking Machines Lab; Ex-VP, AI Safety & robotics, applied research OpenAI",
+      "followers_count": 292490,
+      "observed_at": "2026-09-13T10:33:10+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/lilianweng"
+    },
+    {
+      "id": "1604278358296055808",
+      "handle": "llama_index",
+      "name": "LlamaIndex 🦙",
+      "url": "https://x.com/llama_index",
+      "category": "infra",
+      "bio": "The most accurate agentic OCR platform for production AI.\n\nLlamaParse: https://t.co/yQGTiRSNvj\nDocs: https://t.co/us6GCS1Clb",
+      "followers_count": 120014,
+      "observed_at": "2026-09-13T10:33:00+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/llama_index"
+    },
+    {
+      "id": "1194889317388374016",
+      "handle": "mattshumer_",
+      "name": "Matt Shumer",
+      "url": "https://x.com/mattshumer_",
+      "category": "coding",
+      "bio": "AI whisperer. Investor in @GroqInc @Etched @Rork @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool\n\nPress: mattshumermedia@gmail.com",
+      "followers_count": 395007,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/mattshumer_"
+    },
+    {
+      "id": "367297219",
+      "handle": "MelMitchell1",
+      "name": "Melanie Mitchell",
+      "url": "https://x.com/MelMitchell1",
+      "category": "research",
+      "bio": "Professor, Santa Fe Institute.  Mostly posting  on https://t.co/4NpA2IL5Va (at-melaniemitchell). More thoughts at https://t.co/nC43NHRozX.",
+      "followers_count": 51967,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/MelMitchell1"
+    },
+    {
+      "id": "1667249535519805451",
+      "handle": "MistralAI",
+      "name": "Mistral AI",
+      "url": "https://x.com/MistralAI",
+      "category": "labs",
+      "bio": "Frontier AI in your hands. Get work done with @MistralVibe at https://t.co/JsGnCVMUFq.",
+      "followers_count": 206893,
+      "observed_at": "2026-09-13T10:33:07+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/MistralAI"
+    },
+    {
+      "id": "82364810",
+      "handle": "MIT_CSAIL",
+      "name": "MIT CSAIL",
+      "url": "https://x.com/MIT_CSAIL",
+      "category": "labs",
+      "bio": "MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu\n\nCheck out the latest CSAIL content ⬇️",
+      "followers_count": 349948,
+      "observed_at": "2026-09-13T10:33:10+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/MIT_CSAIL"
+    },
+    {
+      "id": "2755860644",
+      "handle": "mntruell",
+      "name": "Michael Truell",
+      "url": "https://x.com/mntruell",
+      "category": "coding",
+      "bio": "Building @SpaceXAI",
+      "followers_count": 228401,
+      "observed_at": "2026-09-13T10:32:57+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/mntruell"
+    },
+    {
+      "id": "1415428329210105859",
+      "handle": "multimodalart",
+      "name": "apolinario (poli)",
+      "url": "https://x.com/multimodalart",
+      "category": "creative",
+      "bio": "ML Engineer for Art and Creativity @HuggingFace",
+      "followers_count": 16179,
+      "observed_at": "2026-09-13T10:33:01+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/multimodalart"
+    },
+    {
+      "id": "2314443930",
+      "handle": "mustafasuleyman",
+      "name": "Mustafa Suleyman",
+      "url": "https://x.com/mustafasuleyman",
+      "category": "founders",
+      "bio": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+      "followers_count": 1092033,
+      "observed_at": "2026-09-13T10:33:03+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/mustafasuleyman"
+    },
+    {
+      "id": "2939913921",
+      "handle": "natolambert",
+      "name": "Nathan Lambert",
+      "url": "https://x.com/natolambert",
+      "category": "llm",
+      "bio": "Open model research @ something new.\nPrev. co-led Olmo at Ai2.\nWrites @interconnectsai, wrote https://t.co/alRXKINTwE",
+      "followers_count": 100857,
+      "observed_at": "2026-09-13T10:32:54+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/natolambert"
+    },
+    {
+      "id": "3246815913",
+      "handle": "nutlope",
+      "name": "Hassan",
+      "url": "https://x.com/nutlope",
+      "category": "coding",
+      "bio": "Developer Experience Lead @togethercompute. Building open source AI apps like https://t.co/f8hbvXOFaN, https://t.co/SmHisRTtnp, & https://t.co/hs63SlHxjw.",
+      "followers_count": 99521,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/nutlope"
+    },
+    {
+      "id": "740238495952736256",
+      "handle": "NVIDIAAI",
+      "name": "NVIDIA AI",
+      "url": "https://x.com/NVIDIAAI",
+      "category": "labs",
+      "bio": "Teaching your AI new tricks.",
+      "followers_count": 339431,
+      "observed_at": "2026-09-13T10:33:08+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/NVIDIAAI"
+    },
+    {
+      "id": "1688410127378829312",
+      "handle": "ollama",
+      "name": "ollama",
+      "url": "https://x.com/ollama",
+      "category": "infra",
+      "bio": "https://t.co/1JpLwJ9Bdv",
+      "followers_count": 182971,
+      "observed_at": "2026-09-13T10:32:59+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/ollama"
+    },
+    {
+      "id": "3448284313",
+      "handle": "omarsar0",
+      "name": "elvis",
+      "url": "https://x.com/omarsar0",
+      "category": "llm",
+      "bio": "Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT",
+      "followers_count": 319025,
+      "observed_at": "2026-09-13T10:32:54+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/omarsar0"
+    },
+    {
+      "id": "1669276256",
+      "handle": "op7418",
+      "name": "歸藏(guizang.ai)",
+      "url": "https://x.com/op7418",
+      "category": "chinese",
+      "bio": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+      "followers_count": 174278,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/op7418"
+    },
+    {
+      "id": "4398626122",
+      "handle": "OpenAI",
+      "name": "OpenAI",
+      "url": "https://x.com/OpenAI",
+      "category": "labs",
+      "bio": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+      "followers_count": 5327958,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/OpenAI"
+    },
+    {
+      "id": "6782882",
+      "handle": "oran_ge",
+      "name": "Orange AI",
+      "url": "https://x.com/oran_ge",
+      "category": "chinese",
+      "bio": "Cola/ListenHub 创始人 & CEO | ex MiniMax 海螺 AI PM",
+      "followers_count": 182388,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/oran_ge"
+    },
+    {
+      "id": "1767285662087348224",
+      "handle": "physical_int",
+      "name": "Physical Intelligence",
+      "url": "https://x.com/physical_int",
+      "category": "robotics",
+      "bio": "Physical Intelligence (Pi), bringing AI into the physical world.",
+      "followers_count": 49697,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Physical_Int"
+    },
+    {
+      "id": "1650159466032271360",
+      "handle": "pika_labs",
+      "name": "Pika",
+      "url": "https://x.com/pika_labs",
+      "category": "creative",
+      "bio": "Tools for creation that happen to be AI\n\nhttps://t.co/G5bjmrMiCZ\nJoin our teams? https://t.co/wM9WYPvPZj",
+      "followers_count": 150877,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/pika_labs"
+    },
+    {
+      "id": "865622395",
+      "handle": "rasbt",
+      "name": "Sebastian Raschka",
+      "url": "https://x.com/rasbt",
+      "category": "llm",
+      "bio": "ML/AI research engineer. Ex stats professor.\nAuthor of \"Build a Large Language Model From Scratch\" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",
+      "followers_count": 506984,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/rasbt"
+    },
+    {
+      "id": "15540222",
+      "handle": "rauchg",
+      "name": "Guillermo Rauch",
+      "url": "https://x.com/rauchg",
+      "category": "coding",
+      "bio": "@vercel CEO",
+      "followers_count": 865578,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/rauchg"
+    },
+    {
+      "id": "1191076082889310208",
+      "handle": "replicate",
+      "name": "Replicate",
+      "url": "https://x.com/replicate",
+      "category": "creative",
+      "bio": "Run AI with an API",
+      "followers_count": 53041,
+      "observed_at": "2026-09-13T10:33:01+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/replicate"
+    },
+    {
+      "id": "1001114465692200960",
+      "handle": "runwayml",
+      "name": "Runway",
+      "url": "https://x.com/runwayml",
+      "category": "creative",
+      "bio": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+      "followers_count": 291137,
+      "observed_at": "2026-09-13T10:33:01+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/runwayml"
+    },
+    {
+      "id": "1605",
+      "handle": "sama",
+      "name": "Sam Altman",
+      "url": "https://x.com/sama",
+      "category": "founders",
+      "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+      "followers_count": 6201625,
+      "observed_at": "2026-09-13T10:33:03+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/sama"
+    },
+    {
+      "id": "813333008",
+      "handle": "sarah_edo",
+      "name": "Sarah Drasner",
+      "url": "https://x.com/sarah_edo",
+      "category": "coding",
+      "bio": "Opinions my own. Area Tech Lead, AI and Web Ecosystem @chrome, Formerly Sr. Director of Core Infra @google • O'Reilly Author • https://t.co/HhzYWwxqL9",
+      "followers_count": 303781,
+      "observed_at": "2026-09-13T10:32:57+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/sarah_edo"
+    },
+    {
+      "id": "339261041",
+      "handle": "saranormous",
+      "name": "sarah guo",
+      "url": "https://x.com/saranormous",
+      "category": "founders",
+      "bio": "startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",
+      "followers_count": 158790,
+      "observed_at": "2026-09-13T10:33:04+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/saranormous"
+    },
+    {
+      "id": "2785337469",
+      "handle": "seb_ruder",
+      "name": "Sebastian Ruder",
+      "url": "https://x.com/seb_ruder",
+      "category": "llm",
+      "bio": "Research Scientist @AIatMeta MSL • Ex @Cohere @GoogleDeepMind",
+      "followers_count": 98543,
+      "observed_at": "2026-09-13T10:32:53+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/seb_ruder"
+    },
+    {
+      "id": "17435275",
+      "handle": "SerranoAcademy",
+      "name": "Luis Serrano",
+      "url": "https://x.com/SerranoAcademy",
+      "category": "llm",
+      "bio": "Author of Grokking Machine Learning, ML and QC popularizer, YouTuber: https://t.co/MGCYjf6M9K, Opinions are my own https://t.co/S1jvXnAa8U",
+      "followers_count": 12329,
+      "observed_at": "2026-09-13T10:32:54+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/SerranoAcademy"
+    },
+    {
+      "id": "2286218053",
+      "handle": "sh_reya",
+      "name": "Shreya Shankar",
+      "url": "https://x.com/sh_reya",
+      "category": "agents",
+      "bio": "Incoming assistant professor @CSDatCMU @CMUDB. All about data, HCI, and AI. Created https://t.co/PmuOqAXVgS and https://t.co/8MQt4na2cj.",
+      "followers_count": 55821,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/sh_reya"
+    },
+    {
+      "id": "1727548535816724480",
+      "handle": "shao__meng",
+      "name": "meng shao",
+      "url": "https://x.com/shao__meng",
+      "category": "chinese",
+      "bio": "Building AI Agents for design & media.\n分享新产品、开源项目，以及 AI 创业与职场观察。\n公众号 / 小红书：AI 启蒙小伙伴｜合作请私信",
+      "followers_count": 33910,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/shao__meng"
+    },
+    {
+      "id": "12497",
+      "handle": "simonw",
+      "name": "Simon Willison",
+      "url": "https://x.com/simonw",
+      "category": "agents",
+      "bio": "Creator @datasetteproj, co-creator Django. PSF board. Hangs out with @natbat. He/Him. Mastodon: https://t.co/t0MrmnJW0K Bsky: https://t.co/OnWIyhX4CH",
+      "followers_count": 221839,
+      "observed_at": "2026-09-13T10:32:55+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/simonw"
+    },
+    {
+      "id": "4558314927",
+      "handle": "srush_nlp",
+      "name": "Sasha Rush",
+      "url": "https://x.com/srush_nlp",
+      "category": "llm",
+      "bio": "Researcher, Programmer \nhttps://t.co/cZl0wTfqGz",
+      "followers_count": 84220,
+      "observed_at": "2026-09-13T10:32:54+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/srush_nlp"
+    },
+    {
+      "id": "1281048162602369024",
+      "handle": "StabilityAI",
+      "name": "Stability AI",
+      "url": "https://x.com/StabilityAI",
+      "category": "labs",
+      "bio": "We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝",
+      "followers_count": 261443,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/StabilityAI"
+    },
+    {
+      "id": "1067218780806307841",
+      "handle": "StanfordHAI",
+      "name": "Stanford HAI",
+      "url": "https://x.com/StanfordHAI",
+      "category": "labs",
+      "bio": "The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",
+      "followers_count": 108748,
+      "observed_at": "2026-09-13T10:33:10+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/StanfordHAI"
+    },
+    {
+      "id": "25401953",
+      "handle": "steipete",
+      "name": "Peter Steinberger 🦞",
+      "url": "https://x.com/steipete",
+      "category": "coding",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "followers_count": 586584,
+      "observed_at": "2026-09-13T10:32:56+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/steipete"
+    },
+    {
+      "id": "990433714948661250",
+      "handle": "svlevine",
+      "name": "Sergey Levine",
+      "url": "https://x.com/svlevine",
+      "category": "robotics",
+      "bio": "Associate Professor at UC Berkeley\nCo-founder, Physical Intelligence",
+      "followers_count": 136822,
+      "observed_at": "2026-09-13T10:33:02+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/svlevine"
+    },
+    {
+      "id": "33521530",
+      "handle": "swyx",
+      "name": "swyx",
+      "url": "https://x.com/swyx",
+      "category": "agents",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @dxtipshq\n- @cognition\n- @aidotengineer\n- @latentspacepod",
+      "followers_count": 191712,
+      "observed_at": "2026-09-13T10:32:55+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/swyx"
+    },
+    {
+      "id": "816653",
+      "handle": "TechCrunch",
+      "name": "TechCrunch",
+      "url": "https://x.com/TechCrunch",
+      "category": "media",
+      "bio": "Technology news and analysis with a focus on founders and startup teams. Got a tip? https://t.co/J0WxnZxSRY",
+      "followers_count": 10975739,
+      "observed_at": "2026-09-13T10:33:10+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/TechCrunch"
+    },
+    {
+      "id": "1365020011123773442",
+      "handle": "Teknium",
+      "name": "Teknium 🪽",
+      "url": "https://x.com/Teknium",
+      "category": "infra",
+      "bio": "Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI\nGithub: https://t.co/LZwHTUFwPq\nHuggingFace: https://t.co/sN2FFU8PVE",
+      "followers_count": 126561,
+      "observed_at": "2026-09-13T10:32:59+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Teknium"
+    },
+    {
+      "id": "1271482878958940160",
+      "handle": "TheTuringPost",
+      "name": "Turing Post",
+      "url": "https://x.com/TheTuringPost",
+      "category": "media",
+      "bio": "On X we surface the AI research that matters and explain the ideas behind it. In the newsletter, we connect the dots between AI’s past, present, and future ⬇️",
+      "followers_count": 87612,
+      "observed_at": "2026-09-13T10:33:09+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/TheTuringPost"
+    },
+    {
+      "id": "246939962",
+      "handle": "Thom_Wolf",
+      "name": "Thomas Wolf",
+      "url": "https://x.com/Thom_Wolf",
+      "category": "infra",
+      "bio": "co-founder @HuggingFace - moonshots",
+      "followers_count": 132248,
+      "observed_at": "2026-09-13T10:32:58+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/Thom_Wolf"
+    },
+    {
+      "id": "470129898",
+      "handle": "tibo_maker",
+      "name": "Tibo",
+      "url": "https://x.com/tibo_maker",
+      "category": "founders",
+      "bio": "📽 https://t.co/OyNJ8ZUyOh\n📈 https://t.co/JkVOl1O0S1\n🤖 https://t.co/tywwX4TyWa\nhttps://t.co/EFUcKeBbpU\nhttps://t.co/KG9PgxJabg\nhttps://t.co/1MEIhy0L5K\nhttps://t.co/jS9GQJ5Ps8\n\nsold Tweet Hunter, Taplio ($10m)\nPH Maker of Year 🥇\ngrowth tips: https://t.co/ereQodN3Ov",
+      "followers_count": 207590,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/tibo_maker"
+    },
+    {
+      "id": "352806502",
+      "handle": "trq212",
+      "name": "Thariq",
+      "url": "https://x.com/trq212",
+      "category": "coding",
+      "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+      "followers_count": 342200,
+      "observed_at": "2026-09-13T10:32:57+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/trq212"
+    },
+    {
+      "id": "6690032",
+      "handle": "vista8",
+      "name": "向阳乔木",
+      "url": "https://x.com/vista8",
+      "category": "chinese",
+      "bio": "喜欢摇滚乐、爱钓鱼的PM\n第二届GEO大会报名-11-21/22日-深圳南山\nhttps://t.co/N75cblhK9R",
+      "followers_count": 125614,
+      "observed_at": "2026-09-13T10:33:06+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/vista8"
+    },
+    {
+      "id": "1774187564276289536",
+      "handle": "vllm_project",
+      "name": "vLLM",
+      "url": "https://x.com/vllm_project",
+      "category": "infra",
+      "bio": "A high-throughput and memory-efficient inference and serving engine for LLMs. Join https://t.co/lxJ0SfX5pJ to discuss together with the community!",
+      "followers_count": 49106,
+      "observed_at": "2026-09-13T10:32:59+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/vllm_project"
+    },
+    {
+      "id": "1764818331822182400",
+      "handle": "xiaohu",
+      "name": "小互",
+      "url": "https://x.com/xiaohu",
+      "category": "chinese",
+      "bio": "带你了解全球最前沿科技、AI动态...\n\nAI 精华，讲到你懂：https://t.co/nvuDIvoNg1",
+      "followers_count": 120535,
+      "observed_at": "2026-09-13T10:33:05+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/xiaohu"
+    },
+    {
+      "id": "48008938",
+      "handle": "ylecun",
+      "name": "Yann LeCun",
+      "url": "https://x.com/ylecun",
+      "category": "research",
+      "bio": "Founder/Chair, AMI Labs; Professor, NYU; Partner, 224 Ventures; Ex-Chief AI Scientist, Meta.\nResearcher in AI, ML, Robotics, etc.\nACM Turing Award Laureate.",
+      "followers_count": 1297557,
+      "observed_at": "2026-09-13T10:32:51+00:00",
+      "source_url": "https://api.fxtwitter.com/2/profile/ylecun"
     }
-  ],
-  "default_locale": "en"
+  ]
 }

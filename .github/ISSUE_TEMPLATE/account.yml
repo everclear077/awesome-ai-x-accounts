@@ -1,48 +1,40 @@
-name: "English · Suggest an account"
-description: "Recommend a public AI, LLM, agent, or technology account"
+name: "English · Submit an account"
+description: "Add a public AI or technology X account"
 title: "[Account] "
 body:
   - type: input
-    id: name
-    attributes:
-      label: "Name or organization"
-    validations:
-      required: true
-  - type: input
     id: url
     attributes:
-      label: "Full X profile URL"
-      placeholder: "https://x.com/handle"
-    validations:
-      required: true
-  - type: dropdown
-    id: kind
-    attributes:
-      label: "Account type"
-      options:
-        - "Person"
-        - "Organization"
-        - "Media"
-    validations:
-      required: true
-  - type: textarea
-    id: reason
-    attributes:
-      label: "Topic and reason to follow"
-      description: "Describe concrete work or useful content, not just popularity."
-    validations:
-      required: true
-  - type: textarea
-    id: evidence
-    attributes:
-      label: "First-party evidence"
-      description: "Link to an owner-controlled page or the account's own X content."
+      label: "X profile URL"
     validations:
       required: true
   - type: input
-    id: relation
+    id: category
     attributes:
-      label: "Your relationship to the account"
-      placeholder: "None / self / colleague / other"
+      label: "Category ID"
     validations:
       required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Profile bio — copy the original text"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "Follower count — exact integer, if available"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "Observation time with timezone"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context (optional)"
+    validations:
+      required: false

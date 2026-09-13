@@ -1,0 +1,40 @@
+name: "Español · Proponer una cuenta"
+description: "Añadir una cuenta pública de X sobre IA o tecnología"
+title: "[Account] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "URL del perfil de X"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: "ID de categoría"
+    validations:
+      required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Biografía — copiar el texto original"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "Seguidores — número entero exacto, si está disponible"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "Fecha y hora de consulta con zona horaria"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Contexto adicional (opcional)"
+    validations:
+      required: false
