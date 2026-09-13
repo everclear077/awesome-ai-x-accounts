@@ -1,0 +1,73 @@
+{
+  "research_date": "2026-09-13",
+  "candidates": [
+    {
+      "name": "David Ha",
+      "handle": "hardmaru"
+    },
+    {
+      "name": "Richard Sutton",
+      "handle": "RichardSSutton"
+    },
+    {
+      "name": "Lilian Weng",
+      "handle": "lilianweng"
+    },
+    {
+      "name": "Tri Dao",
+      "handle": "TriDao"
+    },
+    {
+      "name": "Vicki Boykis",
+      "handle": "vboykis"
+    },
+    {
+      "name": "Charles Frye",
+      "handle": "charles_irl"
+    },
+    {
+      "name": "Paul Gauthier",
+      "handle": "paulgauthier"
+    },
+    {
+      "name": "Sindre Sorhus",
+      "handle": "sindresorhus"
+    },
+    {
+      "name": "Clément Delangue",
+      "handle": "ClementDelangue"
+    },
+    {
+      "name": "Tim Dettmers",
+      "handle": "Tim_Dettmers"
+    },
+    {
+      "name": "Together AI",
+      "handle": "togethercompute"
+    },
+    {
+      "name": "Luma AI",
+      "handle": "LumaLabsAI"
+    },
+    {
+      "name": "Pieter Abbeel",
+      "handle": "pabbeel"
+    },
+    {
+      "name": "Figure",
+      "handle": "Figure_robot"
+    },
+    {
+      "name": "Arthur Mensch",
+      "handle": "arthurmensch"
+    },
+    {
+      "name": "李开复",
+      "handle": "kaifulee"
+    },
+    {
+      "name": "Jack Clark",
+      "handle": "jackclarkSF"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+name: "한국어 · 수정 또는 삭제"
+description: "사용자명 변경, 설명 오류 또는 삭제 요청"
+title: "[Correction] "
+body:
+  - type: input
+    id: handle
+    attributes:
+      label: "해당 계정"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "수정할 내용"
+      description: "비공개 개인정보를 포함하지 마세요."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "근거 또는 설명"
+      description: "사용자명이 바뀌었다면 이전·새 링크를 적어 주세요. 로그인 화면만으로 삭제를 판단하지 마세요."
+    validations:
+      required: true

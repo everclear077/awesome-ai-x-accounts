@@ -1,24 +1,24 @@
-name: 纠错或移除
-description: 报告更名、错误描述、失效来源或申请移除
+name: "English · Correction or removal"
+description: "Report a renamed handle, incorrect description, or removal request"
 title: "[Correction] "
 body:
   - type: input
     id: handle
     attributes:
-      label: 涉及的账号
+      label: "Affected account"
     validations:
       required: true
   - type: textarea
     id: problem
     attributes:
-      label: 需要修改的内容
-      description: 请避免公开私人信息。
+      label: "What needs changing"
+      description: "Do not include private information."
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: 证据或说明
-      description: 更名请同时附旧、新入口。页面打不开不一定意味着账号已注销。
+      label: "Evidence or explanation"
+      description: "For renames, provide both old and new entry points. A login wall does not prove deletion."
     validations:
       required: true

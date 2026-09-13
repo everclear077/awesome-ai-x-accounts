@@ -6,13 +6,14 @@
   "required": [
     "schema_version",
     "categories",
-    "accounts"
+    "accounts",
+    "default_locale"
   ],
   "properties": {
     "schema_version": {
       "type": "integer",
       "enum": [
-        1
+        2
       ]
     },
     "categories": {
@@ -23,8 +24,7 @@
         "additionalProperties": false,
         "required": [
           "id",
-          "title",
-          "title_en"
+          "title"
         ],
         "properties": {
           "id": {
@@ -34,11 +34,6 @@
             "pattern": "^[a-z][a-z0-9-]*$"
           },
           "title": {
-            "type": "string",
-            "minLength": 1,
-            "maxLength": 80
-          },
-          "title_en": {
             "type": "string",
             "minLength": 1,
             "maxLength": 80
@@ -104,7 +99,8 @@
                 "de",
                 "pt",
                 "ar",
-                "hi"
+                "hi",
+                "ru"
               ]
             }
           },
@@ -157,6 +153,12 @@
           }
         }
       }
+    },
+    "default_locale": {
+      "type": "string",
+      "enum": [
+        "en"
+      ]
     }
   }
 }
