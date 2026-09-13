@@ -1,0 +1,26 @@
+name: Catalog CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    name: Catalog checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate data and generated files
+        run: python scripts/catalog.py check
+      - name: Regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Whitespace check
+        run: git show --format= --check HEAD

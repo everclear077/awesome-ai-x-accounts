@@ -1,0 +1,8 @@
+---
+description: Repository-wide curation and development rules
+alwaysApply: true
+---
+
+Read and follow [AGENTS.md](../../AGENTS.md).
+Use [docs/ai-workflow.md](../../docs/ai-workflow.md) for the research and review process.
+Edit canonical data/templates, record actual source evidence, and run all required checks.

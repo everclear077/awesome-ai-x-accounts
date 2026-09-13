@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 贡献指南
+    url: https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md
+    about: 查看收录标准、数据格式与本地检查方法。

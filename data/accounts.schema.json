@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome AI X Accounts",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "categories",
+    "accounts"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "enum": [
+        1
+      ]
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "title_en"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40,
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+          },
+          "title_en": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 80
+          }
+        }
+      }
+    },
+    "accounts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "handle",
+          "name",
+          "category",
+          "kind",
+          "languages",
+          "why",
+          "url",
+          "sources",
+          "notes"
+        ],
+        "properties": {
+          "handle": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 15,
+            "pattern": "^[A-Za-z0-9_]{1,15}$"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "person",
+              "organization",
+              "media"
+            ]
+          },
+          "languages": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "enum": [
+                "zh",
+                "en",
+                "fr",
+                "ja",
+                "ko",
+                "es",
+                "de",
+                "pt",
+                "ar",
+                "hi"
+              ]
+            }
+          },
+          "why": {
+            "type": "string",
+            "minLength": 8,
+            "maxLength": 160
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https://x\\.com/[A-Za-z0-9_]{1,15}$"
+          },
+          "sources": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "url",
+                "method",
+                "checked_at"
+              ],
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 1000,
+                  "pattern": "^https://"
+                },
+                "method": {
+                  "type": "string",
+                  "enum": [
+                    "x-index",
+                    "owner-link"
+                  ]
+                },
+                "checked_at": {
+                  "type": "string",
+                  "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+                  "format": "date"
+                }
+              }
+            }
+          },
+          "notes": {
+            "type": "string",
+            "minLength": 0,
+            "maxLength": 300
+          }
+        }
+      }
+    }
+  }
+}

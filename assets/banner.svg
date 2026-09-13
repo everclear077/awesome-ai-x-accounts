@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome AI X Accounts</title>
+  <desc id="desc">A constellation of researchers, builders and ideas. Find the people behind the progress.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0a1424"/><stop offset="1" stop-color="#142b42"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#4dd7c6" stop-opacity=".22"/><stop offset="1" stop-color="#4dd7c6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#77efcb"/><stop offset="1" stop-color="#77bcff"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#b7d3ed" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="440" rx="24" fill="url(#dots)"/>
+  <ellipse cx="1005" cy="215" rx="310" ry="285" fill="url(#glow)"/>
+  <path d="M64 67h36" stroke="#7ce8ce" stroke-width="4" stroke-linecap="round"/>
+  <text x="116" y="73" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#91a8c0">A COMMUNITY-CURATED DIRECTORY</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="62" y="163" font-size="68" font-weight="700" letter-spacing="-2" fill="#f4f8ff">Awesome AI</text>
+    <text x="62" y="240" font-size="68" font-weight="700" letter-spacing="-2" fill="url(#accent)">X Accounts.</text>
+    <text x="66" y="292" font-size="22" fill="#bbcadc">Find the people behind the progress.</text>
+    <g font-size="12" letter-spacing="1.8">
+      <rect x="64" y="334" width="106" height="34" rx="17" fill="#203b50" stroke="#355c6c"/>
+      <text x="117" y="356" text-anchor="middle" fill="#aaf2e0">RESEARCH</text>
+      <rect x="184" y="334" width="92" height="34" rx="17" fill="#203b50" stroke="#355c6c"/>
+      <text x="230" y="356" text-anchor="middle" fill="#aaf2e0">BUILDERS</text>
+      <rect x="290" y="334" width="142" height="34" rx="17" fill="#203b50" stroke="#355c6c"/>
+      <text x="361" y="356" text-anchor="middle" fill="#aaf2e0">OPEN SOURCE</text>
+      <text x="66" y="411" font-size="10" letter-spacing="2" fill="#718da8">LLMs / AGENTS / CODE / CREATIVITY / TECHNOLOGY</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#5cb4bb" stroke-width="1.5" opacity=".6">
+    <path d="M820 108L985 78L1118 151L1163 285L1030 352L863 310L772 218Z"/>
+    <path d="M820 108L978 219L1118 151M978 219L1030 352M978 219L863 310M978 219L1163 285M985 78L978 219M772 218L978 219"/>
+    <circle cx="978" cy="219" r="107" stroke-dasharray="3 12" opacity=".4"/>
+    <circle cx="978" cy="219" r="160" stroke-dasharray="2 18" opacity=".35"/>
+  </g>
+  <g stroke="#7de9d3" stroke-width="2">
+    <circle cx="820" cy="108" r="10" fill="#1c4854"/>
+    <circle cx="985" cy="78" r="7" fill="#69d6bd"/>
+    <circle cx="1118" cy="151" r="11" fill="#1c4854"/>
+    <circle cx="1163" cy="285" r="8" fill="#70d6c5"/>
+    <circle cx="1030" cy="352" r="11" fill="#1c4854"/>
+    <circle cx="863" cy="310" r="8" fill="#76a8dc" stroke="#9bc5ee"/>
+    <circle cx="772" cy="218" r="8" fill="#1c4854"/>
+    <circle cx="978" cy="219" r="55" fill="#152f42"/>
+    <circle cx="978" cy="219" r="63" fill="none" opacity=".17" stroke-width="8"/>
+  </g>
+  <g fill="#c7e3ed" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5">
+    <text x="782" y="84">RESEARCH</text>
+    <text x="1086" y="126">AGENTS</text>
+    <text x="1095" y="313">CREATIVITY</text>
+    <text x="996" y="385">OPEN SOURCE</text>
+    <text x="811" y="342">CODE</text>
+  </g>
+  <g fill="none" stroke="#a6f2df" stroke-width="3" stroke-linecap="round">
+    <circle cx="978" cy="207" r="13"/>
+    <path d="M953 239c3-21 47-21 50 0"/>
+  </g>
+  <g fill="#ffc8a8">
+    <circle cx="1202" cy="96" r="3"/><circle cx="883" cy="43" r="3"/>
+    <circle cx="742" cy="350" r="3"/><circle cx="1156" cy="386" r="3"/>
+  </g>
+</svg>
