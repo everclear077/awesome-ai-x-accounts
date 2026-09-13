@@ -1,0 +1,40 @@
+name: "Français · Proposer un compte"
+description: "Ajouter un compte X public sur l’IA ou la technologie"
+title: "[Account] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "URL du profil X"
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: "ID de catégorie"
+    validations:
+      required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Bio — copier le texte original"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "Abonnés — nombre entier exact, si disponible"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "Date et heure du relevé avec fuseau horaire"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Contexte supplémentaire (facultatif)"
+    validations:
+      required: false

@@ -1,24 +1,28 @@
 name: "Русский · Исправление или удаление"
-description: "Сообщить о смене имени, ошибке описания или запросить удаление"
+description: "Исправить профиль, категорию, число или запросить удаление"
 title: "[Correction] "
 body:
   - type: input
-    id: handle
+    id: url
     attributes:
-      label: "Затронутый аккаунт"
+      label: "URL профиля X"
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: change
     attributes:
-      label: "Что нужно изменить"
-      description: "Не включайте непубличную личную информацию."
+      label: "Нужное изменение"
     validations:
       required: true
   - type: textarea
-    id: evidence
+    id: snapshot
     attributes:
-      label: "Подтверждение или объяснение"
-      description: "При смене имени приведите старую и новую ссылки. Требование входа не доказывает удаление аккаунта."
+      label: "Обновлённые данные и время наблюдения"
     validations:
-      required: true
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Дополнительный контекст (необязательно)"
+    validations:
+      required: false

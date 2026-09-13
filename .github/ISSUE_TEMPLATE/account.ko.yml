@@ -1,48 +1,40 @@
-name: "한국어 · 계정 추천"
-description: "AI, LLM, 에이전트 또는 기술 분야의 공개 계정 추천"
+name: "한국어 · 계정 제출"
+description: "AI 또는 기술 분야의 공개 X 계정 추가"
 title: "[Account] "
 body:
   - type: input
-    id: name
-    attributes:
-      label: "이름 또는 조직명"
-    validations:
-      required: true
-  - type: input
     id: url
     attributes:
-      label: "전체 X 프로필 URL"
-      placeholder: "https://x.com/handle"
-    validations:
-      required: true
-  - type: dropdown
-    id: kind
-    attributes:
-      label: "계정 유형"
-      options:
-        - "개인"
-        - "조직"
-        - "미디어"
-    validations:
-      required: true
-  - type: textarea
-    id: reason
-    attributes:
-      label: "주제와 추천 이유"
-      description: "인기보다 구체적인 작업이나 유용한 콘텐츠를 설명해 주세요."
-    validations:
-      required: true
-  - type: textarea
-    id: evidence
-    attributes:
-      label: "1차 출처"
-      description: "본인·조직의 페이지 또는 해당 계정의 X 콘텐츠를 연결해 주세요."
+      label: "X 프로필 URL"
     validations:
       required: true
   - type: input
-    id: relation
+    id: category
     attributes:
-      label: "계정과의 관계"
-      placeholder: "없음 / 본인 / 동료 / 기타"
+      label: "분류 ID"
     validations:
       required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "소개 — 원문 그대로 복사"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "팔로워 수 — 조회할 수 있으면 정확한 정수"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "시간대가 포함된 수집 시각"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "추가 설명 (선택)"
+    validations:
+      required: false

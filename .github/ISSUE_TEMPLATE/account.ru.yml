@@ -1,48 +1,40 @@
 name: "Русский · Предложить аккаунт"
-description: "Публичный аккаунт об ИИ, LLM, агентах или технологиях"
+description: "Добавить публичный аккаунт X об ИИ или технологиях"
 title: "[Account] "
 body:
   - type: input
-    id: name
-    attributes:
-      label: "Имя или название организации"
-    validations:
-      required: true
-  - type: input
     id: url
     attributes:
-      label: "Полный URL профиля X"
-      placeholder: "https://x.com/handle"
-    validations:
-      required: true
-  - type: dropdown
-    id: kind
-    attributes:
-      label: "Тип аккаунта"
-      options:
-        - "Человек"
-        - "Организация"
-        - "Медиа"
-    validations:
-      required: true
-  - type: textarea
-    id: reason
-    attributes:
-      label: "Тема и причина подписаться"
-      description: "Опишите конкретные работы или полезные материалы, а не только популярность."
-    validations:
-      required: true
-  - type: textarea
-    id: evidence
-    attributes:
-      label: "Первичный источник"
-      description: "Ссылка со страницы владельца или на собственную публикацию аккаунта в X."
+      label: "URL профиля X"
     validations:
       required: true
   - type: input
-    id: relation
+    id: category
     attributes:
-      label: "Ваша связь с аккаунтом"
-      placeholder: "Нет / собственный аккаунт / коллега / другое"
+      label: "ID категории"
     validations:
       required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Описание — скопируйте оригинал"
+    validations:
+      required: false
+  - type: input
+    id: followers
+    attributes:
+      label: "Подписчики — точное целое число, если доступно"
+    validations:
+      required: false
+  - type: input
+    id: observed_at
+    attributes:
+      label: "Время наблюдения с часовым поясом"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Дополнительный контекст (необязательно)"
+    validations:
+      required: false

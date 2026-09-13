@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Contribution guides · English / 中文 / 한국어 / 日本語 / Русский
+  - name: PR guide · English / 中文 / 한국어 / 日本語 / Русский / Français / Español
     url: https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md
-    about: Read the curation policy and checks; choose your language at the top.
+    about: Fork, add the original profile data, regenerate, and open a PR. Choose your language at the top.

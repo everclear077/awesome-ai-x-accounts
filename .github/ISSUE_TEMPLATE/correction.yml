@@ -1,24 +1,28 @@
 name: "English · Correction or removal"
-description: "Report a renamed handle, incorrect description, or removal request"
+description: "Correct a profile, category, count, or request removal"
 title: "[Correction] "
 body:
   - type: input
-    id: handle
+    id: url
     attributes:
-      label: "Affected account"
+      label: "X profile URL"
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: change
     attributes:
-      label: "What needs changing"
-      description: "Do not include private information."
+      label: "Requested change"
     validations:
       required: true
   - type: textarea
-    id: evidence
+    id: snapshot
     attributes:
-      label: "Evidence or explanation"
-      description: "For renames, provide both old and new entry points. A login wall does not prove deletion."
+      label: "Updated profile data and observation time"
     validations:
-      required: true
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context (optional)"
+    validations:
+      required: false

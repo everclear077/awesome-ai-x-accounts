@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
   <title id="title">Awesome AI X Accounts</title>
-  <desc id="desc">A constellation of researchers, builders and ideas. Find the people behind the progress.</desc>
+  <desc id="desc">A categorized directory of AI and technology X accounts.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
       <stop stop-color="#0a1424"/><stop offset="1" stop-color="#142b42"/>
@@ -23,7 +23,7 @@
   <g font-family="Arial,Helvetica,sans-serif">
     <text x="62" y="163" font-size="68" font-weight="700" letter-spacing="-2" fill="#f4f8ff">Awesome AI</text>
     <text x="62" y="240" font-size="68" font-weight="700" letter-spacing="-2" fill="url(#accent)">X Accounts.</text>
-    <text x="66" y="292" font-size="22" fill="#bbcadc">Find the people behind the progress.</text>
+    <text x="66" y="292" font-size="22" fill="#bbcadc">AI · LLMs · Agents · Technology</text>
     <g font-size="12" letter-spacing="1.8">
       <rect x="64" y="334" width="106" height="34" rx="17" fill="#203b50" stroke="#355c6c"/>
       <text x="117" y="356" text-anchor="middle" fill="#aaf2e0">RESEARCH</text>

@@ -1,24 +1,28 @@
-name: "日本語 · 訂正・削除"
-description: "ユーザー名変更、説明の誤り、削除依頼を報告"
+name: "日本語 · 訂正または削除"
+description: "紹介文・分類・人数の訂正や削除依頼"
 title: "[Correction] "
 body:
   - type: input
-    id: handle
+    id: url
     attributes:
-      label: "対象アカウント"
+      label: "X プロフィール URL"
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: change
     attributes:
-      label: "変更が必要な内容"
-      description: "非公開の個人情報を含めないでください。"
+      label: "希望する変更"
     validations:
       required: true
   - type: textarea
-    id: evidence
+    id: snapshot
     attributes:
-      label: "根拠または説明"
-      description: "改名の場合は旧・新リンクを示してください。ログイン画面だけで削除されたと判断しないでください。"
+      label: "更新したプロフィールと取得日時"
     validations:
-      required: true
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "補足事項（任意）"
+    validations:
+      required: false

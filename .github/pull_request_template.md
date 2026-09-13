@@ -1,30 +1,32 @@
-## Change and reason
+## Account or change
 
-Describe the affected accounts or behavior and the reason for this change.
-Guides: [English](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md) · [中文](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.zh-CN.md) ·
-[한국어](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ko.md) · [日本語](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ja.md) · [Русский](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ru.md)
+- X profile URL:
+- Numeric X account ID:
+- Category:
+- Observation time (with timezone):
+- Old handle, if this is a rename:
 
-## Evidence and translations
+Copy the profile bio exactly. Provide the observed follower count without estimating
+from rounded numbers. A recommendation or follower threshold is not required.
 
-For account changes, provide the sources actually examined and distinguish X index
-evidence from owner-controlled links. Include old and new handles for migrations.
-A login wall does not establish deletion. Explain translation review and any source
-digest updates. Preserve posting languages, names, and actual source review dates.
+Guides: [English](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md) · [中文](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.zh-CN.md) · [한국어](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ko.md) · [日本語](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ja.md) · [Русский](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ru.md) · [Français](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.fr.md) · [Español](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.es.md)
 
-## Validation
+## Checklist
 
-- [ ] Edited canonical data, locale resources, or templates and regenerated outputs
-- [ ] Updated all five editions, including notes and affected public guides
+- [ ] Checked duplicate handles and numeric account IDs
+- [ ] Copied the original bio, with no editorial description or translation
+- [ ] Recorded exact followers (or null), actual observation time, and profile retrieval URL
+- [ ] Edited source data and regenerated all seven README editions
+- [ ] Removed the pending queue entry if applicable
 - [ ] `python scripts/catalog.py check`
 - [ ] `python -m unittest discover -s tests -v`
 - [ ] `git diff --check`
-- [ ] Reviewed changed pages, navigation, and images on desktop and mobile
+- [ ] Reviewed the changed account rows and navigation
 
-Main requires current Catalog checks and resolved conversations. Merge through this
+## Additional context
+
+For interface or code changes, describe the resulting behavior and checks performed.
+For missing profile fields, explain what could not be retrieved.
+
+Main requires current Catalog checks and resolved conversations. Merge through the
 PR without bypassing protection.
-
-## Relationships and uncertainty
-
-Self-nomination or commercial relationship:
-AI assistance and verification performed:
-Unresolved questions:

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="112" viewBox="0 0 950 112" role="img" aria-labelledby="title">
+<title id="title">100 COMPTES · 11 CATÉGORIES · 7 LANGUES</title>
+<rect x="1" y="1" width="948" height="110" rx="18" fill="#101d31" stroke="#283b54"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<text x="158" y="53" font-size="32" font-weight="700" fill="#76e6d4">100</text>
+<text x="158" y="81" font-size="12" fill="#b6c7dd">COMPTES</text>
+<text x="475" y="53" font-size="32" font-weight="700" fill="#76e6d4">11</text>
+<text x="475" y="81" font-size="12" fill="#b6c7dd">CATÉGORIES</text>
+<path d="M317 28v56" stroke="#283b54"/>
+<text x="792" y="53" font-size="32" font-weight="700" fill="#76e6d4">7</text>
+<text x="792" y="81" font-size="12" fill="#b6c7dd">LANGUES</text>
+<path d="M634 28v56" stroke="#283b54"/>
+</g>
+</svg>

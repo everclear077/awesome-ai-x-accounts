@@ -1,101 +1,182 @@
-﻿handle,name,url,category,kind,languages,why,source_urls,source_methods,source_checked_at,notes
-1X_Tech,1X,https://x.com/1X_Tech,robotics,organization,en,Home robotics and embodied AI product updates.,https://1x.tech/,owner-link,2026-09-13,
-abacaj,anton,https://x.com/abacaj,infra,person,en,"Local models, inference engineering, and AI development experiments.",https://x.com/abacaj/with_replies,x-index,2026-09-13,
-AI21Labs,AI21 Labs,https://x.com/AI21Labs,labs,organization,en,Language models and enterprise AI product resources.,https://x.com/AI21Labs/with_replies,x-index,2026-09-13,
-AIatMeta,AI at Meta,https://x.com/AIatMeta,labs,organization,en,"Official updates on models, open AI, and research.",https://x.com/metaai/with_replies,owner-link,2026-09-13,
-Alibaba_Qwen,Qwen,https://x.com/Alibaba_Qwen,labs,organization,en,"Open models, multimodal capabilities, and technical reports.",https://x.com/Alibaba_Qwen/status/1957502851888083197,x-index,2026-09-13,
-allen_ai,Ai2,https://x.com/allen_ai,labs,organization,en,"Open models, AI for science, and research tools.",https://x.com/allen_ai/status/1798440545574158768,x-index,2026-09-13,
-altryne,Alex Volkov,https://x.com/altryne,creative,person,en,"Generative AI tools, prototypes, and creative workflows.",https://x.com/altryne/status/2033954681752588308,x-index,2026-09-13,
-amanrsanger,Aman Sanger,https://x.com/amanrsanger,coding,person,en,"AI coding products, codebase understanding, and developer experience.",https://x.com/amanrsanger/with_replies,x-index,2026-09-13,
-AndrewYNg,Andrew Ng,https://x.com/AndrewYNg,research,person,en,"Machine learning education, AI application development, and industry perspectives.",https://x.com/AndrewYNg/status/1405622853735649284,x-index,2026-09-13,
-AnthropicAI,Anthropic,https://x.com/AnthropicAI,labs,organization,en,"Model capabilities, safety research, and developer resources.",https://x.com/AnthropicAI/with_replies?lang=ar,x-index,2026-09-13,
-AravSrinivas,Aravind Srinivas,https://x.com/AravSrinivas,founders,person,en,"AI search, information products, and application experiences.",https://x.com/AravSrinivas/status/1958385027185877066,x-index,2026-09-13,
-AxtonLiu,Axton,https://x.com/AxtonLiu,chinese,person,zh,"AI tool usage, automation, and practical product workflows.",https://x.com/AxtonLiu/status/2038753399865544778,x-index,2026-09-13,
-bcherny,Boris Cherny,https://x.com/bcherny,coding,person,en,Coding-agent products and experience with development workflows.,https://x.com/bcherny/with_replies,x-index,2026-09-13,
-camenduru,camenduru,https://x.com/camenduru,creative,person,en,"Resources for running open image, video, and multimodal models.",https://hub.docker.com/u/camenduru,owner-link,2026-09-13,
-chelseabfinn,Chelsea Finn,https://x.com/chelseabfinn,robotics,person,en,"Robot learning, meta-learning, and generalization research.",https://x.com/chelseabfinn/status/1894833652145758685,x-index,2026-09-13,
-chipro,Chip Huyen,https://x.com/chipro,agents,person,en,"AI system design, evaluation, and model application engineering.",https://x.com/chipro/status/1186651526338465792,x-index,2026-09-13,
-cohere,Cohere,https://x.com/cohere,labs,organization,en,"Enterprise language models, retrieval, and application engineering resources.",https://mobile.x.com/cohere/affiliates,x-index,2026-09-13,
-DeepLearningAI,DeepLearning.AI,https://x.com/DeepLearningAI,media,organization,en,"Machine learning courses, AI education, and technology news.",https://x.com/DeepLearningAI/status/2023472681442509285,x-index,2026-09-13,Newer X pages use @DeepLearningAI; older references include a trailing underscore.
-deepseek_ai,DeepSeek,https://x.com/deepseek_ai,labs,organization,en,Official announcements of models and research progress.,https://play.google.com/store/apps/details?hl=en_US&id=com.deepseek.chat,owner-link,2026-09-13,
-demishassabis,Demis Hassabis,https://x.com/demishassabis,research,person,en,"Artificial general intelligence, scientific discovery, and research progress.",https://x.com/demishassabis/with_replies?lang=en,x-index,2026-09-13,
-Dorialexander,Alexander Doria,https://x.com/Dorialexander,creative,person,en,"Generative models, AI creativity, and technology perspectives.",https://x.com/Dorialexander/status/2043748441021407320,x-index,2026-09-13,
-dotey,宝玉,https://x.com/dotey,chinese,person,zh,"Chinese-language AI explanations, programming practices, and translations.",https://x.com/dotey/status/2034299374172319875,x-index,2026-09-13,
-drfeifei,Fei-Fei Li,https://x.com/drfeifei,research,person,en,"Computer vision, spatial intelligence, and human-centered AI.",https://www-cs.stanford.edu/groups/vision/people.html,owner-link,2026-09-13,
-DrJimFan,Jim Fan,https://x.com/DrJimFan,robotics,person,en,"Embodied AI, robot learning, and simulation research.",https://x.com/DrJimFan/status/1762888644933902681,x-index,2026-09-13,
-eladgil,Elad Gil,https://x.com/eladgil,founders,person,en,"AI startups, enterprise applications, and technology industry perspectives.",https://x.com/eladgil/status/1828992767336558993,x-index,2026-09-13,
-ElevenLabs,ElevenLabs,https://x.com/ElevenLabs,creative,organization,en,"Speech synthesis, audio generation, and voice-agent updates.",https://x.com/ElevenLabs/with_replies,x-index,2026-09-13,
-emollick,Ethan Mollick,https://x.com/emollick,media,person,en,Generative AI experiments and perspectives on work and education.,https://x.com/emollick/status/1836488274333884490,x-index,2026-09-13,
-eugeneyan,Eugene Yan,https://x.com/eugeneyan,agents,person,en,"Recommendation systems, LLM applications, and production engineering.",https://eugeneyan.com/,owner-link,2026-09-13,
-fchollet,François Chollet,https://x.com/fchollet,research,person,en,"Deep learning, intelligence evaluation, and generalization.",https://x.com/fchollet/status/2036551534549643444,x-index,2026-09-13,
-fofrAI,fofr,https://x.com/fofrAI,creative,person,en,"Hands-on image and video generation, with open-source experiments.",https://linktr.ee/fofrai,owner-link,2026-09-13,
-Francis_YAO_,Yao Fu,https://x.com/Francis_YAO_,llm,person,en,"Language model training, reasoning, and research analysis.",https://yaofu.notion.site/,owner-link,2026-09-13,The X handle was checked against his personal blog and differs from his GitHub username.
-GaryMarcus,Gary Marcus,https://x.com/GaryMarcus,media,person,en,"Critical analysis of AI capabilities, limitations, and reliability.",https://x.com/GaryMarcus/status/1684415274500644867,x-index,2026-09-13,
-geoffreyhinton,Geoffrey Hinton,https://x.com/geoffreyhinton,research,person,en,"Deep learning foundations, model capabilities, and AI risks.",https://x.com/geoffreyhinton/with_replies,x-index,2026-09-13,
-ggerganov,Georgi Gerganov,https://x.com/ggerganov,infra,person,en,"Local inference, quantization, and lightweight model runtimes.",https://x.com/ggerganov/status/1952978670328660152,x-index,2026-09-13,
-goodfellow_ian,Ian Goodfellow,https://x.com/goodfellow_ian,research,person,en,"Deep learning, generative models, and machine learning research.",https://x.com/goodfellow_ian/status/1554836790736916480,x-index,2026-09-13,
-GoogleAI,Google AI,https://x.com/GoogleAI,labs,organization,en,"Official updates on AI research, tools, and products.",https://x.com/GoogleAI/status/1858961530009657760,x-index,2026-09-13,
-GoogleDeepMind,Google DeepMind,https://x.com/GoogleDeepMind,robotics,organization,en,"Multimodal models, robotics, and AI research progress.",https://x.com/GoogleDeepMind/status/2014352832099487989,x-index,2026-09-13,
-Gorden_Sun,Gorden Sun,https://x.com/Gorden_Sun,chinese,person,zh,"Chinese-language news on AI models, products, and tools.",https://x.com/Gorden_Sun/with_replies?lang=fr,x-index,2026-09-13,
-HamelHusain,Hamel Husain,https://x.com/HamelHusain,agents,person,en,"LLM evaluation, error analysis, and application development practices.",https://x.com/HamelHusain/status/2027886222161678845,x-index,2026-09-13,
-hausman_k,Karol Hausman,https://x.com/hausman_k,robotics,person,en,Robotics foundation models and general-purpose robot learning.,https://karolhausman.github.io/,owner-link,2026-09-13,
-huggingface,Hugging Face,https://x.com/huggingface,infra,organization,en,"Models, datasets, open-source libraries, and community projects.",https://x.com/huggingface/with_replies,x-index,2026-09-13,
-hwchase17,Harrison Chase,https://x.com/hwchase17,agents,person,en,"Agent orchestration, tool calling, and the LangChain ecosystem.",https://x.com/hwchase17/status/2026313732947943877,x-index,2026-09-13,
-ilyasut,Ilya Sutskever,https://x.com/ilyasut,research,person,en,First-hand perspectives on deep learning research and model capabilities.,https://x.com/ilyasut/with_replies,x-index,2026-09-13,
-JayAlammar,Jay Alammar,https://x.com/JayAlammar,llm,person,en,"Visual explanations of Transformers, embeddings, and language models.",https://jalammar.github.io/,owner-link,2026-09-13,
-jerryjliu0,Jerry Liu,https://x.com/jerryjliu0,agents,person,en,"Data retrieval, knowledge bases, and the LlamaIndex ecosystem.",https://x.com/jerryjliu0/status/2041211035160600862,x-index,2026-09-13,
-jxnlco,Jason Liu,https://x.com/jxnlco,agents,person,en,"Structured extraction, LLM workflows, and evaluation practices.",https://x.com/jxnlco/status/2037968924499992786,x-index,2026-09-13,
-karpathy,Andrej Karpathy,https://x.com/karpathy,research,person,en,"Detailed explanations of neural networks, model training, and AI-assisted programming.",https://x.com/karpathy/with_replies,x-index,2026-09-13,
-LangChainAI,LangChain,https://x.com/LangChainAI,infra,organization,en,"Agent frameworks, tool integrations, and engineering tutorials.",https://x.com/LangChainAI/status/1873041238087352629,x-index,2026-09-13,
-LatentSpacePod,Latent Space,https://x.com/LatentSpacePod,media,media,en,"AI engineer interviews, technical discussions, and community content.",https://x.com/latentspacepod/status/2036174018747965657,x-index,2026-09-13,
-leerob,Lee Robinson,https://x.com/leerob,coding,person,en,"Web engineering, AI developer tools, and practical tutorials.",https://x.com/leerob/with_replies;https://x.com/leeerob/with_replies,x-index;owner-link,2026-09-13;2026-09-13,The old @leeerob profile states that the account moved to @leerob.
-levelsio,Pieter Levels,https://x.com/levelsio,founders,person,en,"Independent development, building AI products, and operating them.",https://levels.io/i-dont-write-code-anymore,owner-link,2026-09-13,
-lexfridman,Lex Fridman,https://x.com/lexfridman,media,person,en,Interviews with technology researchers and long-form technical conversations.,https://x.com/lexfridman/status/1854239565935972380,x-index,2026-09-13,
-lijigang,李继刚,https://x.com/lijigang,chinese,person,zh,"Prompt design, language expression, and AI interaction experiments.",https://x.com/lijigang/status/1899302493852705043,x-index,2026-09-13,
-llama_index,LlamaIndex,https://x.com/llama_index,infra,organization,en,"Retrieval augmentation, data connections, and agent application resources.",https://x.com/llama_index/status/2052056007954837865,x-index,2026-09-13,
-mattshumer_,Matt Shumer,https://x.com/mattshumer_,coding,person,en,"AI tool applications, agent workflows, and product experiments.",https://x.com/mattshumer_/status/2046284453123879421,x-index,2026-09-13,
-MelMitchell1,Melanie Mitchell,https://x.com/MelMitchell1,research,person,en,"AI concepts, analogical reasoning, and the limits of model capabilities.",https://x.com/MelMitchell1/status/1920564159286071455,x-index,2026-09-13,A historical post is available as evidence; recent posting frequency has not been checked.
-MistralAI,Mistral AI,https://x.com/MistralAI,labs,organization,en,"Official releases on models, developer APIs, and deployment products.",https://x.com/MistralAI/with_replies,x-index,2026-09-13,
-MIT_CSAIL,MIT CSAIL,https://x.com/MIT_CSAIL,labs,organization,en,"Research announcements in computer science, AI, and robotics.",https://x.com/MIT_CSAIL/status/1609233205126627330,x-index,2026-09-13,
-mntruell,Michael Truell,https://x.com/mntruell,coding,person,en,AI coding editors and new approaches to software development.,https://x.com/mntruell/with_replies,x-index,2026-09-13,
-multimodalart,Apolinário Passos,https://x.com/multimodalart,creative,person,en,"Open generative models, creative demos, and community projects.",https://x.com/multimodalart/with_replies,x-index,2026-09-13,
-mustafasuleyman,Mustafa Suleyman,https://x.com/mustafasuleyman,founders,person,en,"AI products, human–computer interaction, and industry perspectives.",https://x.com/mustafasuleyman/with_replies,x-index,2026-09-13,
-natolambert,Nathan Lambert,https://x.com/natolambert,llm,person,en,"Model post-training, preference learning, and open model research.",https://x.com/natolambert/status/1931017013419520063,x-index,2026-09-13,
-nutlope,Hassan El Mghari,https://x.com/nutlope,coding,person,en,"Open-source AI applications, web examples, and development tutorials.",https://x.com/nutlope/status/2041199444855492790,x-index,2026-09-13,
-NVIDIAAI,NVIDIA AI,https://x.com/NVIDIAAI,labs,organization,en,"AI computing, model deployment, and developer tools.",https://www.nvidia.com/en-gb/contact/social/,owner-link,2026-09-13,
-ollama,Ollama,https://x.com/ollama,infra,organization,en,"Local model tools, integration examples, and release information.",https://x.com/ollama/status/2041610283152797818,x-index,2026-09-13,
-omarsar0,Elvis Saravia,https://x.com/omarsar0,llm,person,en,"Prompt engineering, LLM papers, and developer learning resources.",https://x.com/omarsar0/status/2029992986113900871,x-index,2026-09-13,
-op7418,歸藏,https://x.com/op7418,chinese,person,zh,"Chinese-language workflows for AI images, video, and design.",https://x.com/op7418/status/2034069787719176219?lang=en,x-index,2026-09-13,
-OpenAI,OpenAI,https://x.com/OpenAI,labs,organization,en,"Official releases on models, developer platforms, and research.",https://x.com/OpenAI/status/2041581000120267067,x-index,2026-09-13,
-oran_ge,Orange AI,https://x.com/oran_ge,chinese,person,zh,"AI products, startups, and application scenarios.",https://x.com/oran_ge/with_replies,x-index,2026-09-13,
-Physical_Int,Physical Intelligence,https://x.com/Physical_Int,robotics,organization,en,Robotics foundation models and manipulation research updates.,https://x.com/physical_int/with_replies,x-index,2026-09-13,
-pika_labs,Pika,https://x.com/pika_labs,creative,organization,en,AI video creation tools and official examples.,https://x.com/pika_labs/status/1955007670462853355,x-index,2026-09-13,
-rasbt,Sebastian Raschka,https://x.com/rasbt,llm,person,en,Code-based explanations of language model training and machine learning methods.,https://x.com/rasbt/status/1684902178509504512,x-index,2026-09-13,
-rauchg,Guillermo Rauch,https://x.com/rauchg,coding,person,en,"Web development, AI application interfaces, and developer platforms.",https://x.com/rauchg/status/2041883605711122488,x-index,2026-09-13,
-replicate,Replicate,https://x.com/replicate,creative,organization,en,"Model APIs, generative applications, and development examples.",https://x.com/replicate/with_replies,x-index,2026-09-13,
-runwayml,Runway,https://x.com/runwayml,creative,organization,en,"Video generation, editing, and creative tool releases.",https://x.com/runwayml/status/1978540989925949532,x-index,2026-09-13,
-sama,Sam Altman,https://x.com/sama,founders,person,en,"AI products, industry development, and technology directions.",https://x.com/sama/with_replies?lang=en,x-index,2026-09-13,
-sarah_edo,Sarah Drasner,https://x.com/sarah_edo,coding,person,en,"Software engineering, developer experience, and AI-assisted development.",https://github.com/sdras,owner-link,2026-09-13,
-saranormous,Sarah Guo,https://x.com/saranormous,founders,person,en,"AI startups, products, and industry interviews.",https://x.com/saranormous/with_replies,x-index,2026-09-13,
-seb_ruder,Sebastian Ruder,https://x.com/seb_ruder,llm,person,en,"Natural language processing, multilingual models, and research reading.",https://twitter.com/seb_ruder/with_replies?lang=en,x-index,2026-09-13,
-SerranoAcademy,Luis Serrano,https://x.com/SerranoAcademy,llm,person,en,Intuitive examples for learning machine learning and generative AI.,https://linktr.ee/luisgserrano,owner-link,2026-09-13,
-sh_reya,Shreya Shankar,https://x.com/sh_reya,agents,person,en,"Data systems, LLM evaluation, and human–AI collaboration research.",https://x.com/sh_reya/status/1889000744982098087,x-index,2026-09-13,
-shao__meng,meng shao,https://x.com/shao__meng,chinese,person,zh,"LLM papers, developer tools, and AI product resources.",https://x.com/shao__meng/status/1931557749877543325,x-index,2026-09-13,
-simonw,Simon Willison,https://x.com/simonw,agents,person,en,"Hands-on LLM tool testing, prompt injection, and software engineering notes.",https://x.com/simonw/with_replies,x-index,2026-09-13,
-srush_nlp,Alexander Rush,https://x.com/srush_nlp,llm,person,en,"Natural language processing, model efficiency, and research tools.",https://x.com/srush_nlp/with_replies,x-index,2026-09-13,
-StabilityAI,Stability AI,https://x.com/StabilityAI,labs,organization,en,"Open generative models, image tools, and media updates.",https://x.com/StabilityAI/with_replies,x-index,2026-09-13,
-StanfordHAI,Stanford HAI,https://x.com/StanfordHAI,labs,organization,en,Human-centered AI research and policy discussions.,https://x.com/StanfordHAI/with_replies,x-index,2026-09-13,
-steipete,Peter Steinberger,https://x.com/steipete,coding,person,en,"Coding agents, developer tools, and real-world project workflows.",https://x.com/steipete/status/2026135884815306950,x-index,2026-09-13,
-svlevine,Sergey Levine,https://x.com/svlevine,robotics,person,en,"Robot control, reinforcement learning, and learning agents.",https://x.com/svlevine/status/1665127336033894400,x-index,2026-09-13,
-swyx,Shawn Wang,https://x.com/swyx,agents,person,en,"AI engineering ecosystems, agent practices, and developer interviews.",https://swyx.io/,owner-link,2026-09-13,
-TechCrunch,TechCrunch,https://x.com/TechCrunch,media,media,en,"News on technology companies, AI products, and startups.",https://x.com/TechCrunch/with_replies,x-index,2026-09-13,
-Teknium,Teknium,https://x.com/Teknium,infra,person,en,"Open models, instruction datasets, and model training practices.",https://github.com/teknium1,owner-link,2026-09-13,His GitHub profile links to @Teknium. The older @Teknium1 handle is not used as the current entry point.
-TheSequenceAI,The Sequence,https://x.com/TheSequenceAI,media,media,en,"Curated coverage of AI research, models, and technology trends.",https://thesequence.substack.com/p/follow-us-on-twitter,owner-link,2026-09-13,
-TheTuringPost,Turing Post,https://x.com/TheTuringPost,media,media,en,A newsletter explaining machine learning research and AI engineering.,https://x.com/TheTuringPost/with_replies,x-index,2026-09-13,
-Thom_Wolf,Thomas Wolf,https://x.com/Thom_Wolf,infra,person,en,"Open models, machine learning tools, and the research ecosystem.",https://x.com/Thom_Wolf/status/2041217780515565676,x-index,2026-09-13,
-tibo_maker,Tibo,https://x.com/tibo_maker,founders,person,en,"Independent products, AI tools, and the development process.",https://x.com/tibo_maker/status/1953750606738309211,x-index,2026-09-13,
-trq212,Thariq Shihipar,https://x.com/trq212,coding,person,en,"AI coding tools, interaction design, and practical agent usage.",https://www.linkedin.com/posts/thariqshihipar_thariq-trq212-on-x-activity-7386548104612757504-ACdH,owner-link,2026-09-13,
-vista8,向阳乔木,https://x.com/vista8,chinese,person,zh,"AI product experiences, workflows, and programming practices.",https://x.com/vista8/with_replies,x-index,2026-09-13,
-vllm_project,vLLM,https://x.com/vllm_project,infra,organization,en,"High-throughput model serving, inference engines, and releases.",https://x.com/vllm_project/with_replies,x-index,2026-09-13,
-xiaohu,小互,https://x.com/xiaohu,chinese,person,zh,"AI video, creative tools, and technology product examples.",https://x.com/xiaohu/status/2042224444207480988,x-index,2026-09-13,
-ylecun,Yann LeCun,https://x.com/ylecun,research,person,en,"Discussions of representation learning, world models, and AI research directions.",https://x.com/ylecun/status/2042347532043395226;https://yann.lecun.org/,x-index;owner-link,2026-09-13;2026-09-13,His website says he has reduced original posting on X and mainly shares links or reposts; his personal website is another useful entry point.
+﻿id,handle,name,url,category,bio,followers_count,observed_at,source_url
+755183838532370432,1x_tech,1X,https://x.com/1x_tech,robotics,NEO The Home Robot | Order Today,145423,2026-09-13T10:33:03+00:00,https://api.fxtwitter.com/2/profile/1X_Tech
+70514287,abacaj,anton,https://x.com/abacaj,infra,"Software, working on https://t.co/wPa5iIk1d3 - browsers for agents",48402,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/abacaj
+1166332664569368576,AI21Labs,AI21 Labs,https://x.com/AI21Labs,labs,Shipping frontier models and agents since 2021. We help enterprises sustain their target agent accuracy within fixed cost & latency budgets.,11220,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/AI21Labs
+1034844617261248512,AIatMeta,AI at Meta,https://x.com/AIatMeta,labs,"Together with the AI community, we are pushing the boundaries of what’s possible through open science to create a more connected world.",849927,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/AIatMeta
+1753339277386342400,Alibaba_Qwen,Qwen,https://x.com/Alibaba_Qwen,labs,Open foundation models for AGI.,284712,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/Alibaba_Qwen
+3442793834,allen_ai,Ai2,https://x.com/allen_ai,labs,"Breakthrough AI to solve the world's biggest problems.
+
+› Join us: https://t.co/MjUpZpKPXJ
+› Newsletter: https://t.co/k9gGznstwj",86136,2026-09-13T10:33:08+00:00,https://api.fxtwitter.com/2/profile/allen_ai
+5721582,altryne,Alex Volkov,https://x.com/altryne,creative,"🎙️ Host of @thursdai_pod (get your AI news with us!) 
+✨ AI Evangelist with @wandb & @coreweave 🪄🐝 
+Opinions my own",42059,2026-09-13T10:33:01+00:00,https://api.fxtwitter.com/2/profile/altryne
+1378017343641640961,amanrsanger,Aman Sanger,https://x.com/amanrsanger,coding,Building @SpaceXAI | @cursor_ai founder,57487,2026-09-13T10:32:57+00:00,https://api.fxtwitter.com/2/profile/amanrsanger
+216939636,AndrewYNg,Andrew Ng,https://x.com/AndrewYNg,research,"Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",1877244,2026-09-13T10:32:52+00:00,https://api.fxtwitter.com/2/profile/AndrewYNg
+1353836358901501952,AnthropicAI,Anthropic,https://x.com/AnthropicAI,labs,"We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",1703788,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/AnthropicAI
+759894532649545732,AravSrinivas,Aravind Srinivas,https://x.com/AravSrinivas,founders,cofounder and ceo @perplexity_ai,1123293,2026-09-13T10:33:03+00:00,https://api.fxtwitter.com/2/profile/AravSrinivas
+2997268024,AxtonLiu,Axton,https://x.com/AxtonLiu,chinese,"《重构个体》作者 · AI 自动化架构师 · MAPS™ 框架创建者
+AI 竞争力 = 人机协作深度 × 系统设计能力
+Author of ""Rebuilding the Individual"" · AI Automation Architect",19681,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/AxtonLiu
+159337660,bcherny,Boris Cherny,https://x.com/bcherny,coding,Claude Code @anthropicai,573134,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/bcherny
+36723,camenduru,camenduru,https://x.com/camenduru,creative,building 🍞 @tost_ai ❤ open source https://t.co/8MMNbygz1P,21131,2026-09-13T10:33:00+00:00,https://api.fxtwitter.com/2/profile/camenduru
+2577596593,chelseabfinn,Chelsea Finn,https://x.com/chelseabfinn,robotics,"Asst Prof of CS & EE @Stanford
+Co-founder of Physical Intelligence @physical_int
+PhD from @Berkeley_EECS, EECS BS from @MIT",102133,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/chelseabfinn
+15278016,chipro,Chip Huyen,https://x.com/chipro,agents,"'@aisysbooks @goodailist
+AI Engineering: https://t.co/94dv4uTU1H
+Designing MLSys: https://t.co/G81hL2dWmr
+Reading @chipslib",146617,2026-09-13T10:32:55+00:00,https://api.fxtwitter.com/2/profile/chipro
+1326237414025801729,cohere,Cohere,https://x.com/cohere,labs,"AI for Empowerment. We build private systems for enterprise, and open-source models for builders, to help people lead better lives.",119714,2026-09-13T10:33:08+00:00,https://api.fxtwitter.com/2/profile/cohere
+992153930095251456,DeepLearningAI,DeepLearning.AI,https://x.com/DeepLearningAI,media,We are an education technology company with the mission to grow and connect the global AI community.,348792,2026-09-13T10:33:10+00:00,https://api.fxtwitter.com/2/profile/DeepLearningAI
+1714580962569588736,deepseek_ai,DeepSeek,https://x.com/deepseek_ai,labs,Unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.,1130178,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/deepseek_ai
+1482581556,demishassabis,Demis Hassabis,https://x.com/demishassabis,research,Nobel Laureate. Co-Founder & Chair @GoogleDeepMind; Chief Scientist of Alphabet. Founder & CEO @IsomorphicLabs. Building the future...,1856089,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/demishassabis
+276508048,Dorialexander,Alexander Doria,https://x.com/Dorialexander,creative,building open ai infrastructure @pleiasfr — χαλεπὰ τὰ καλά,24364,2026-09-13T10:33:00+00:00,https://api.fxtwitter.com/2/profile/Dorialexander
+3178231,dotey,宝玉,https://x.com/dotey,chinese,"AI Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",248654,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/dotey
+130745589,drfeifei,Fei-Fei Li,https://x.com/drfeifei,research,"Cofounder/CEO @theworldlabs, Prof (CS @Stanford), Co-Director @StanfordHAI, #AI #SpatialIntelligence #GenAI #computervision #robotics #AI-healthcare",1053180,2026-09-13T10:32:52+00:00,https://api.fxtwitter.com/2/profile/drfeifei
+1007413134,DrJimFan,Jim Fan,https://x.com/DrJimFan,robotics,"NVIDIA Director of Robotics & Distinguished Scientist. Co-Lead of GEAR lab. Solving Physical AGI, one motor at a time. Stanford Ph.D. OpenAI's 1st intern.",587048,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/DrJimFan
+6535212,eladgil,Elad Gil,https://x.com/eladgil,founders,Entrepreneur & Investor,709435,2026-09-13T10:33:04+00:00,https://api.fxtwitter.com/2/profile/eladgil
+1478679005788311552,ElevenLabs,ElevenLabs,https://x.com/ElevenLabs,creative,"AI research and products that transform how we interact with technology. 
+
+Leading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",190324,2026-09-13T10:33:01+00:00,https://api.fxtwitter.com/2/profile/ElevenLabs
+39125788,emollick,Ethan Mollick,https://x.com/emollick,media,"Professor @Wharton studying AI.
+New book, Co-Existence, coming October 20. Preorder here: https://t.co/hsDYf1xU9K
+Substack: https://t.co/UIBhxu4bgq",387136,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/emollick
+35109534,eugeneyan,Eugene Yan,https://x.com/eugeneyan,agents,"MTS @AnthropicAI. Prev: Principal Applied Scientist @Amazon, led ML @ Alibaba, Healthtech startup.",29175,2026-09-13T10:32:55+00:00,https://api.fxtwitter.com/2/profile/eugeneyan
+68746721,fchollet,François Chollet,https://x.com/fchollet,research,Co-founder @ndea. Co-founder @arcprize. Creator of Keras and ARC-AGI. Author of 'Deep Learning with Python'.,728759,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/fchollet
+1552580106257928192,fofrAI,fofr,https://x.com/fofrAI,creative,Whispering to models at Google DeepMind,82734,2026-09-13T10:33:00+00:00,https://api.fxtwitter.com/2/profile/fofrAI
+741313237287768064,Francis_YAO_,Yao Fu,https://x.com/Francis_YAO_,llm,Prev. Grok 4.5/4.6 pretraining scaling @xAI; Gemini 3 perception and project Astra @GoogleDeepMind,23534,2026-09-13T10:32:54+00:00,https://api.fxtwitter.com/2/profile/Francis_YAO_
+232294292,GaryMarcus,Gary Marcus,https://x.com/GaryMarcus,media,"OG GenAI Skeptic; spoke at US Senate. Warned about hallucinations in 2001. Advocating world models & neurosymbolic AI ever since. Author, Marcus on AI & 6 books",242738,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/GaryMarcus
+1084212657761148928,geoffreyhinton,Geoffrey Hinton,https://x.com/geoffreyhinton,research,deep learning,651103,2026-09-13T10:32:52+00:00,https://api.fxtwitter.com/2/profile/geoffreyhinton
+3300401027,ggerganov,Georgi Gerganov,https://x.com/ggerganov,infra,24th at the Electrica puzzle challenge | building https://t.co/baTQS2bL7I | engineer @huggingface,71543,2026-09-13T10:32:59+00:00,https://api.fxtwitter.com/2/profile/ggerganov
+775449094739197953,goodfellow_ian,Ian Goodfellow,https://x.com/goodfellow_ian,research,Co-founder of stealth startup. Inventor of GANs. Lead author of https://t.co/M6vl8pEQ4I Founding chairman of @pubhealthaction,380559,2026-09-13T10:32:52+00:00,https://api.fxtwitter.com/2/profile/goodfellow_ian
+33838201,GoogleAI,Google AI,https://x.com/GoogleAI,labs,Making AI helpful for everyone. Show thinking ↓,2454586,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/GoogleAI
+4783690002,GoogleDeepMind,Google DeepMind,https://x.com/GoogleDeepMind,robotics,The engine room of @Google. Building AI safely and responsibly to solve the world’s most complex problems. Join us: https://t.co/jUHQA27iBL,1527794,2026-09-13T10:33:03+00:00,https://api.fxtwitter.com/2/profile/GoogleDeepMind
+1657474831,Gorden_Sun,Gorden Sun,https://x.com/Gorden_Sun,chinese,只发AI相关信息，个人维护的AI资讯日报（已连续日更3年）👇,66420,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/Gorden_Sun
+825766640,HamelHusain,Hamel Husain,https://x.com/HamelHusain,agents,"Evals Evals Evals -  https://t.co/Zrmp6LRd9c
+
+About Me: https://t.co/P6WyeKkyTa",55523,2026-09-13T10:32:55+00:00,https://api.fxtwitter.com/2/profile/HamelHusain
+1249492212,hausman_k,Karol Hausman,https://x.com/hausman_k,robotics,'@Physical_int,44424,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/hausman_k
+778764142412984320,huggingface,Hugging Face,https://x.com/huggingface,infra,The AI community building the future. https://t.co/TpiXQMQ9rZ,789422,2026-09-13T10:32:59+00:00,https://api.fxtwitter.com/2/profile/huggingface
+2728439146,hwchase17,Harrison Chase,https://x.com/hwchase17,agents,"'@LangChain
+
+Always hiring: https://t.co/D5Ut3loFO7",130618,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/hwchase17
+1720046887,ilyasut,Ilya Sutskever,https://x.com/ilyasut,research,SSI @SSI,897069,2026-09-13T10:32:52+00:00,https://api.fxtwitter.com/2/profile/ilyasut
+1245260977626587136,JayAlammar,Jay Alammar,https://x.com/JayAlammar,llm,Machine Learning Researcher and writer https://t.co/5GlbofAHs0. O'Reilly Author https://t.co/Fl3uPAZHLg. LLM Builder @Cohere.,52035,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/JayAlammar
+369777416,jerryjliu0,Jerry Liu,https://x.com/jerryjliu0,agents,"Parsing the world's hardest PDFs @llama_index. cofounder/CEO
+
+Careers: https://t.co/EUnMNmbCtx
+Enterprise: https://t.co/Ht5jwxSrQB",83611,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/jerryjliu0
+17203692,jxnlco,jason,https://x.com/jxnlco,agents,vibes @openai,131465,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/jxnlco
+33836629,karpathy,Andrej Karpathy,https://x.com/karpathy,research,deep learning,4150350,2026-09-13T10:32:51+00:00,https://api.fxtwitter.com/2/profile/karpathy
+1589007443853340672,LangChain,LangChain,https://x.com/LangChain,infra,"Own your intelligence.
+
+Makers of LangSmith, @LangChain_OSS, and @LangChain_JS.",264694,2026-09-13T10:33:00+00:00,https://api.fxtwitter.com/2/profile/LangChain
+1670869422733393966,latentspacepod,Latent.Space,https://x.com/latentspacepod,media,"AI Engineering podcast, newsletter & community. Technical news today you’ll use at work tomorrow. Business: business@latent.space · Tips: tips@latent.space",31953,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/LatentSpacePod
+81712767,leerob,Lee Robinson,https://x.com/leerob,coding,Model behavior @SpaceXAI. Helping train useful models.,287505,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/leerob
+1577241403,levelsio,'@levelsio,https://x.com/levelsio,founders,"💸https://t.co/sQ0aiU7v02
+📸https://t.co/lAyoqmSBRX $90K/m
+🎮https://t.co/tF49atJ396 $44K/m
+🫟https://t.co/8rYr9A594z $25K/m
+🏡https://t.co/1oqUgfD6CZ $21K/m
+👙@X $20K/m
+🌍https://t.co/UXK5AFqCaQ $12K/m
+💾@pieter
+🏩https://t.co/4p4dzTDVN6",955768,2026-09-13T10:33:04+00:00,https://api.fxtwitter.com/2/profile/levelsio
+427089628,lexfridman,Lex Fridman,https://x.com/lexfridman,media,"Host of Lex Fridman Podcast.
+Interested in robots and humans.",5495148,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/lexfridman
+1474067654,lijigang,李继刚,https://x.com/lijigang,chinese,我与 AI 周旋久，宁做我,54624,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/lijigang
+96999384,lilianweng,Lilian Weng,https://x.com/lilianweng,llm,"MTS @OpenAI; Author of Lil'Log
+
+Prev: Ex Co-founder of Thinking Machines Lab; Ex-VP, AI Safety & robotics, applied research OpenAI",292490,2026-09-13T10:33:10+00:00,https://api.fxtwitter.com/2/profile/lilianweng
+1604278358296055808,llama_index,LlamaIndex 🦙,https://x.com/llama_index,infra,"The most accurate agentic OCR platform for production AI.
+
+LlamaParse: https://t.co/yQGTiRSNvj
+Docs: https://t.co/us6GCS1Clb",120014,2026-09-13T10:33:00+00:00,https://api.fxtwitter.com/2/profile/llama_index
+1194889317388374016,mattshumer_,Matt Shumer,https://x.com/mattshumer_,coding,"AI whisperer. Investor in @GroqInc @Etched @Rork @DaytonaIO @OpenRouter + more. Prev: CEO @HyperWriteAI | AI @AlphaSchool
+
+Press: mattshumermedia@gmail.com",395007,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/mattshumer_
+367297219,MelMitchell1,Melanie Mitchell,https://x.com/MelMitchell1,research,"Professor, Santa Fe Institute.  Mostly posting  on https://t.co/4NpA2IL5Va (at-melaniemitchell). More thoughts at https://t.co/nC43NHRozX.",51967,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/MelMitchell1
+1667249535519805451,MistralAI,Mistral AI,https://x.com/MistralAI,labs,Frontier AI in your hands. Get work done with @MistralVibe at https://t.co/JsGnCVMUFq.,206893,2026-09-13T10:33:07+00:00,https://api.fxtwitter.com/2/profile/MistralAI
+82364810,MIT_CSAIL,MIT CSAIL,https://x.com/MIT_CSAIL,labs,"MIT's Computer Science & Artificial Intelligence Laboratory (CSAIL). Media Inquiries: rachelg@csail.mit.edu
+
+Check out the latest CSAIL content ⬇️",349948,2026-09-13T10:33:10+00:00,https://api.fxtwitter.com/2/profile/MIT_CSAIL
+2755860644,mntruell,Michael Truell,https://x.com/mntruell,coding,Building @SpaceXAI,228401,2026-09-13T10:32:57+00:00,https://api.fxtwitter.com/2/profile/mntruell
+1415428329210105859,multimodalart,apolinario (poli),https://x.com/multimodalart,creative,ML Engineer for Art and Creativity @HuggingFace,16179,2026-09-13T10:33:01+00:00,https://api.fxtwitter.com/2/profile/multimodalart
+2314443930,mustafasuleyman,Mustafa Suleyman,https://x.com/mustafasuleyman,founders,"CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",1092033,2026-09-13T10:33:03+00:00,https://api.fxtwitter.com/2/profile/mustafasuleyman
+2939913921,natolambert,Nathan Lambert,https://x.com/natolambert,llm,"Open model research @ something new.
+Prev. co-led Olmo at Ai2.
+Writes @interconnectsai, wrote https://t.co/alRXKINTwE",100857,2026-09-13T10:32:54+00:00,https://api.fxtwitter.com/2/profile/natolambert
+3246815913,nutlope,Hassan,https://x.com/nutlope,coding,"Developer Experience Lead @togethercompute. Building open source AI apps like https://t.co/f8hbvXOFaN, https://t.co/SmHisRTtnp, & https://t.co/hs63SlHxjw.",99521,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/nutlope
+740238495952736256,NVIDIAAI,NVIDIA AI,https://x.com/NVIDIAAI,labs,Teaching your AI new tricks.,339431,2026-09-13T10:33:08+00:00,https://api.fxtwitter.com/2/profile/NVIDIAAI
+1688410127378829312,ollama,ollama,https://x.com/ollama,infra,https://t.co/1JpLwJ9Bdv,182971,2026-09-13T10:32:59+00:00,https://api.fxtwitter.com/2/profile/ollama
+3448284313,omarsar0,elvis,https://x.com/omarsar0,llm,Founder @dair_ai • Prev: Meta AI | PhD • Learn Harness Engineering here: https://t.co/nOPcXIaITT,319025,2026-09-13T10:32:54+00:00,https://api.fxtwitter.com/2/profile/omarsar0
+1669276256,op7418,歸藏(guizang.ai),https://x.com/op7418,chinese,"关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）
+
+歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",174278,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/op7418
+4398626122,OpenAI,OpenAI,https://x.com/OpenAI,labs,OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA,5327958,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/OpenAI
+6782882,oran_ge,Orange AI,https://x.com/oran_ge,chinese,Cola/ListenHub 创始人 & CEO | ex MiniMax 海螺 AI PM,182388,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/oran_ge
+1767285662087348224,physical_int,Physical Intelligence,https://x.com/physical_int,robotics,"Physical Intelligence (Pi), bringing AI into the physical world.",49697,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/Physical_Int
+1650159466032271360,pika_labs,Pika,https://x.com/pika_labs,creative,"Tools for creation that happen to be AI
+
+https://t.co/G5bjmrMiCZ
+Join our teams? https://t.co/wM9WYPvPZj",150877,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/pika_labs
+865622395,rasbt,Sebastian Raschka,https://x.com/rasbt,llm,"ML/AI research engineer. Ex stats professor.
+Author of ""Build a Large Language Model From Scratch"" (https://t.co/O8LAAMRzzW) & reasoning (https://t.co/5TueQKx2Fk)",506984,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/rasbt
+15540222,rauchg,Guillermo Rauch,https://x.com/rauchg,coding,'@vercel CEO,865578,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/rauchg
+1191076082889310208,replicate,Replicate,https://x.com/replicate,creative,Run AI with an API,53041,2026-09-13T10:33:01+00:00,https://api.fxtwitter.com/2/profile/replicate
+1001114465692200960,runwayml,Runway,https://x.com/runwayml,creative,Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y,291137,2026-09-13T10:33:01+00:00,https://api.fxtwitter.com/2/profile/runwayml
+1605,sama,Sam Altman,https://x.com/sama,founders,The mission of OpenAI to ensure that AGI benefits all of humanity,6201625,2026-09-13T10:33:03+00:00,https://api.fxtwitter.com/2/profile/sama
+813333008,sarah_edo,Sarah Drasner,https://x.com/sarah_edo,coding,"Opinions my own. Area Tech Lead, AI and Web Ecosystem @chrome, Formerly Sr. Director of Core Infra @google • O'Reilly Author • https://t.co/HhzYWwxqL9",303781,2026-09-13T10:32:57+00:00,https://api.fxtwitter.com/2/profile/sarah_edo
+339261041,saranormous,sarah guo,https://x.com/saranormous,founders,"startup investor/helper, founder @conviction. interested in intelligence, accelerating progress. tech podcast: @nopriorspod",158790,2026-09-13T10:33:04+00:00,https://api.fxtwitter.com/2/profile/saranormous
+2785337469,seb_ruder,Sebastian Ruder,https://x.com/seb_ruder,llm,Research Scientist @AIatMeta MSL • Ex @Cohere @GoogleDeepMind,98543,2026-09-13T10:32:53+00:00,https://api.fxtwitter.com/2/profile/seb_ruder
+17435275,SerranoAcademy,Luis Serrano,https://x.com/SerranoAcademy,llm,"Author of Grokking Machine Learning, ML and QC popularizer, YouTuber: https://t.co/MGCYjf6M9K, Opinions are my own https://t.co/S1jvXnAa8U",12329,2026-09-13T10:32:54+00:00,https://api.fxtwitter.com/2/profile/SerranoAcademy
+2286218053,sh_reya,Shreya Shankar,https://x.com/sh_reya,agents,"Incoming assistant professor @CSDatCMU @CMUDB. All about data, HCI, and AI. Created https://t.co/PmuOqAXVgS and https://t.co/8MQt4na2cj.",55821,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/sh_reya
+1727548535816724480,shao__meng,meng shao,https://x.com/shao__meng,chinese,"Building AI Agents for design & media.
+分享新产品、开源项目，以及 AI 创业与职场观察。
+公众号 / 小红书：AI 启蒙小伙伴｜合作请私信",33910,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/shao__meng
+12497,simonw,Simon Willison,https://x.com/simonw,agents,"Creator @datasetteproj, co-creator Django. PSF board. Hangs out with @natbat. He/Him. Mastodon: https://t.co/t0MrmnJW0K Bsky: https://t.co/OnWIyhX4CH",221839,2026-09-13T10:32:55+00:00,https://api.fxtwitter.com/2/profile/simonw
+4558314927,srush_nlp,Sasha Rush,https://x.com/srush_nlp,llm,"Researcher, Programmer 
+https://t.co/cZl0wTfqGz",84220,2026-09-13T10:32:54+00:00,https://api.fxtwitter.com/2/profile/srush_nlp
+1281048162602369024,StabilityAI,Stability AI,https://x.com/StabilityAI,labs,We’ll help you make it like nobody’s business. Multimodal media generation and editing tools to get your idea to production. Self-deploy? 👍 Need a partner? 🤝,261443,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/StabilityAI
+1067218780806307841,StanfordHAI,Stanford HAI,https://x.com/StanfordHAI,labs,"The official account of the @Stanford Institute for Human-Centered AI, advancing AI research, education, policy, and practice to improve the human condition.",108748,2026-09-13T10:33:10+00:00,https://api.fxtwitter.com/2/profile/StanfordHAI
+25401953,steipete,Peter Steinberger 🦞,https://x.com/steipete,coding,"Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.
+@OpenClaw🦞 + @OpenAI",586584,2026-09-13T10:32:56+00:00,https://api.fxtwitter.com/2/profile/steipete
+990433714948661250,svlevine,Sergey Levine,https://x.com/svlevine,robotics,"Associate Professor at UC Berkeley
+Co-founder, Physical Intelligence",136822,2026-09-13T10:33:02+00:00,https://api.fxtwitter.com/2/profile/svlevine
+33521530,swyx,swyx,https://x.com/swyx,agents,"achieve ambition with intentionality, intensity, integrity & insanity.
+
+affiliations:
+- @smol_ai
+- @dxtipshq
+- @cognition
+- @aidotengineer
+- @latentspacepod",191712,2026-09-13T10:32:55+00:00,https://api.fxtwitter.com/2/profile/swyx
+816653,TechCrunch,TechCrunch,https://x.com/TechCrunch,media,Technology news and analysis with a focus on founders and startup teams. Got a tip? https://t.co/J0WxnZxSRY,10975739,2026-09-13T10:33:10+00:00,https://api.fxtwitter.com/2/profile/TechCrunch
+1365020011123773442,Teknium,Teknium 🪽,https://x.com/Teknium,infra,"Cofounder and Lead Engineer - Hermes Agent @NousResearch, prev @StabilityAI
+Github: https://t.co/LZwHTUFwPq
+HuggingFace: https://t.co/sN2FFU8PVE",126561,2026-09-13T10:32:59+00:00,https://api.fxtwitter.com/2/profile/Teknium
+1271482878958940160,TheTuringPost,Turing Post,https://x.com/TheTuringPost,media,"On X we surface the AI research that matters and explain the ideas behind it. In the newsletter, we connect the dots between AI’s past, present, and future ⬇️",87612,2026-09-13T10:33:09+00:00,https://api.fxtwitter.com/2/profile/TheTuringPost
+246939962,Thom_Wolf,Thomas Wolf,https://x.com/Thom_Wolf,infra,co-founder @HuggingFace - moonshots,132248,2026-09-13T10:32:58+00:00,https://api.fxtwitter.com/2/profile/Thom_Wolf
+470129898,tibo_maker,Tibo,https://x.com/tibo_maker,founders,"📽 https://t.co/OyNJ8ZUyOh
+📈 https://t.co/JkVOl1O0S1
+🤖 https://t.co/tywwX4TyWa
+https://t.co/EFUcKeBbpU
+https://t.co/KG9PgxJabg
+https://t.co/1MEIhy0L5K
+https://t.co/jS9GQJ5Ps8
+
+sold Tweet Hunter, Taplio ($10m)
+PH Maker of Year 🥇
+growth tips: https://t.co/ereQodN3Ov",207590,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/tibo_maker
+352806502,trq212,Thariq,https://x.com/trq212,coding,"Claude Code @anthropicai. prev YC W20, @spc, @medialab",342200,2026-09-13T10:32:57+00:00,https://api.fxtwitter.com/2/profile/trq212
+6690032,vista8,向阳乔木,https://x.com/vista8,chinese,"喜欢摇滚乐、爱钓鱼的PM
+第二届GEO大会报名-11-21/22日-深圳南山
+https://t.co/N75cblhK9R",125614,2026-09-13T10:33:06+00:00,https://api.fxtwitter.com/2/profile/vista8
+1774187564276289536,vllm_project,vLLM,https://x.com/vllm_project,infra,A high-throughput and memory-efficient inference and serving engine for LLMs. Join https://t.co/lxJ0SfX5pJ to discuss together with the community!,49106,2026-09-13T10:32:59+00:00,https://api.fxtwitter.com/2/profile/vllm_project
+1764818331822182400,xiaohu,小互,https://x.com/xiaohu,chinese,"带你了解全球最前沿科技、AI动态...
+
+AI 精华，讲到你懂：https://t.co/nvuDIvoNg1",120535,2026-09-13T10:33:05+00:00,https://api.fxtwitter.com/2/profile/xiaohu
+48008938,ylecun,Yann LeCun,https://x.com/ylecun,research,"Founder/Chair, AMI Labs; Professor, NYU; Partner, 224 Ventures; Ex-Chief AI Scientist, Meta.
+Researcher in AI, ML, Robotics, etc.
+ACM Turing Award Laureate.",1297557,2026-09-13T10:32:51+00:00,https://api.fxtwitter.com/2/profile/ylecun

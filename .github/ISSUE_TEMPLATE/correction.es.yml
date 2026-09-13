@@ -1,0 +1,28 @@
+name: "Español · Corrección o eliminación"
+description: "Corregir un perfil, categoría o cifra, o solicitar una eliminación"
+title: "[Correction] "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: "URL del perfil de X"
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: "Cambio solicitado"
+    validations:
+      required: true
+  - type: textarea
+    id: snapshot
+    attributes:
+      label: "Datos actualizados y fecha de consulta"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: "Contexto adicional (opcional)"
+    validations:
+      required: false
