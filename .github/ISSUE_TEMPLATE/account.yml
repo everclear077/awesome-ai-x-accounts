@@ -1,48 +1,48 @@
-name: 推荐账号
-description: 推荐 AI、Agent、LLM 或科技领域的公开 X 账号
+name: "English · Suggest an account"
+description: "Recommend a public AI, LLM, agent, or technology account"
 title: "[Account] "
 body:
   - type: input
     id: name
     attributes:
-      label: 名字或机构名
+      label: "Name or organization"
     validations:
       required: true
   - type: input
     id: url
     attributes:
-      label: 完整 X 主页链接
-      placeholder: https://x.com/handle
+      label: "Full X profile URL"
+      placeholder: "https://x.com/handle"
     validations:
       required: true
   - type: dropdown
     id: kind
     attributes:
-      label: 账号类型
+      label: "Account type"
       options:
-        - 个人
-        - 组织
-        - 媒体
+        - "Person"
+        - "Organization"
+        - "Media"
     validations:
       required: true
   - type: textarea
     id: reason
     attributes:
-      label: 主题与推荐理由
-      description: 说明持续贡献或代表内容，避免只写粉丝多。
+      label: "Topic and reason to follow"
+      description: "Describe concrete work or useful content, not just popularity."
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: 可核对来源
-      description: 本人网站、组织官网、本人开发者主页或原始 X 页面。
+      label: "First-party evidence"
+      description: "Link to an owner-controlled page or the account's own X content."
     validations:
       required: true
   - type: input
     id: relation
     attributes:
-      label: 与账号的关系
-      placeholder: 无 / 本人 / 同事 / 其他
+      label: "Your relationship to the account"
+      placeholder: "None / self / colleague / other"
     validations:
       required: true

@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 贡献指南
+  - name: Contribution guides · English / 中文 / 한국어 / 日本語 / Русский
     url: https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md
-    about: 查看收录标准、数据格式与本地检查方法。
+    about: Read the curation policy and checks; choose your language at the top.

@@ -1,0 +1,48 @@
+name: "简体中文 · 推荐账号"
+description: "推荐 AI、LLM、Agent 或科技领域的公开账号"
+title: "[Account] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "名字或机构名"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "完整 X 主页链接"
+      placeholder: "https://x.com/handle"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: "账号类型"
+      options:
+        - "个人"
+        - "组织"
+        - "媒体"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "主题与推荐理由"
+      description: "说明具体工作或有用内容，不要只写粉丝多。"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "第一方证据"
+      description: "附本人/组织页面或该账号自己的 X 内容。"
+    validations:
+      required: true
+  - type: input
+    id: relation
+    attributes:
+      label: "与账号的关系"
+      placeholder: "无 / 本人 / 同事 / 其他"
+    validations:
+      required: true

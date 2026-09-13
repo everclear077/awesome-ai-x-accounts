@@ -1,60 +1,49 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "categories": [
     {
       "id": "research",
-      "title": "🧠 AI 研究",
-      "title_en": "Research"
+      "title": "🧠 AI research"
     },
     {
       "id": "llm",
-      "title": "📚 LLM 与学习",
-      "title_en": "LLMs & learning"
+      "title": "📚 LLMs & learning"
     },
     {
       "id": "agents",
-      "title": "🤖 Agent 工程与评测",
-      "title_en": "Agents & evaluation"
+      "title": "🤖 Agents & evaluation"
     },
     {
       "id": "coding",
-      "title": "💻 AI Coding 与开发",
-      "title_en": "AI coding & development"
+      "title": "💻 AI coding & development"
     },
     {
       "id": "infra",
-      "title": "⚙️ 开源与基础设施",
-      "title_en": "Open source & infrastructure"
+      "title": "⚙️ Open source & infrastructure"
     },
     {
       "id": "creative",
-      "title": "🎬 图像、视频与语音",
-      "title_en": "Image, video & audio"
+      "title": "🎬 Image, video & audio"
     },
     {
       "id": "robotics",
-      "title": "🦾 机器人与空间智能",
-      "title_en": "Robotics & spatial AI"
+      "title": "🦾 Robotics & spatial AI"
     },
     {
       "id": "founders",
-      "title": "🚀 产品与创业",
-      "title_en": "Products & founders"
+      "title": "🚀 Products & founders"
     },
     {
       "id": "chinese",
-      "title": "🌏 中文 AI 与科技",
-      "title_en": "Chinese-language voices"
+      "title": "🌏 Chinese-language AI & tech"
     },
     {
       "id": "labs",
-      "title": "🏛️ 实验室与模型团队",
-      "title_en": "Labs & model teams"
+      "title": "🏛️ Labs & model teams"
     },
     {
       "id": "media",
-      "title": "📰 媒体、访谈与解读",
-      "title_en": "Media & explainers"
+      "title": "📰 Media, interviews & explainers"
     }
   ],
   "accounts": [
@@ -66,7 +55,7 @@
       "languages": [
         "en"
       ],
-      "why": "神经网络原理、模型训练与 AI 编程的长篇解释。",
+      "why": "Detailed explanations of neural networks, model training, and AI-assisted programming.",
       "url": "https://x.com/karpathy",
       "sources": [
         {
@@ -85,7 +74,7 @@
       "languages": [
         "en"
       ],
-      "why": "表示学习、世界模型与 AI 研究方向的讨论。",
+      "why": "Discussions of representation learning, world models, and AI research directions.",
       "url": "https://x.com/ylecun",
       "sources": [
         {
@@ -99,7 +88,7 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "个人主页说明已减少在 X 原创发文，主要发布链接或转发；也可关注其个人网站。"
+      "notes": "His website says he has reduced original posting on X and mainly shares links or reposts; his personal website is another useful entry point."
     },
     {
       "handle": "geoffreyhinton",
@@ -109,7 +98,7 @@
       "languages": [
         "en"
       ],
-      "why": "深度学习基础、模型能力与风险讨论。",
+      "why": "Deep learning foundations, model capabilities, and AI risks.",
       "url": "https://x.com/geoffreyhinton",
       "sources": [
         {
@@ -128,7 +117,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器学习教育、AI 应用开发与行业观察。",
+      "why": "Machine learning education, AI application development, and industry perspectives.",
       "url": "https://x.com/AndrewYNg",
       "sources": [
         {
@@ -147,7 +136,7 @@
       "languages": [
         "en"
       ],
-      "why": "计算机视觉、空间智能与以人为本的 AI。",
+      "why": "Computer vision, spatial intelligence, and human-centered AI.",
       "url": "https://x.com/drfeifei",
       "sources": [
         {
@@ -166,7 +155,7 @@
       "languages": [
         "en"
       ],
-      "why": "深度学习、生成模型与机器学习研究。",
+      "why": "Deep learning, generative models, and machine learning research.",
       "url": "https://x.com/goodfellow_ian",
       "sources": [
         {
@@ -185,7 +174,7 @@
       "languages": [
         "en"
       ],
-      "why": "深度学习研究与模型能力相关的一手观点。",
+      "why": "First-hand perspectives on deep learning research and model capabilities.",
       "url": "https://x.com/ilyasut",
       "sources": [
         {
@@ -204,7 +193,7 @@
       "languages": [
         "en"
       ],
-      "why": "深度学习、智能评测与泛化能力讨论。",
+      "why": "Deep learning, intelligence evaluation, and generalization.",
       "url": "https://x.com/fchollet",
       "sources": [
         {
@@ -223,7 +212,7 @@
       "languages": [
         "en"
       ],
-      "why": "通用人工智能、科学发现与研究进展。",
+      "why": "Artificial general intelligence, scientific discovery, and research progress.",
       "url": "https://x.com/demishassabis",
       "sources": [
         {
@@ -242,7 +231,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 概念、类比推理与能力边界分析。",
+      "why": "AI concepts, analogical reasoning, and the limits of model capabilities.",
       "url": "https://x.com/MelMitchell1",
       "sources": [
         {
@@ -251,7 +240,7 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "存在历史帖子来源；近期发帖频率未核验。"
+      "notes": "A historical post is available as evidence; recent posting frequency has not been checked."
     },
     {
       "handle": "rasbt",
@@ -261,7 +250,7 @@
       "languages": [
         "en"
       ],
-      "why": "用代码讲解大语言模型训练与机器学习方法。",
+      "why": "Code-based explanations of language model training and machine learning methods.",
       "url": "https://x.com/rasbt",
       "sources": [
         {
@@ -280,7 +269,7 @@
       "languages": [
         "en"
       ],
-      "why": "自然语言处理、多语言模型与研究阅读。",
+      "why": "Natural language processing, multilingual models, and research reading.",
       "url": "https://x.com/seb_ruder",
       "sources": [
         {
@@ -299,7 +288,7 @@
       "languages": [
         "en"
       ],
-      "why": "用可视化解释 Transformer、嵌入和语言模型。",
+      "why": "Visual explanations of Transformers, embeddings, and language models.",
       "url": "https://x.com/JayAlammar",
       "sources": [
         {
@@ -318,7 +307,7 @@
       "languages": [
         "en"
       ],
-      "why": "以直观例子讲解机器学习与生成式 AI。",
+      "why": "Intuitive examples for learning machine learning and generative AI.",
       "url": "https://x.com/SerranoAcademy",
       "sources": [
         {
@@ -337,7 +326,7 @@
       "languages": [
         "en"
       ],
-      "why": "提示工程、LLM 论文与开发学习资源。",
+      "why": "Prompt engineering, LLM papers, and developer learning resources.",
       "url": "https://x.com/omarsar0",
       "sources": [
         {
@@ -356,7 +345,7 @@
       "languages": [
         "en"
       ],
-      "why": "自然语言处理、模型效率与研究工具。",
+      "why": "Natural language processing, model efficiency, and research tools.",
       "url": "https://x.com/srush_nlp",
       "sources": [
         {
@@ -375,7 +364,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型后训练、偏好学习与开放模型研究。",
+      "why": "Model post-training, preference learning, and open model research.",
       "url": "https://x.com/natolambert",
       "sources": [
         {
@@ -394,7 +383,7 @@
       "languages": [
         "en"
       ],
-      "why": "语言模型训练、推理与研究分析。",
+      "why": "Language model training, reasoning, and research analysis.",
       "url": "https://x.com/Francis_YAO_",
       "sources": [
         {
@@ -403,7 +392,7 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "X 用户名依据个人博客链接核对，与 GitHub 用户名不同。"
+      "notes": "The X handle was checked against his personal blog and differs from his GitHub username."
     },
     {
       "handle": "swyx",
@@ -413,7 +402,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 工程生态、Agent 实践与开发者访谈。",
+      "why": "AI engineering ecosystems, agent practices, and developer interviews.",
       "url": "https://x.com/swyx",
       "sources": [
         {
@@ -432,7 +421,7 @@
       "languages": [
         "en"
       ],
-      "why": "LLM 工具实测、提示注入与软件工程记录。",
+      "why": "Hands-on LLM tool testing, prompt injection, and software engineering notes.",
       "url": "https://x.com/simonw",
       "sources": [
         {
@@ -451,7 +440,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 系统设计、评测与模型应用工程。",
+      "why": "AI system design, evaluation, and model application engineering.",
       "url": "https://x.com/chipro",
       "sources": [
         {
@@ -470,7 +459,7 @@
       "languages": [
         "en"
       ],
-      "why": "推荐系统、LLM 应用与生产系统经验。",
+      "why": "Recommendation systems, LLM applications, and production engineering.",
       "url": "https://x.com/eugeneyan",
       "sources": [
         {
@@ -489,7 +478,7 @@
       "languages": [
         "en"
       ],
-      "why": "LLM 评测、错误分析与应用开发实践。",
+      "why": "LLM evaluation, error analysis, and application development practices.",
       "url": "https://x.com/HamelHusain",
       "sources": [
         {
@@ -508,7 +497,7 @@
       "languages": [
         "en"
       ],
-      "why": "结构化抽取、LLM 工作流与评测实践。",
+      "why": "Structured extraction, LLM workflows, and evaluation practices.",
       "url": "https://x.com/jxnlco",
       "sources": [
         {
@@ -527,7 +516,7 @@
       "languages": [
         "en"
       ],
-      "why": "Agent 编排、工具调用与 LangChain 生态。",
+      "why": "Agent orchestration, tool calling, and the LangChain ecosystem.",
       "url": "https://x.com/hwchase17",
       "sources": [
         {
@@ -546,7 +535,7 @@
       "languages": [
         "en"
       ],
-      "why": "数据检索、知识库与 LlamaIndex 生态。",
+      "why": "Data retrieval, knowledge bases, and the LlamaIndex ecosystem.",
       "url": "https://x.com/jerryjliu0",
       "sources": [
         {
@@ -565,7 +554,7 @@
       "languages": [
         "en"
       ],
-      "why": "数据系统、LLM 评测与人机协作研究。",
+      "why": "Data systems, LLM evaluation, and human–AI collaboration research.",
       "url": "https://x.com/sh_reya",
       "sources": [
         {
@@ -584,7 +573,7 @@
       "languages": [
         "en"
       ],
-      "why": "编码 Agent、开发工具和真实项目实践。",
+      "why": "Coding agents, developer tools, and real-world project workflows.",
       "url": "https://x.com/steipete",
       "sources": [
         {
@@ -603,7 +592,7 @@
       "languages": [
         "en"
       ],
-      "why": "编码 Agent 产品与开发工作流经验。",
+      "why": "Coding-agent products and experience with development workflows.",
       "url": "https://x.com/bcherny",
       "sources": [
         {
@@ -622,7 +611,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 编程工具、交互设计与 Agent 使用经验。",
+      "why": "AI coding tools, interaction design, and practical agent usage.",
       "url": "https://x.com/trq212",
       "sources": [
         {
@@ -641,7 +630,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 编程产品、代码库理解与开发体验。",
+      "why": "AI coding products, codebase understanding, and developer experience.",
       "url": "https://x.com/amanrsanger",
       "sources": [
         {
@@ -660,7 +649,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 编程编辑器与软件开发方式探索。",
+      "why": "AI coding editors and new approaches to software development.",
       "url": "https://x.com/mntruell",
       "sources": [
         {
@@ -679,7 +668,7 @@
       "languages": [
         "en"
       ],
-      "why": "软件工程、开发体验与 AI 辅助开发讨论。",
+      "why": "Software engineering, developer experience, and AI-assisted development.",
       "url": "https://x.com/sarah_edo",
       "sources": [
         {
@@ -698,7 +687,7 @@
       "languages": [
         "en"
       ],
-      "why": "Web 开发、AI 应用界面与开发平台。",
+      "why": "Web development, AI application interfaces, and developer platforms.",
       "url": "https://x.com/rauchg",
       "sources": [
         {
@@ -717,7 +706,7 @@
       "languages": [
         "en"
       ],
-      "why": "Web 工程、AI 开发工具与实践教程。",
+      "why": "Web engineering, AI developer tools, and practical tutorials.",
       "url": "https://x.com/leerob",
       "sources": [
         {
@@ -731,7 +720,7 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "旧账号 @leeerob 的简介提示已迁移至 @leerob。"
+      "notes": "The old @leeerob profile states that the account moved to @leerob."
     },
     {
       "handle": "mattshumer_",
@@ -741,7 +730,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 工具应用、Agent 工作流与产品实验。",
+      "why": "AI tool applications, agent workflows, and product experiments.",
       "url": "https://x.com/mattshumer_",
       "sources": [
         {
@@ -760,7 +749,7 @@
       "languages": [
         "en"
       ],
-      "why": "开源 AI 应用、Web 示例与开发教程。",
+      "why": "Open-source AI applications, web examples, and development tutorials.",
       "url": "https://x.com/nutlope",
       "sources": [
         {
@@ -779,7 +768,7 @@
       "languages": [
         "en"
       ],
-      "why": "开放模型、机器学习工具与研究生态。",
+      "why": "Open models, machine learning tools, and the research ecosystem.",
       "url": "https://x.com/Thom_Wolf",
       "sources": [
         {
@@ -798,7 +787,7 @@
       "languages": [
         "en"
       ],
-      "why": "本地模型、推理工程与 AI 开发实验。",
+      "why": "Local models, inference engineering, and AI development experiments.",
       "url": "https://x.com/abacaj",
       "sources": [
         {
@@ -817,7 +806,7 @@
       "languages": [
         "en"
       ],
-      "why": "本地推理、量化与轻量模型运行时。",
+      "why": "Local inference, quantization, and lightweight model runtimes.",
       "url": "https://x.com/ggerganov",
       "sources": [
         {
@@ -836,7 +825,7 @@
       "languages": [
         "en"
       ],
-      "why": "开放模型、指令数据与模型训练实践。",
+      "why": "Open models, instruction datasets, and model training practices.",
       "url": "https://x.com/Teknium",
       "sources": [
         {
@@ -845,7 +834,7 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "个人 GitHub 主页指向 @Teknium；旧资料中的 @Teknium1 不作为当前入口。"
+      "notes": "His GitHub profile links to @Teknium. The older @Teknium1 handle is not used as the current entry point."
     },
     {
       "handle": "vllm_project",
@@ -855,7 +844,7 @@
       "languages": [
         "en"
       ],
-      "why": "高吞吐模型服务、推理引擎与版本动态。",
+      "why": "High-throughput model serving, inference engines, and releases.",
       "url": "https://x.com/vllm_project",
       "sources": [
         {
@@ -874,7 +863,7 @@
       "languages": [
         "en"
       ],
-      "why": "本地模型运行工具、集成示例与发布信息。",
+      "why": "Local model tools, integration examples, and release information.",
       "url": "https://x.com/ollama",
       "sources": [
         {
@@ -893,7 +882,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型、数据集、开源库与社区项目动态。",
+      "why": "Models, datasets, open-source libraries, and community projects.",
       "url": "https://x.com/huggingface",
       "sources": [
         {
@@ -912,7 +901,7 @@
       "languages": [
         "en"
       ],
-      "why": "Agent 框架、工具集成与工程教程。",
+      "why": "Agent frameworks, tool integrations, and engineering tutorials.",
       "url": "https://x.com/LangChainAI",
       "sources": [
         {
@@ -931,7 +920,7 @@
       "languages": [
         "en"
       ],
-      "why": "检索增强、数据连接与 Agent 应用资料。",
+      "why": "Retrieval augmentation, data connections, and agent application resources.",
       "url": "https://x.com/llama_index",
       "sources": [
         {
@@ -950,7 +939,7 @@
       "languages": [
         "en"
       ],
-      "why": "生成式模型、AI 创作与技术观察。",
+      "why": "Generative models, AI creativity, and technology perspectives.",
       "url": "https://x.com/Dorialexander",
       "sources": [
         {
@@ -969,7 +958,7 @@
       "languages": [
         "en"
       ],
-      "why": "图像与视频生成模型的实践和开源实验。",
+      "why": "Hands-on image and video generation, with open-source experiments.",
       "url": "https://x.com/fofrAI",
       "sources": [
         {
@@ -988,7 +977,7 @@
       "languages": [
         "en"
       ],
-      "why": "图像、视频与多模态开源模型运行资源。",
+      "why": "Resources for running open image, video, and multimodal models.",
       "url": "https://x.com/camenduru",
       "sources": [
         {
@@ -1007,7 +996,7 @@
       "languages": [
         "en"
       ],
-      "why": "开源生成模型、创意 Demo 与社区项目。",
+      "why": "Open generative models, creative demos, and community projects.",
       "url": "https://x.com/multimodalart",
       "sources": [
         {
@@ -1026,7 +1015,7 @@
       "languages": [
         "en"
       ],
-      "why": "生成式 AI 工具、原型与创作实践。",
+      "why": "Generative AI tools, prototypes, and creative workflows.",
       "url": "https://x.com/altryne",
       "sources": [
         {
@@ -1045,7 +1034,7 @@
       "languages": [
         "en"
       ],
-      "why": "视频生成、编辑与创作工具发布。",
+      "why": "Video generation, editing, and creative tool releases.",
       "url": "https://x.com/runwayml",
       "sources": [
         {
@@ -1064,7 +1053,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 视频创作工具与官方案例。",
+      "why": "AI video creation tools and official examples.",
       "url": "https://x.com/pika_labs",
       "sources": [
         {
@@ -1083,7 +1072,7 @@
       "languages": [
         "en"
       ],
-      "why": "语音合成、音频生成与语音 Agent 动态。",
+      "why": "Speech synthesis, audio generation, and voice-agent updates.",
       "url": "https://x.com/ElevenLabs",
       "sources": [
         {
@@ -1102,7 +1091,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型运行 API、生成式应用与开发示例。",
+      "why": "Model APIs, generative applications, and development examples.",
       "url": "https://x.com/replicate",
       "sources": [
         {
@@ -1121,7 +1110,7 @@
       "languages": [
         "en"
       ],
-      "why": "具身智能、机器人学习与仿真研究。",
+      "why": "Embodied AI, robot learning, and simulation research.",
       "url": "https://x.com/DrJimFan",
       "sources": [
         {
@@ -1140,7 +1129,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器人基础模型与通用机器人学习。",
+      "why": "Robotics foundation models and general-purpose robot learning.",
       "url": "https://x.com/hausman_k",
       "sources": [
         {
@@ -1159,7 +1148,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器人学习、元学习与泛化研究。",
+      "why": "Robot learning, meta-learning, and generalization research.",
       "url": "https://x.com/chelseabfinn",
       "sources": [
         {
@@ -1178,7 +1167,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器人控制、强化学习与学习型智能体。",
+      "why": "Robot control, reinforcement learning, and learning agents.",
       "url": "https://x.com/svlevine",
       "sources": [
         {
@@ -1197,7 +1186,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器人基础模型与操作任务研究动态。",
+      "why": "Robotics foundation models and manipulation research updates.",
       "url": "https://x.com/Physical_Int",
       "sources": [
         {
@@ -1216,7 +1205,7 @@
       "languages": [
         "en"
       ],
-      "why": "家庭机器人与具身智能产品动态。",
+      "why": "Home robotics and embodied AI product updates.",
       "url": "https://x.com/1X_Tech",
       "sources": [
         {
@@ -1235,7 +1224,7 @@
       "languages": [
         "en"
       ],
-      "why": "多模态模型、机器人与 AI 科研进展。",
+      "why": "Multimodal models, robotics, and AI research progress.",
       "url": "https://x.com/GoogleDeepMind",
       "sources": [
         {
@@ -1254,7 +1243,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 产品、产业发展与技术方向讨论。",
+      "why": "AI products, industry development, and technology directions.",
       "url": "https://x.com/sama",
       "sources": [
         {
@@ -1273,7 +1262,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 产品、人机交互与产业观察。",
+      "why": "AI products, human–computer interaction, and industry perspectives.",
       "url": "https://x.com/mustafasuleyman",
       "sources": [
         {
@@ -1292,7 +1281,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 搜索、信息产品与应用体验。",
+      "why": "AI search, information products, and application experiences.",
       "url": "https://x.com/AravSrinivas",
       "sources": [
         {
@@ -1311,7 +1300,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 创业、产品与产业访谈。",
+      "why": "AI startups, products, and industry interviews.",
       "url": "https://x.com/saranormous",
       "sources": [
         {
@@ -1330,7 +1319,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 创业、企业应用与技术产业观察。",
+      "why": "AI startups, enterprise applications, and technology industry perspectives.",
       "url": "https://x.com/eladgil",
       "sources": [
         {
@@ -1349,7 +1338,7 @@
       "languages": [
         "en"
       ],
-      "why": "独立开发、AI 产品构建与运营实践。",
+      "why": "Independent development, building AI products, and operating them.",
       "url": "https://x.com/levelsio",
       "sources": [
         {
@@ -1368,7 +1357,7 @@
       "languages": [
         "en"
       ],
-      "why": "独立产品、AI 工具与开发过程分享。",
+      "why": "Independent products, AI tools, and the development process.",
       "url": "https://x.com/tibo_maker",
       "sources": [
         {
@@ -1387,7 +1376,7 @@
       "languages": [
         "zh"
       ],
-      "why": "中文 AI 技术解读、编程实践与资料翻译。",
+      "why": "Chinese-language AI explanations, programming practices, and translations.",
       "url": "https://x.com/dotey",
       "sources": [
         {
@@ -1406,7 +1395,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 图像、视频与设计工作流的中文实践。",
+      "why": "Chinese-language workflows for AI images, video, and design.",
       "url": "https://x.com/op7418",
       "sources": [
         {
@@ -1425,7 +1414,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 模型、产品和工具的中文资讯整理。",
+      "why": "Chinese-language news on AI models, products, and tools.",
       "url": "https://x.com/Gorden_Sun",
       "sources": [
         {
@@ -1444,7 +1433,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 视频、创作工具与科技产品案例。",
+      "why": "AI video, creative tools, and technology product examples.",
       "url": "https://x.com/xiaohu",
       "sources": [
         {
@@ -1463,7 +1452,7 @@
       "languages": [
         "zh"
       ],
-      "why": "LLM 论文、开发工具与 AI 产品资料。",
+      "why": "LLM papers, developer tools, and AI product resources.",
       "url": "https://x.com/shao__meng",
       "sources": [
         {
@@ -1482,7 +1471,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 产品体验、工作流与编程实践。",
+      "why": "AI product experiences, workflows, and programming practices.",
       "url": "https://x.com/vista8",
       "sources": [
         {
@@ -1501,7 +1490,7 @@
       "languages": [
         "zh"
       ],
-      "why": "提示词设计、语言表达与 AI 交互探索。",
+      "why": "Prompt design, language expression, and AI interaction experiments.",
       "url": "https://x.com/lijigang",
       "sources": [
         {
@@ -1520,7 +1509,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 工具使用、自动化与产品实践分享。",
+      "why": "AI tool usage, automation, and practical product workflows.",
       "url": "https://x.com/AxtonLiu",
       "sources": [
         {
@@ -1539,7 +1528,7 @@
       "languages": [
         "zh"
       ],
-      "why": "AI 产品、创业与应用场景讨论。",
+      "why": "AI products, startups, and application scenarios.",
       "url": "https://x.com/oran_ge",
       "sources": [
         {
@@ -1558,7 +1547,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型、开发平台与研究工作的官方发布。",
+      "why": "Official releases on models, developer platforms, and research.",
       "url": "https://x.com/OpenAI",
       "sources": [
         {
@@ -1577,7 +1566,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型能力、安全研究与开发资料。",
+      "why": "Model capabilities, safety research, and developer resources.",
       "url": "https://x.com/AnthropicAI",
       "sources": [
         {
@@ -1596,7 +1585,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型、开放 AI 与研究工作的官方动态。",
+      "why": "Official updates on models, open AI, and research.",
       "url": "https://x.com/AIatMeta",
       "sources": [
         {
@@ -1615,7 +1604,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型、开发接口与部署产品的官方发布。",
+      "why": "Official releases on models, developer APIs, and deployment products.",
       "url": "https://x.com/MistralAI",
       "sources": [
         {
@@ -1634,7 +1623,7 @@
       "languages": [
         "en"
       ],
-      "why": "开放模型、多模态能力与技术报告。",
+      "why": "Open models, multimodal capabilities, and technical reports.",
       "url": "https://x.com/Alibaba_Qwen",
       "sources": [
         {
@@ -1653,7 +1642,7 @@
       "languages": [
         "en"
       ],
-      "why": "模型与研究进展的官方发布。",
+      "why": "Official announcements of models and research progress.",
       "url": "https://x.com/deepseek_ai",
       "sources": [
         {
@@ -1672,7 +1661,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 研究、工具与产品的官方动态。",
+      "why": "Official updates on AI research, tools, and products.",
       "url": "https://x.com/GoogleAI",
       "sources": [
         {
@@ -1691,7 +1680,7 @@
       "languages": [
         "en"
       ],
-      "why": "语言模型与企业 AI 产品资料。",
+      "why": "Language models and enterprise AI product resources.",
       "url": "https://x.com/AI21Labs",
       "sources": [
         {
@@ -1710,7 +1699,7 @@
       "languages": [
         "en"
       ],
-      "why": "企业语言模型、检索与应用技术资料。",
+      "why": "Enterprise language models, retrieval, and application engineering resources.",
       "url": "https://x.com/cohere",
       "sources": [
         {
@@ -1729,7 +1718,7 @@
       "languages": [
         "en"
       ],
-      "why": "开放模型、科学 AI 与研究工具。",
+      "why": "Open models, AI for science, and research tools.",
       "url": "https://x.com/allen_ai",
       "sources": [
         {
@@ -1748,7 +1737,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 计算、模型部署与开发工具。",
+      "why": "AI computing, model deployment, and developer tools.",
       "url": "https://x.com/NVIDIAAI",
       "sources": [
         {
@@ -1767,7 +1756,7 @@
       "languages": [
         "en"
       ],
-      "why": "开放生成模型、图像与媒体工具动态。",
+      "why": "Open generative models, image tools, and media updates.",
       "url": "https://x.com/StabilityAI",
       "sources": [
         {
@@ -1786,7 +1775,7 @@
       "languages": [
         "en"
       ],
-      "why": "生成式 AI 使用实验、工作与教育观察。",
+      "why": "Generative AI experiments and perspectives on work and education.",
       "url": "https://x.com/emollick",
       "sources": [
         {
@@ -1805,7 +1794,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 能力边界、可靠性与批判性分析。",
+      "why": "Critical analysis of AI capabilities, limitations, and reliability.",
       "url": "https://x.com/GaryMarcus",
       "sources": [
         {
@@ -1824,7 +1813,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器学习研究与 AI 工程的解读通讯。",
+      "why": "A newsletter explaining machine learning research and AI engineering.",
       "url": "https://x.com/TheTuringPost",
       "sources": [
         {
@@ -1843,7 +1832,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 研究、模型与技术趋势的内容整理。",
+      "why": "Curated coverage of AI research, models, and technology trends.",
       "url": "https://x.com/TheSequenceAI",
       "sources": [
         {
@@ -1862,7 +1851,7 @@
       "languages": [
         "en"
       ],
-      "why": "AI 工程师访谈、技术讨论与社区内容。",
+      "why": "AI engineer interviews, technical discussions, and community content.",
       "url": "https://x.com/LatentSpacePod",
       "sources": [
         {
@@ -1881,7 +1870,7 @@
       "languages": [
         "en"
       ],
-      "why": "科技研究者访谈与长篇技术对话。",
+      "why": "Interviews with technology researchers and long-form technical conversations.",
       "url": "https://x.com/lexfridman",
       "sources": [
         {
@@ -1900,7 +1889,7 @@
       "languages": [
         "en"
       ],
-      "why": "科技公司、AI 产品与创业新闻。",
+      "why": "News on technology companies, AI products, and startups.",
       "url": "https://x.com/TechCrunch",
       "sources": [
         {
@@ -1919,7 +1908,7 @@
       "languages": [
         "en"
       ],
-      "why": "计算机科学、AI 与机器人研究发布。",
+      "why": "Research announcements in computer science, AI, and robotics.",
       "url": "https://x.com/MIT_CSAIL",
       "sources": [
         {
@@ -1938,7 +1927,7 @@
       "languages": [
         "en"
       ],
-      "why": "以人为本的 AI 研究与政策讨论。",
+      "why": "Human-centered AI research and policy discussions.",
       "url": "https://x.com/StanfordHAI",
       "sources": [
         {
@@ -1957,7 +1946,7 @@
       "languages": [
         "en"
       ],
-      "why": "机器学习课程、AI 教育与技术资讯。",
+      "why": "Machine learning courses, AI education, and technology news.",
       "url": "https://x.com/DeepLearningAI",
       "sources": [
         {
@@ -1966,7 +1955,8 @@
           "checked_at": "2026-09-13"
         }
       ],
-      "notes": "较新的 X 页面使用 @DeepLearningAI；早期资料中的用户名带末尾下划线。"
+      "notes": "Newer X pages use @DeepLearningAI; older references include a trailing underscore."
     }
-  ]
+  ],
+  "default_locale": "en"
 }

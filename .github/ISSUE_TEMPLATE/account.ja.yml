@@ -1,0 +1,48 @@
+name: "日本語 · アカウントの推薦"
+description: "AI、LLM、エージェント、技術分野の公開アカウントを推薦"
+title: "[Account] "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "名前または組織名"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "Xプロフィールの完全なURL"
+      placeholder: "https://x.com/handle"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: "アカウントの種類"
+      options:
+        - "個人"
+        - "組織"
+        - "メディア"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "分野と推薦理由"
+      description: "人気だけでなく具体的な仕事や役立つ内容を説明してください。"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "一次資料"
+      description: "本人・組織のページ、またはそのアカウント自身のX投稿を示してください。"
+    validations:
+      required: true
+  - type: input
+    id: relation
+    attributes:
+      label: "アカウントとの関係"
+      placeholder: "なし / 本人 / 同僚 / その他"
+    validations:
+      required: true

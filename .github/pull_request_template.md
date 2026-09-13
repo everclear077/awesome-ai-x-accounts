@@ -1,22 +1,30 @@
-## 改变了什么
+## Change and reason
 
-说明新增、修改或移除了哪些账号/功能，以及原因。
+Describe the affected accounts or behavior and the reason for this change.
+Guides: [English](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.md) · [中文](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.zh-CN.md) ·
+[한국어](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ko.md) · [日本語](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ja.md) · [Русский](https://github.com/everclear077/awesome-ai-x-accounts/blob/main/CONTRIBUTING.ru.md)
 
-## 来源与核对
+## Evidence and translations
 
-提供实际检查的来源；注明是 X 索引证据还是本人/组织的外链。
-更名应附旧入口与新入口。不要把网络不可达写成账号不存在。
+For account changes, provide the sources actually examined and distinguish X index
+evidence from owner-controlled links. Include old and new handles for migrations.
+A login wall does not establish deletion. Explain translation review and any source
+digest updates. Preserve posting languages, names, and actual source review dates.
 
-## 验证
+## Validation
 
-- [ ] 修改了源数据/模板，并重新生成输出
+- [ ] Edited canonical data, locale resources, or templates and regenerated outputs
+- [ ] Updated all five editions, including notes and affected public guides
 - [ ] `python scripts/catalog.py check`
 - [ ] `python -m unittest discover -s tests -v`
 - [ ] `git diff --check`
-- [ ] 检查了生成的 README、链接与图片（如有变化）
+- [ ] Reviewed changed pages, navigation, and images on desktop and mobile
 
-## 关系与不确定性
+Main requires current Catalog checks and resolved conversations. Merge through this
+PR without bypassing protection.
 
-自荐/商业关系：无 / 请说明
-使用 AI 辅助及人工或工具核验方式：
-尚未解决的问题：
+## Relationships and uncertainty
+
+Self-nomination or commercial relationship:
+AI assistance and verification performed:
+Unresolved questions:
