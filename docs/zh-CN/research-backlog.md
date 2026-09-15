@@ -6,16 +6,12 @@
 
 以下候选等待补充资料后加入目录，不计入正式账号数。
 
-清单日期：2026-09-13。按[账号 PR 流程](../../CONTRIBUTING.zh-CN.md)添加后，请移除相应候选。
+清单日期：2026-09-14。按[账号 PR 流程](../../CONTRIBUTING.zh-CN.md)添加后，请移除相应候选。
 
 | 待添加账号 | 用户名 |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |

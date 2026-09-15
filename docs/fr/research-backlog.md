@@ -6,16 +6,12 @@
 
 Ces candidats attendent leurs données de profil avant inclusion. Ils ne sont pas comptés dans l’annuaire.
 
-Date de la liste : 2026-09-13. Suivez la [procédure de PR](../../CONTRIBUTING.fr.md), puis retirez le candidat ajouté.
+Date de la liste : 2026-09-14. Suivez la [procédure de PR](../../CONTRIBUTING.fr.md), puis retirez le candidat ajouté.
 
 | Compte en attente | Identifiant |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@ Date de la liste : 2026-09-13. Suivez la [procédure de PR](../../CONTRIBUTING.f
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |

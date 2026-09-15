@@ -188,6 +188,17 @@ def md(value: str) -> str:
     return "".join("\\" + c if c in special else c for c in escaped)
 
 
+def format_followers(count: int | None) -> str:
+    """X-style compact follower display for README tables; JSON/CSV keep exact ints."""
+    if count is None:
+        return "—"
+    if count < 1000:
+        return str(count)
+    if count < 1_000_000:
+        return f"{count / 1000:.1f}K".replace(".0K", "K")
+    return f"{count / 1_000_000:.1f}M".replace(".0M", "M")
+
+
 def bio_markdown(value: str | None) -> str:
     if value is None or value == "":
         return "—"
@@ -316,7 +327,7 @@ def generate(data: dict, template: str, locales: dict, backlog: dict) -> dict[st
                 if account["category"] != cid:
                     continue
                 identity = f'**{bio_markdown(account["name"])}**<br />[@{md(account["handle"])}]({account["url"]})'
-                followers = "—" if account["followers_count"] is None else f'{account["followers_count"]:,}'
+                followers = format_followers(account["followers_count"])
                 sections.append(f'| {identity} | {bio_markdown(account["bio"])} | {followers} |')
             sections += ["", f'[↑ {ui["back"]}](#directory)', ""]
         exports = [f'| {ui["format"]} | {ui["use"]} |', "| --- | --- |"]

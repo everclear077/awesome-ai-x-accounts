@@ -6,16 +6,12 @@
 
 These candidates await profile data before being added to the directory. They are not included in its account count.
 
-Queue date: 2026-09-13. Follow the [account PR process](../CONTRIBUTING.md) to add a candidate and remove its queue entry.
+Queue date: 2026-09-14. Follow the [account PR process](../CONTRIBUTING.md) to add a candidate and remove its queue entry.
 
 | Pending account | Handle |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@ Queue date: 2026-09-13. Follow the [account PR process](../CONTRIBUTING.md) to a
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |
