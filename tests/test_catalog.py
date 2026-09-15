@@ -9,7 +9,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from scripts.catalog import (
-    CatalogError, LOCALES, PUBLIC_DOCS, ROOT, bio_markdown, check_local_links, generate,
+    CatalogError, LOCALES, PUBLIC_DOCS, ROOT, bio_markdown, check_local_links, format_followers, generate,
     load_backlog, load_catalog, load_locales, localized_path, validate, validate_locales,
 )
 from scripts.fetch_profiles import main as fetch_main, parse_profile
@@ -76,7 +76,42 @@ class CatalogTests(unittest.TestCase):
         self.assertIn("| — | 0 |", output["README.md"])
         self.assertIn("| — | — |", output["README.md"])
 
+    def test_format_followers_compact_x_style(self):
+        cases = [
+            (None, "—"),
+            (0, "0"),
+            (999, "999"),
+            (1000, "1K"),
+            (1200, "1.2K"),
+            (12329, "12.3K"),
+            (12000, "12K"),
+            (51967, "52K"),
+            (728759, "728.8K"),
+            (999_999, "1000K"),
+            (1_000_000, "1M"),
+            (1_877_244, "1.9M"),
+            (4_150_350, "4.2M"),
+            (10_900_000, "10.9M"),
+        ]
+        for count, expected in cases:
+            with self.subTest(count=count):
+                self.assertEqual(format_followers(count), expected)
+
+    def test_readme_uses_compact_followers_not_commas(self):
+        self.data["accounts"][0]["followers_count"] = 12329
+        self.data["accounts"][1]["followers_count"] = 1877244
+        output = self.render()
+        self.assertIn("| 12.3K |", output["README.md"])
+        self.assertIn("| 1.9M |", output["README.md"])
+        self.assertNotIn("12,329", output["README.md"])
+        self.assertNotIn("1,877,244", output["README.md"])
+        rows = list(csv.DictReader(io.StringIO(output["data/accounts.csv"].lstrip("\ufeff"))))
+        by_handle = {r["handle"]: r for r in rows}
+        self.assertEqual(by_handle[self.data["accounts"][0]["handle"]]["followers_count"], "12329")
+        self.assertEqual(by_handle[self.data["accounts"][1]["handle"]]["followers_count"], "1877244")
+
     def test_invalid_follower_values_rejected(self):
+
         for value in (-1, 1.5, True, "1.2M", "1000"):
             with self.subTest(value=value):
                 self.data["accounts"][0]["followers_count"] = value

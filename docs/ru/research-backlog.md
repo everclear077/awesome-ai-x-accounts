@@ -6,16 +6,12 @@
 
 Эти кандидаты ожидают сбора профильных данных перед добавлением и не входят в опубликованный счётчик.
 
-Дата очереди: 2026-09-13. Добавьте аккаунт по [процессу PR](../../CONTRIBUTING.ru.md) и удалите его из очереди.
+Дата очереди: 2026-09-14. Добавьте аккаунт по [процессу PR](../../CONTRIBUTING.ru.md) и удалите его из очереди.
 
 | Ожидающий аккаунт | Имя пользователя |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |

@@ -6,16 +6,12 @@
 
 以下はプロフィール情報を補ってから追加する候補で、公開件数には含めません。
 
-一覧日付：2026-09-13。[アカウント PR 手順](../../CONTRIBUTING.ja.md)で追加したら、該当候補を削除します。
+一覧日付：2026-09-14。[アカウント PR 手順](../../CONTRIBUTING.ja.md)で追加したら、該当候補を削除します。
 
 | 追加待ちアカウント | ユーザー名 |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |

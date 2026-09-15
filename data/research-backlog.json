@@ -1,17 +1,9 @@
 {
-  "research_date": "2026-09-13",
+  "research_date": "2026-09-14",
   "candidates": [
-    {
-      "name": "David Ha",
-      "handle": "hardmaru"
-    },
     {
       "name": "Richard Sutton",
       "handle": "RichardSSutton"
-    },
-    {
-      "name": "Tri Dao",
-      "handle": "TriDao"
     },
     {
       "name": "Vicki Boykis",
@@ -30,10 +22,6 @@
       "handle": "sindresorhus"
     },
     {
-      "name": "Clément Delangue",
-      "handle": "ClementDelangue"
-    },
-    {
       "name": "Tim Dettmers",
       "handle": "Tim_Dettmers"
     },
@@ -50,20 +38,12 @@
       "handle": "pabbeel"
     },
     {
-      "name": "Figure",
-      "handle": "Figure_robot"
-    },
-    {
       "name": "Arthur Mensch",
       "handle": "arthurmensch"
     },
     {
       "name": "李开复",
       "handle": "kaifulee"
-    },
-    {
-      "name": "Jack Clark",
-      "handle": "jackclarkSF"
     }
   ]
 }

@@ -6,16 +6,12 @@
 
 다음 후보는 프로필 데이터를 보충한 뒤 등록할 계정이며 공개 계정 수에 포함되지 않습니다.
 
-목록 날짜: 2026-09-13. [계정 PR 절차](../../CONTRIBUTING.ko.md)에 따라 추가하고 해당 후보를 제거합니다.
+목록 날짜: 2026-09-14. [계정 PR 절차](../../CONTRIBUTING.ko.md)에 따라 추가하고 해당 후보를 제거합니다.
 
 | 추가 대기 계정 | 사용자 이름 |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |

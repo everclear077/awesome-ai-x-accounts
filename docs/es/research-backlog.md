@@ -6,16 +6,12 @@
 
 Estos candidatos esperan datos de perfil antes de añadirse y no se incluyen en el contador publicado.
 
-Fecha de la lista: 2026-09-13. Sigue el [proceso de PR](../../CONTRIBUTING.es.md) y elimina al candidato una vez añadido.
+Fecha de la lista: 2026-09-14. Sigue el [proceso de PR](../../CONTRIBUTING.es.md) y elimina al candidato una vez añadido.
 
 | Cuenta pendiente | Identificador |
 | --- | --- |
 | Arthur Mensch | arthurmensch |
 | Charles Frye | charles\_irl |
-| Clément Delangue | ClementDelangue |
-| Figure | Figure\_robot |
-| David Ha | hardmaru |
-| Jack Clark | jackclarkSF |
 | 李开复 | kaifulee |
 | Luma AI | LumaLabsAI |
 | Pieter Abbeel | pabbeel |
@@ -24,5 +20,4 @@ Fecha de la lista: 2026-09-13. Sigue el [proceso de PR](../../CONTRIBUTING.es.md
 | Sindre Sorhus | sindresorhus |
 | Tim Dettmers | Tim\_Dettmers |
 | Together AI | togethercompute |
-| Tri Dao | TriDao |
 | Vicki Boykis | vboykis |
